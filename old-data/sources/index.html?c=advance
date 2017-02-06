@@ -1,0 +1,758 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="utf-8">
+	<title>
+		Who Owns What - Columbia Journalism Review
+	</title>
+    <meta name="theme-color" content="#f9f0e1">
+    <link rel="apple-touch-icon-precomposed" href="/_resources2015/img/favicon-152.png">
+    <meta name="msapplication-TileColor" content="#f9f0e1">
+    <meta name="msapplication-TileImage" content="/_resources2015/img/favicon-144.png">
+	<link rel="shortcut icon" href="/cjr-icon-2.ico">
+    
+    <!-- css -->
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
+	<link rel="stylesheet" href="../_resources2015/css/bootstrap.css">
+	<link href="../_resources2015/css/cjrcorestyles.css" rel="stylesheet">
+    <link href="../_resources2015/css/cjrnavstyles.css" rel="stylesheet">
+    <link href="../_resources2015/css/cjrnavstyles_add_on.css" rel="stylesheet">
+    <link href="../_resources2015/css/who_owns_what.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="../_resources2015/fonts/commercial-type-1502-AFHEEU-web/1502-AFHEEU.css">
+    
+	<!-- advertising -->
+    
+    <script type='text/javascript'>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') + 
+    '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+    })();
+    </script>
+    
+	
+    <script type='text/javascript'>
+    googletag.cmd.push(function() {
+    googletag.defineSlot('/3562084/CJR_728x90_2015_article', [728, 90], 'div-gpt-ad-1424816910788-0').addService(googletag.pubads());
+	googletag.defineSlot('/3562084/CJR_300x250_2015_article', [300, 250], 'div-gpt-ad-1424816285842-0').addService(googletag.pubads());
+	googletag.defineSlot('/3562084/CJR_700x500_TEST', [700, 500], 'div-gpt-ad-1374535322548-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+    });
+    </script>
+    
+    <link rel="stylesheet" type="text/css" href="/_resourcesbeta/css/interstitial_full_sail.css" />
+	<script type="text/javascript" src="/interstitial_full_sail_2_on.js">
+    /***********************************************
+    * Interstitial Content Box- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+    * This notice MUST stay intact for legal use
+    * Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+    ***********************************************/
+    </script> 
+    
+ 
+    
+</head>
+<body>
+
+	<!-- <div class="row ad">
+            <img class="banner-ad col-sm-8 col-sm-offset-2" src="http://placehold.it/728x90" />
+    </div> -->
+        
+    <!-- top nav section -->
+    <div class="row largelogo">
+            <center><a href="http://www.cjr.org/index.php"><img class="largelogoimage" src="http://archives.cjr.org/_resources2015/img/cjr_full_logo.png" border="0" /></a></center>
+    </div>
+    
+    <nav class="nocontent slideout899 navbar-static-top hidden-print">
+      <ul class="list-unstyled main-menu">
+        <li class="text-right"><a href="#" id="nav-close"><img src="http://archives.cjr.org/_resources2015/img/x_close.png" style="width:20px !important; height:21px !important; margin-top: -10px !important;"></a></li>
+        <li><a href="http://www.cjr.org/search_new.php"><span class="glyphicon glyphicon-search" aria-hidden="true"></span> &nbsp;Search</a></li>
+        <li><a href="http://www.cjr.org/index.php">Home</a></li>
+        <li><a href="http://www.cjr.org/watchdog/">Watchdog</a></li>
+        <li><a href="http://www.cjr.org/local_news/">Local News</a></li>
+        <li class="election-nav-mobile"><a href="http://www.cjr.org/covering-trump/">Covering Trump</a></li>
+        <li><a href="http://www.cjr.org/innovations/">Innovations</a></li>
+        <li><a href="http://www.cjr.org/business_of_news/">Business of News</a></li>
+        <li>
+          <ul class="list-unstyled subnav">
+          	  <li class="sub-nav"><a href="http://www.cjr.org/magazine/">New Issue!</a></li>
+              <li class="sub-nav"><a href="http://www.cjr.org/b-roll/">B-Roll</a></li>
+              <li class="sub-nav"><a href="http://www.cjr.org/special_report/">Special Report</a></li>
+              <li class="sub-nav"><a href="http://www.cjr.org/tow-center/">Tow Center</a></li>
+              <li class="sub-nav"><a href="http://www.cjr.org/the_second_opinion/">The Second Opinion</a></li>
+              <li class="sub-nav"><a href="http://www.cjr.org/about_us/mission_statement.php">About Us</a></li>
+              <li class="sub-nav"><a href="http://www.cjr.org/join/membership.php">Join</a></li>
+              <li class="sub-nav"><a href="http://www.cjr.org/contact/donate.php">Donate</a></li>
+              <li class="sub-nav"><a href="http://www.cjr.org/advertise/about_our_readers.php">Advertise</a></li>
+              <li class="sub-nav"><a href="http://www.cjr.org/mailbox/">Mailbox</a></li>
+              <li class="sub-nav"><a href="http://www.cjr.org/resources/">Resources</a></li>
+              <li class="sub-nav-social sub-nav-social-top"><a href="https://www.facebook.com/columbiajournalismreview">Facebook</a></li>
+              <li class="sub-nav-social"><a href="https://twitter.com/CJR">Twitter</a></li>
+              <li class="sub-nav-social"><a href="https://www.instagram.com/columbiajournalismreview/">Instagram</a></li>
+              <li class="sub-nav-social"><a href="https://itunes.apple.com/us/podcast/the-kicker/id1178127323?mt=2" target="_blank">Podcast</a></li>
+          </ul>
+        </li>
+ 
+      </ul>
+    </nav>
+    
+	<section id="tablet-nav" class="back-tablet hidden-print">   
+      <div class="navbar navbar-inverse navbar-static-top hidden-print">      
+          <a class="navbar-brand" href="http://www.cjr.org/index.php"><img src="http://archives.cjr.org/_resources2015/img/cjr-icon-50.gif"></a>
+          <div class="navbar-header pull-right">
+            <a id="nav-expander" class="nav-expander static">
+              <span class="glyphicon glyphicons-menu-hamburger" aria-hidden="true"></span>
+            </a>
+          </div>
+      </div>
+	</section>  
+  
+    <section id="bignav" class="hidden-print">
+    
+		<div class="nocontent container-fluid nav-align">
+            
+            <div class="nocontent nav-container-full">
+            
+            <ul class="navbar-nav nav nav-left-only">
+                <li><a class="nav-first-link" href="http://www.cjr.org/watchdog/">WATCHDOG</a></li>
+                <li><a href="http://www.cjr.org/local_news/">LOCAL NEWS</a></li>
+                <li class="election-nav"><a href="http://www.cjr.org/covering-trump/">COVERING TRUMP</a></li>
+                <li><a href="http://www.cjr.org/innovations/">INNOVATIONS</a></li>
+                <li><a href="http://www.cjr.org/business_of_news/">BUSINESS OF NEWS</a></li>
+                <li role="presentation" class="dropdown">
+                  <a class="dropdown-toggle more-button" data-toggle="dropdown" href="#" role="button" aria-expanded="false">
+                    MORE <span class="caret bignav"></span>
+                  </a>
+                  <ul class="dropdown-menu" role="menu">
+                  	<li class="new-issue"><a href="http://www.cjr.org/magazine/">New Issue!</a></li>
+                    <li><a href="http://www.cjr.org/b-roll/">B&ndash;Roll</a></li>
+                    <li><a href="http://www.cjr.org/special_report/">Special Report</a></li>
+                    <li><a href="http://www.cjr.org/tow-center/">Tow Center</a></li>
+                    <li><a href="http://www.cjr.org/the_second_opinion/">The Second Opinion</a></li>
+                    <li><a href="http://www.cjr.org/about_us/mission_statement.php">About Us</a></li>
+                    <li><a href="http://www.cjr.org/join/membership.php">Join</a></li>
+                    <li><a href="http://www.cjr.org/contact/donate.php">Donate</a></li>
+                    <li><a href="http://www.cjr.org/advertise/about_our_readers.php">Advertise</a></li>
+                    <li><a href="http://www.cjr.org/mailbox/">Mailbox</a></li>
+                    <li class="last"><a href="http://www.cjr.org/resources/">Resources</a></li>
+                  </ul>
+                </li>
+                
+            </ul>
+            
+            <ul class="nav navbar-nav navbar-right">
+                <div id="search-box" class="row hidden">
+                
+                <form id="search" action="https://archives.cjr.org/search.php">
+                <input type="hidden" name="cx" value="002110349687880336610:9r4jniuv6ko" />
+                <input type="hidden" name="cof" value="FORID:11" />
+                <input type="hidden" name="ie" value="UTF-8" />
+                    <fieldset>
+                        <input type="text" class="text" defaultvalue=" " name="q" value=" Search..." onFocus="if (this.value==' Search...') this.value='';" />
+                    </fieldset>
+                </form>
+                
+                </div>
+                <li id="search-icon" data-target="#search-box" class="navglyph"><a href="#"><span class="glyphicon glyphicon-search" aria-hidden="true" title="Search"></span></a></li>
+                <li class="navglyph"><a href="https://www.facebook.com/columbiajournalismreview" target="_blank" title="Facebook"><span class="socicon">b</span></a></li>
+                <li class="navglyph"><a href="https://twitter.com/CJR" target="_blank" title="Twitter"><span class="socicon">a</span></a></li>
+                <li class="navglyph"><a href="https://www.instagram.com/columbiajournalismreview/" target="_blank" title="Instagram"><span class="socicon">x</span></a></li>
+                <li class="navglyph last"><a href="https://itunes.apple.com/us/podcast/the-kicker/id1178127323?mt=2" target="_blank"><span class="glyphicon glyphicons-podcast" aria-hidden="true" title="Podcast"></span></a></li>
+            </ul>
+                     
+            </div>  
+        
+        </div>
+        
+
+    </section>	
+	<section id="stack" class="stack-static">
+    	
+		<div class="container-fluid firstcontent">
+			<div class="row">
+				<div class="col-sm-8 col-sm-offset-2">
+                
+					<h3>Resources</h3>
+	
+					<p>
+                    
+					<a href="index.php">Who Owns What <span class="glyphicon glyphicon-chevron-right static-arrow"></span></a><br>
+                    
+                    <a href="http://www.cjr.org/the_delacorte_lectures/all.php">The Delacorte Lectures <span class="glyphicon glyphicon-chevron-right static-arrow"></span></a><br>
+
+					<a href="http://www.cjr.org/resources/magazines_and_their_websites/index.php">Magazines and Their Websites: A Columbia Journalism Review Survey and Report <span class="glyphicon glyphicon-chevron-right static-arrow"></span></a><br>
+					
+					<a href="studyguides/index.php">Study Guides <span class="glyphicon glyphicon-chevron-right static-arrow"></span></a><br>
+                   
+                    </p>
+                    
+                    <p><hr noshade size="1" width="40%" align="left" /></p>
+                    
+                    <p><strong><i>CJR's</i> guide to what the major media companies own.</strong></p>
+				
+					<p>Select a media company below to begin.</p>
+                    
+                    <p>
+              
+                        <select id="who-owns-what-menu-2" name=tags onChange="MM_jumpMenu('parent',this,1)" class="dropdown">
+                                
+                            <option>Select a media company...</option>
+            
+                            <option>&nbsp;</option>
+            
+                                                            <option value="http://www.cjr.org/resources/?c=21st_century_fox">21st Century Fox</option>
+                                                                <option value="http://www.cjr.org/resources/?c=advance">Advance Publications</option>
+                                                                <option value="http://www.cjr.org/resources/?c=ah_belo_corporation">A.H. Belo Corporation</option>
+                                                                <option value="http://www.cjr.org/resources/?c=amc_networks">AMC Networks</option>
+                                                                <option value="http://www.cjr.org/resources/?c=american">American Media, Inc.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=astral">Astral Media</option>
+                                                                <option value="http://www.cjr.org/resources/?c=belo">Belo Corporation</option>
+                                                                <option value="http://www.cjr.org/resources/?c=bertelsmann">Bertelsmann AG</option>
+                                                                <option value="http://www.cjr.org/resources/?c=cablevision">Cablevision </option>
+                                                                <option value="http://www.cjr.org/resources/?c=canwest">CanWest Global Communications</option>
+                                                                <option value="http://www.cjr.org/resources/?c=cbs">CBS</option>
+                                                                <option value="http://www.cjr.org/resources/?c=cisneros">Cisneros</option>
+                                                                <option value="http://www.cjr.org/resources/?c=citadel">Citadel Broadcasting Corporation</option>
+                                                                <option value="http://www.cjr.org/resources/?c=clearchannel">Clear Channel Communications</option>
+                                                                <option value="http://www.cjr.org/resources/?c=comcast">Comcast</option>
+                                                                <option value="http://www.cjr.org/resources/?c=cnhi">Community Newspaper Holdings, Inc. </option>
+                                                                <option value="http://www.cjr.org/resources/?c=copley">Copley Press Inc.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=corus">Corus Entertainment</option>
+                                                                <option value="http://www.cjr.org/resources/?c=cox">Cox Enterprises</option>
+                                                                <option value="http://www.cjr.org/resources/?c=cumulus">Cumulus Media Inc.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=dowjones">Dow Jones Corporation</option>
+                                                                <option value="http://www.cjr.org/resources/?c=emmis">Emmis Communications</option>
+                                                                <option value="http://www.cjr.org/resources/?c=entercom">Entercom Communications</option>
+                                                                <option value="http://www.cjr.org/resources/?c=fisher">Fisher Communications</option>
+                                                                <option value="http://www.cjr.org/resources/?c=freedom">Freedom Communications</option>
+                                                                <option value="http://www.cjr.org/resources/?c=gannett">Gannett Co., Inc.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=gatehouse_media">GateHouse Media., Inc.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=ge">General Electric</option>
+                                                                <option value="http://www.cjr.org/resources/?c=hachette">Hachette Filipacchi Media U.S.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=halifax">Halifax Media Group</option>
+                                                                <option value="http://www.cjr.org/resources/?c=hearst">Hearst Corporation</option>
+                                                                <option value="http://www.cjr.org/resources/?c=hollinger">Hollinger International, Inc.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=journalregister">Journal Register Company</option>
+                                                                <option value="http://www.cjr.org/resources/?c=knight_ridder">Knight Ridder</option>
+                                                                <option value="http://www.cjr.org/resources/?c=landmark">Landmark Community Newspapers, LLC</option>
+                                                                <option value="http://www.cjr.org/resources/?c=lee">Lee Enterprises</option>
+                                                                <option value="http://www.cjr.org/resources/?c=liberty">Liberty Group Publishing</option>
+                                                                <option value="http://www.cjr.org/resources/?c=libertyinteractive">Liberty Interactive Corporation</option>
+                                                                <option value="http://www.cjr.org/resources/?c=libertymedia">Liberty Media Corporation</option>
+                                                                <option value="http://www.cjr.org/resources/?c=lin_media">LIN Media</option>
+                                                                <option value="http://www.cjr.org/resources/?c=lintv">LIN TV Corporation</option>
+                                                                <option value="http://www.cjr.org/resources/?c=mcclatchy">The McClatchy Company </option>
+                                                                <option value="http://www.cjr.org/resources/?c=mcgraw">The McGraw-Hill Companies </option>
+                                                                <option value="http://www.cjr.org/resources/?c=mediageneral">Media General, Inc.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=medianews">MediaNews Group</option>
+                                                                <option value="http://www.cjr.org/resources/?c=meredith">Meredith Corporation</option>
+                                                                <option value="http://www.cjr.org/resources/?c=morris">Morris Communications Corporation</option>
+                                                                <option value="http://www.cjr.org/resources/?c=newscorp">News Corp</option>
+                                                                <option value="http://www.cjr.org/resources/?c=nyt">The New York Times Company</option>
+                                                                <option value="http://www.cjr.org/resources/?c=newsworld">News World Communications</option>
+                                                                <option value="http://www.cjr.org/resources/?c=news_world_media_development">News World Media Development</option>
+                                                                <option value="http://www.cjr.org/resources/?c=pearson">Pearson</option>
+                                                                <option value="http://www.cjr.org/resources/?c=postmedia_network">Postmedia Network</option>
+                                                                <option value="http://www.cjr.org/resources/?c=pulitzer">Pulitzer, Inc.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=raycom_media">Raycom Media</option>
+                                                                <option value="http://www.cjr.org/resources/?c=reed">Reed Elsevier</option>
+                                                                <option value="http://www.cjr.org/resources/?c=rentpath">RentPath, Inc.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=rogers">Rogers Communications</option>
+                                                                <option value="http://www.cjr.org/resources/?c=scripps">The E.W. Scripps Company</option>
+                                                                <option value="http://www.cjr.org/resources/?c=scripps_networks_interactive">Scripps Networks Interactive</option>
+                                                                <option value="http://www.cjr.org/resources/?c=shaw_media">Shaw Media</option>
+                                                                <option value="http://www.cjr.org/resources/?c=sinclair">Sinclair Broadcast Group</option>
+                                                                <option value="http://www.cjr.org/resources/?c=sony">Sony Corporation</option>
+                                                                <option value="http://www.cjr.org/resources/?c=standard">Standard Radio</option>
+                                                                <option value="http://www.cjr.org/resources/?c=stephens">Stephens Media Group</option>
+                                                                <option value="http://www.cjr.org/resources/?c=sun-times_media">Sun Times Media</option>
+                                                                <option value="http://www.cjr.org/resources/?c=timewarner">Time Warner</option>
+                                                                <option value="http://www.cjr.org/resources/?c=tribune">Tribune Company</option>
+                                                                <option value="http://www.cjr.org/resources/?c=viacom">Viacom, Inc.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=vivendi">Vivendi</option>
+                                                                <option value="http://www.cjr.org/resources/?c=vulcan">Vulcan, Inc.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=disney">The Walt Disney Company</option>
+                                                                <option value="http://www.cjr.org/resources/?c=washpost">The Washington Post Company</option>
+                                                                <option value="http://www.cjr.org/resources/?c=youngbroadcasting">Young Broadcasting</option>
+                                            
+                        </select>
+                       
+                      <br /><br /></p>
+                              
+                      <p id="company-data-loading">Loading...</p>
+                      
+                      <div id="company-data">
+                        
+                            <dl id="media-company-address">
+	<dt>Advance Publications</dt>
+	<dd class="ownership">Advance
+Publications is a privately held company</dd>
+	<dd class="url"><a target="_blank" href="http://www.advance.net">www.advance.net</a></dd>
+</dl>
+
+<ul id="nav-who-owns-what" class="holdings">
+	<li class="holdings"><a href="#" onclick="selectCompanyView('holdings'); return false;">Holdings</a></li>
+	<li class="timeline"><a href="#" onclick="selectCompanyView('timeline'); return false;">Timeline</a></li>
+</ul>
+
+<dl id="media-company-timeline">
+
+<dt>1895</dt>
+<dd>Solomon Neuhaus born in New York City. Later changes name to Samuel Irving Newhouse (Si).</dd>
+
+
+
+<dt class="section-separator">1911</dt>
+<dd class="section-separator">Newhouse works his way up from office boy to managing the <em>Bayonne Times</em> </dd>
+
+
+              <dt>1920</dt>
+<DD>Newhouse purchases a stake in the <em>Fitchburg Daily News</em>.  Newhouse owns the paper for less than a year. After struggling with circulation and revenue, Newhouse makes a deal with the other newspaper in town, <em>The Sentinel</em>, to be bought out.  The owner of the <em>Sentinel</em> pays $15,000 to have the <em>Daily News</em> go out of business to ensure that there is only one newspaper remaining.</dd>
+
+<dt>1922</dt>
+<dd>Newhouse purchases stake in the<em> Staten Island Advance</em> </dd>
+
+			 <dt>1923</dt>
+<dd>Newhouse takes over the position of publisher of <em>Staten Island Advance</em> </dd>
+
+
+			  <dt class="section-separator">1932</dt>
+<dd class="section-separator">Newhouse purchases a 51% stake in the <em>Long Island Press</em> from the Ridder brothers for $600,000 </dd>
+
+					 <dt>1934</dt>
+<dd>Newhouse purchases a 51% stake in the <em>Newark Ledger</em> for $310,000 </dd>
+
+					 <dt>1939</dt>
+<dd>Newhouse purchases two Syracuse, NY newspapers, the <em>Herald</em> and <em>Journal</em> (from William Randolph Hearst).  Both newspapers are combined to form <em>The Syracuse Herald-Journal</em> </dd>
+
+					 <dt>1939</dt>
+<dd>Newhouse purchases the <em>Newark Star-Eagle</em>. Combines both newspapers in Newark to form <em>The Star-Ledger</em> </dd>
+
+
+
+<dt class="section-separator">1942</dt>
+<dd class="section-separator">Newhouse purchases <em>Syracuse Post-Standard</em>. Announcement of purchase is delayed until 1944 to avoid criticism from employees that the Syracuse papers would be merged and jobs cut </dd>
+
+					   <dt>1945</dt>
+<dd>Newhouse purchases stake in the <em>Jersey Journal</em> </dd>
+
+					   <dt>1947</dt>
+<dd>Newhouse associate Edwin Russell purchases the Harrisburg <em>Patriot</em> and <em>Evening News</em> </dd>
+
+					   <dt>1948</dt>
+<dd>Newhouse purchases the <em>Harrisburg Telegraph</em>.  Less than two months later the newspaper goes out of business </dd>
+
+
+<dt class="section-separator">1950</dt>
+<dd class="section-separator">Newhouse purchases <em>The Oregonian</em> for $5.6 million, at the time the largest newspaper sale ever </dd>
+
+					 <dt>1955</dt>
+<dd>Newhouse purchases <em>St. Louis Globe-Democrat</em> for $6.5 million, another record </dd>
+
+					 <dt>1955</dt>
+<dd>Newhouse purchases <em>Birmingham News</em> and  <em>Huntsville Times</em> for a combined $18.7 million, another record </dd>
+
+					 <dt>1959</dt>
+<dd>
+
+		Newhouse acquires Street &amp; Smith magazine group </dd>
+
+					 <dt>1959</dt>
+<dd>Newhouse acquires Conde Nast magazine group </dd>
+
+
+
+<dt class="section-separator">1961</dt>
+<dd class="section-separator">Newhouse acquires the <em>Oregon Journal</em> for $8 Million </dd>
+
+					   <dt>1962</dt>
+<dd>Newhouse purchases New Orleans Times-Picayune newspaper group (includes the <em>Times-Picayune</em> and <em>States-Item</em>) for $42 million, another record
+
+					</dd>
+
+					   <dt>1962</dt>
+<dd>Samuel Newhouse appears on the July 27 cover of <em>Time</em> magazine </dd>
+
+					   <dt>1964</dt>
+<dd>Syracuse dedicates its new School of Communications Center in the name of Samuel Newhouse, the largest gift to Syracuse by a living donor </dd>
+
+					   <dt>1966</dt>
+<dd>Newhouse acquires three Springfield (Mass) newspapers <em>News</em>, <em>Republican</em>, and <em>Union</em> </dd>
+
+					   <dt>1966</dt>
+<dd>Newhouse acquires <em>Mobile Register</em>, <em>Mobile Press</em> and <em>Mississippi Press-Register </em>
+
+					</dd>
+
+					<dt>1967</dt>
+<dd>Newhouse purchases the <em>Cleveland Plain-Dealer</em> for $54.2 million, another record </dd>
+
+<dt class="section-separator">1976</dt>
+<dd class="section-separator">Newhouse gains total ownership of the eight Booth newspapers and <em>Parade</em> Magazine for $305 million </dd>
+
+					 <dt>1977</dt>
+<dd><em>Long Island Press</em> ceases operations </dd>
+
+					 <dt>1979</dt>
+<dd>Samuel Sr. dies from complications of a stroke.  Si Jr. controls the magazine operations while Donald Newhouse oversees the newspapers. </dd>
+
+<dt class="section-separator">1980</dt>
+<dd class="section-separator">Advance Publications purchases Random House book publishers from RCA for $70 million</dd> 
+
+<dt>1980</dt>
+<dd>Advance sells five television stations to the Times Mirror Publishing Company for $82 million. Part of the funds from the sale helps Advance purchase cable television systems</dd> 
+
+<dt>1980</dt>
+<dd>New Orleans <em>Times-Picayune</em> merges with the <em>Statesman</em></dd> 
+
+<dt>1981</dt>
+<dd>Advance has over 500,000 cable television subscribers</dd> 
+
+<dt>1982</dt>
+<dd>Advance purchases Fawcett Books from CBS </dd> 
+
+<dt>1982</dt>
+<dd>Portland <em>Oregon Journal</em> merges with the <em>Oregonian</em> </dd> 
+
+<dt>1982</dt>
+<dd><em>Cleveland Press</em> ceases operations. Advance's Cleveland Plain-Dealer becomes the city's only daily newspaper.  Allegations are made against Si. Jr. and Donald that they paid <em>The Press</em>' owner Joseph Cole to go out of business</dd> 
+
+<dt>1983</dt>
+<dd>Advance re-launches <em>Vanity Fair</em> as a glossy celebrity magazine</dd> 
+
+<dt>1984</dt>
+<dd>Advance sells the <em>St. Louis Globe-Democrat </em></dd> 
+
+<dt>1985</dt>
+<dd>A grand jury begins an anti-trust investigation centering on Advance's role in the demise of the <em>Cleveland Press</em>. Charges are never filed</dd> 
+
+<dt>1986</dt>
+<dd>Random House acquires Fodor's Travel Guides</dd> 
+
+<dt>1988</dt>
+<dd>Random House buys Crown Publishing Group</dd>
+
+<dt class="section-separator">1995</dt>
+<dd class="section-separator">Newhouse and Time Warner Cable combine cable systems to create large clusters</dd> 
+
+<dt>1998</dt>
+<dd>Advance Publications sells the Random House-Alfred A. Knopf-Crown Publishing group to Bertelsmann</dd> 
+
+<dt>1999</dt>
+<dd>Disney sells Fairchild Publications (<em>W</em>, <em>Jane</em> and <em>Women's Wear Daily</em>) to Advance</dd>
+
+<dt class="section-separator">2000</dt>
+<dd class="section-separator">Advance acquires a group of newspapers in New Jersey and Easton, PA from MediaNews. Titles include: <em>Gloucester County Times</em>, <em>Today's Sunbeam</em> (Salem),  <em>Bridgeton Evening News</em>, and <em>Express-Times </em>(Easton).</dd> 
+
+<dt>2001</dt>
+<dd><em>Syracuse Herald-Journal</em> closes</dd> 
+
+<dt>2001</dt>
+<dd>Conde Nast Publications closes fashion magazine <em>Mademoiselle</em></dd> 
+
+<dt>2002</dt>
+<dd>Advance purchases Modern Bride magazine group from Primedia for $52 million</dd> 
+
+<dt>2002</dt>
+<dd>Advance and AOL Time Warner disband their cable partnership.  Advance changes the name of its cable operations to Bright House cable.</dd> 
+
+<dt>2003</dt>
+<dd><em>Forbes</em> magazine estimates the combined worth of Si. Jr. and Donald Newhouse at $15 billion </dd>
+
+</dl>
+
+<dl id="media-company-holdings">
+
+<dt>Newspapers </dt>
+<DD>The Birmingham News (Alabama)</dd>
+<DD>The Huntsville Times (Alabama)</dd>
+<DD>Press-Register (Alabama)</dd>
+<DD>The Times-Picayune (Louisiana)</dd>
+<DD>The Republican (Massachusetts)</dd>
+<dd class="subsidiary-label">Advance Newspapers (Michigan):</dd>
+<dd class="subsidiary">Northwest Advance</dd>
+<dd class="subsidiary">Northeast Advance</dd>
+<dd class="subsidiary">Grand Valley Advance</dd>
+<dd class="subsidiary">Cadence</dd>
+<dd class="subsidiary">Southwest Advance</dd>
+<dd class="subsidiary">Southeast Advance</dd>
+<dd class="subsidiary">Penasee Globe</dd>
+<dd class="subsidiary-label">BoothMichigan Newspapers (Michigan):</dd>
+<dd class="subsidiary">AnnArbor.com</dd>
+<dd class="subsidiary">The Bay City Times</dd>
+<dd class="subsidiary">The Flint Journal</dd>
+<dd class="subsidiary">The Grand Rapids Press</dd>
+<dd class="subsidiary">Jackson Citizen Patriot</dd>
+<dd class="subsidiary">Kalamazoo Gazette</dd>
+<dd class="subsidiary">Muskegon Chronicle</dd>
+<dd class="subsidiary">The Saginaw News</dd>
+<dd class="subsidiary-label">The Community Newspapers (Michigan):</dd>
+<dd class="subsidiary">The Burton News</dd>
+<dd class="subsidiary">The Clio Messenger</dd>
+<dd class="subsidiary">The Davison Flagstaff</dd>
+<dd class="subsidiary">The Fenton Press</dd>
+<dd class="subsidiary">The Flint Township News</dd>
+<dd class="subsidiary">The Flushing Observer</dd>
+<dd class="subsidiary">The Grand Blanc News</dd>
+<dd class="subsidiary">The Swartz Creek News</dd>
+<DD>The Mississippi Press (Mississippi)</dd>
+<DD>The Star-Ledger (New Jersey)</dd>
+<DD>The Times of Trenton (New Jersey)</dd>
+<DD>The Jersey Journal (New Jersey)</dd>
+<DD>Gloucester County Times (New Jersey)</dd>
+<DD>The News of Cumberland County (formerly The Bridgeton News) (New Jersey)</dd>
+<DD>Today's Sunbeam (New Jersey)</dd>
+<DD>Hunterdon County Democrat (New Jersey)</dd>
+<DD>The Warren Reporter (New Jersey)</dd>
+<DD>The Messenger-Gazette (formerly The Somerset Reporter) (New Jersey)</dd>
+<DD>Independent Press (New Jersey)</dd>
+<DD>Suburban News (New Jersey)</dd>
+<DD>Cranford Chronicle (New Jersey)</dd>
+<DD>Staten Island Advance (New York)</dd>
+<DD>The Post-Standard (New York)</dd>
+<DD>The Plain Dealer (Ohio)</dd>
+<dd class="subsidiary-label">The Sun Newspapers (Suburban Cleveland):</dd>
+<dd class="subsidiary">Brunswick Sun</dd>
+<dd class="subsidiary">Chagrin Solon Sun</dd>
+<dd class="subsidiary">Medina Sun</dd>
+<dd class="subsidiary">News Sun</dd>
+<dd class="subsidiary">Parma Sun Post</dd>
+<dd class="subsidiary">Sun Messenger</dd>
+<dd class="subsidiary">Sun Post-Herald</dd>
+<dd class="subsidiary">Sun Press</dd>
+<dd class="subsidiary">Sun Sentinel</dd>
+<dd class="subsidiary">Sun Star Courier</dd>
+<dd class="subsidiary">West Shore Sun</dd>
+<DD>The Oregonian (Oregon)</dd>
+<DD>Hillsboro Argus (Oregon)</dd>
+<DD>The Express-Times (Pennsylvania and New Jersey)</dd>
+<DD>The Patriot-News (Pennsylvania)</dd>
+<dd class="subsidiary-label">Portal Websites for Local News:</dd>
+<dd class="subsidiary">al.com</dd>
+<dd class="subsidiary">cleveland.com</dd>
+<dd class="subsidiary">gulflive.com</dd>
+<dd class="subsidiary">lehighvalleylive.com</dd>
+<dd class="subsidiary">MassLive.com</dd>
+<dd class="subsidiary">MLive.com</dd>
+<dd class="subsidiary">NJ.com</dd>
+<dd class="subsidiary">NOLA.com</dd>
+<dd class="subsidiary">ohiosports.com</dd>
+<dd class="subsidiary">OregonLive.com</dd>
+<dd class="subsidiary">PennLive.com</dd>
+<dd class="subsidiary">SILive.com</dd>
+<dd class="subsidiary">syracuse.com</dd>
+<dd class="subsidiary-label">Special interest sites:</dd>
+<dd class="subsidiary">MardiGras.com</dd>
+<dd class="subsidiary">Bestlocaljobs.com</dd>
+<dd class="subsidiary">Bestlocalautos.com</dd>
+
+<DT  class="separate-subsection">Magazines and Journals</dt>
+<dd class="subsidiary-label">Conde Nast Publications:</dd>
+<dd class="subsidiary">Allure</dd>
+<dd class="subsidiary">Architectural Digest</dd>
+<dd class="subsidiary">Bon Appetit</dd>
+<dd class="subsidiary">Brides</dd>
+<dd class="subsidiary">Brides.com & Brides Local Magazines</dd>
+<dd class="subsidiary">Conde Nast House & Garden (U.K)</dd>
+<dd class="subsidiary">Conde Nast Johansens (U.K.)</dd>
+<dd class="subsidiary">Conde Nast Traveler</dd>
+<dd class="subsidiary">Easy Living (U.K.)</dd>
+<dd class="subsidiary">Fairchild Publications: Women's Wear Daily, Footwear News, and Fairchild Books</dd>
+<dd class="subsidiary">Glamour</dd>
+<dd class="subsidiary">Golf Digest</dd>
+<dd class="subsidiary">Golf World</dd>
+<dd class="subsidiary">GQ</dd>
+<dd class="subsidiary">Love (U.K.)</dd>
+<dd class="subsidiary">Lucky</dd>
+<dd class="subsidiary">M</dd>
+<dd class="subsidiary">The New Yorker</dd>
+<dd class="subsidiary">Self</dd>
+<dd class="subsidiary">Tatler (U.K.)</dd>
+<dd class="subsidiary">Teen Vogue</dd>
+<dd class="subsidiary">Vanity Fair</dd>
+<dd class="subsidiary">Vogue</dd>
+<dd class="subsidiary">W</dd>
+<dd class="subsidiary">The World of Interiors (U.K.)</dd>
+<dd class="subsidiary">Wired</dd>
+<dd class="subsidiary-label">Conde Nast Digital:</dd>
+<dd class="subsidiary">Ars Technica</dd>
+<dd class="subsidiary">Concierge</dd>
+<dd class="subsidiary">Epicurious</dd>
+<dd class="subsidiary">Hotel Chatter</dd>
+<dd class="subsidiary">Jaunted</dd>
+<dd class="subsidiary">Nutrition Data</dd>
+<dd class="subsidiary">Reddit</dd>
+<dd class="subsidiary">Style</dd>
+<dd class="subsidiary">Vegas Chatter</dd>
+<dd class="subsidiary-label">Parade Publications:</dd>
+<dd class="subsidiary">Dash</dd>
+<dd class="subsidiary">Parade</dd>
+<dd class="subsidiary">Parade's Healthy Style</dd>
+<dd class="subsidiary-label">American City Business Journals:</dd>
+<DD>Bizjournals.com, with print editions available in:</dd>
+<dd class="subsidiary">Albany</dd>
+<dd class="subsidiary">Albuquerque</dd>
+<dd class="subsidiary">Atlanta</dd>
+<dd class="subsidiary">Austin</dd>
+<dd class="subsidiary">Baltimore</dd>
+<dd class="subsidiary">Birmingham</dd>
+<dd class="subsidiary">Boston</dd>
+<dd class="subsidiary">Buffalo</dd>
+<dd class="subsidiary">Charlotte</dd>
+<dd class="subsidiary">Cincinnati</dd>
+<dd class="subsidiary">Columbus</dd>
+<dd class="subsidiary">Dallas</dd>
+<dd class="subsidiary">Dayton</dd>
+<dd class="subsidiary">Denver</dd>
+<dd class="subsidiary">East Bay</dd>
+<dd class="subsidiary">Greensboro</dd>
+<dd class="subsidiary">Honolulu</dd>
+<dd class="subsidiary">Houston</dd>
+<dd class="subsidiary">Jacksonville</dd>
+<dd class="subsidiary">Kansas City</dd>
+<dd class="subsidiary">Los Angeles</dd>
+<dd class="subsidiary">Louisville</dd>
+<dd class="subsidiary">Memphis</dd>
+<dd class="subsidiary">Milwaukee</dd>
+<dd class="subsidiary">Minneapolis/St. Paul</dd>
+<dd class="subsidiary">Nashville</dd>
+<dd class="subsidiary">Orlando</dd>
+<dd class="subsidiary">Philadelphia</dd>
+<dd class="subsidiary">Phoenix</dd>
+<dd class="subsidiary">Pittsburgh</dd>
+<dd class="subsidiary">Portland</dd>
+<dd class="subsidiary">Raleigh/Durham</dd>
+<dd class="subsidiary">Sacramento</dd>
+<dd class="subsidiary">St. Louis</dd>
+<dd class="subsidiary">San Antonio</dd>
+<dd class="subsidiary">San Francisco</dd>
+<dd class="subsidiary">San Jose</dd>
+<dd class="subsidiary">Seattle</dd>
+<dd class="subsidiary">South Florida</dd>
+<dd class="subsidiary">Tampa Bay</dd>
+<dd class="subsidiary">Washington</dd>
+<dd class="subsidiary">Wichita</dd>
+<DD>Hemmings Motor News</dd>
+<DD>SportingNews.com/nascar</dd>
+<DD>Sporting News</dd>
+<DD>SportsBusiness Journal</dd>
+<DD>Sports Business Daily</dd>
+
+<dd class="subsidiary-label">Michigan Business Review:</dd>
+<dd class="subsidiary">Business Review - Oakland</dd>
+<dd class="subsidiary">Business Review - Tri-Cities</dd>
+<dd class="subsidiary">Business Review - Western Michigan</dd>
+
+<DT  class="separate-subsection">Cable Television</dt>
+<DD>Bright House Networks (FL, CA, IN, MI, and AL)</dd>
+<DD>Discovery Channel (Majority Ownership)</dd>
+
+<DT  class="separate-subsection">Other</dt>
+<DD>Religion News Service</dd>
+
+<dd class="datestamp">last updated 2/13/2013</dl>                        
+                     </div>
+                     
+                     
+            	</div>
+			</div>
+            
+			
+            
+		</div>
+	</section>
+
+	<!-- footer section -->
+    <footer class="nocontent hidden-print">
+		<section id="newsletter">
+			<div class="nocontent container-fluid">
+				<div class="row">
+					<h3 class="invert text-center">Weekly highlights</h3>
+					<h5 class="invert text-center">Subscribe to the best of CJR, compiled by the editors every Thursday.</h5>
+				</div>
+				<form class="col-sm-4 col-sm-offset-4" id="email-new" action="http://cjr.us3.list-manage1.com/subscribe/post?u=a23440a018c7ba0619c6f01e6&amp;id=c6de9a59ea" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" novalidate>
+                
+				  <div class="form-group">                    
+                    <input type="email" class="form-control" name="EMAIL" id="mce-EMAIL" placeholder="Enter email" />
+				  </div>
+				  <a type="submit" class="btn invert form-btn center-block" onclick="document.getElementById('email-new').submit(); return false;">Sign up</a>                               
+				</form>
+			</div>
+		</section>
+		<section id="footer-items">
+			<div class="nocontent container-fluid">
+				<div class="row">
+					<div class="col-sm-3">
+						<a href="http://www.cjr.org/about_us/mission_statement.php"><small><strong>About us</strong></small></a>
+						<ul class="list-unstyled">
+							<a href="http://www.cjr.org/contact/contact.php"><li>Contact us</li></a>
+							<a href="http://www.cjr.org/about_us/mission_statement.php"><li>About Columbia Journalism Review</li></a>
+							<a href="http://www.cjr.org/join/for-past-print-subscribers.php"><li>CJR Print Subscriber Update</li></a>
+					                <a href="http://www.cjr.org/about_us/masthead.php"><li>Masthead</li></a>
+							<a href="http://www.cjr.org/about_us/privacy_policy.php"><li>Privacy policy</li></a>
+						</ul>
+					</div>
+					<div class="col-sm-3">
+						<small><strong>Join &amp; Donate</strong></small>
+						<ul class="list-unstyled">
+							<a href="http://www.cjr.org/join/membership.php"><li>Become a member of Columbia Journalism Review</li></a>
+							<a href="http://www.cjr.org/contact/donate.php"><li>Donate to support CJR&rsquo;s mission</li></a>
+						</ul>
+					</div>
+					<div class="col-sm-3">
+						<a href="http://www.cjr.org/advertise/about_our_readers.php"><small><strong>Advertise</strong></small></a>
+						<ul class="list-unstyled">
+							<a href="http://www.cjr.org/advertise/about_our_readers.php"><li>Contact us for more information</li></a>
+							<a href="http://www.cjrarchive.org/advertise/pdfs/CJR-digital-ad-rates-2016.pdf" target="_blank"><li>Digital ad rates</li></a>
+							
+						</ul>
+					</div>
+					<div class="col-sm-3">
+						<a href="http://www.cjr.org/resources/"><small><strong>Resources</strong></small></a>
+						<ul class="list-unstyled">
+							<a href="http://www.cjr.org/tow-center/more_tow_center_reports.php"><li>Research from the Tow Center for Digital Journalism</li></a>
+							<a href="http://www.cjr.org/resources/"><li>Who owns what?</li></a>
+							<a href="http://www.cjr.org/the_delacorte_lectures/all.php"><li>Delacorte Lectures on Magazine Journalism</li></a>
+							<a href="http://www.cjr.org/news_startups_guide/"><li>Guide to online news startups</li></a>
+							<a href="http://www.cjr.org/resources/magazines_and_their_websites/"><li>Magazines and their websites: A CJR survey and report</li></a>
+							<a href="http://cjr.org/supportreporting/"><li>Support reporting</li></a>
+							<a href="http://www.cjr.org/resources/studyguides/index.php"><li>Study guides</li></a>
+						</ul>
+					</div>
+				</div>
+				<div class="row text-center">
+					<ul class="col-sm-12 list-unstyled">
+						<li>&copy; Copyright 2017 Columbia Journalism Review</li>
+					</ul>
+				</div>
+			</div>
+		</section>
+	</footer>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2442246-6', 'auto');
+  ga('send', 'pageview');
+
+</script>
+    
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+<script src="../_resources2015/js/who_owns_what_2015.js" type="text/javascript"></script>
+<script src="../_resources2015/js/nav.js"></script>
+
+</html>

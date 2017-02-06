@@ -1,0 +1,977 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="utf-8">
+	<title>
+		Who Owns What - Columbia Journalism Review
+	</title>
+    <meta name="theme-color" content="#f9f0e1">
+    <link rel="apple-touch-icon-precomposed" href="/_resources2015/img/favicon-152.png">
+    <meta name="msapplication-TileColor" content="#f9f0e1">
+    <meta name="msapplication-TileImage" content="/_resources2015/img/favicon-144.png">
+	<link rel="shortcut icon" href="/cjr-icon-2.ico">
+    
+    <!-- css -->
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
+	<link rel="stylesheet" href="../_resources2015/css/bootstrap.css">
+	<link href="../_resources2015/css/cjrcorestyles.css" rel="stylesheet">
+    <link href="../_resources2015/css/cjrnavstyles.css" rel="stylesheet">
+    <link href="../_resources2015/css/cjrnavstyles_add_on.css" rel="stylesheet">
+    <link href="../_resources2015/css/who_owns_what.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="../_resources2015/fonts/commercial-type-1502-AFHEEU-web/1502-AFHEEU.css">
+    
+	<!-- advertising -->
+    
+    <script type='text/javascript'>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') + 
+    '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+    })();
+    </script>
+    
+	
+    <script type='text/javascript'>
+    googletag.cmd.push(function() {
+    googletag.defineSlot('/3562084/CJR_728x90_2015_article', [728, 90], 'div-gpt-ad-1424816910788-0').addService(googletag.pubads());
+	googletag.defineSlot('/3562084/CJR_300x250_2015_article', [300, 250], 'div-gpt-ad-1424816285842-0').addService(googletag.pubads());
+	googletag.defineSlot('/3562084/CJR_700x500_TEST', [700, 500], 'div-gpt-ad-1374535322548-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+    });
+    </script>
+    
+    <link rel="stylesheet" type="text/css" href="/_resourcesbeta/css/interstitial_full_sail.css" />
+	<script type="text/javascript" src="/interstitial_full_sail_2_on.js">
+    /***********************************************
+    * Interstitial Content Box- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+    * This notice MUST stay intact for legal use
+    * Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+    ***********************************************/
+    </script> 
+    
+ 
+    
+</head>
+<body>
+
+	<!-- <div class="row ad">
+            <img class="banner-ad col-sm-8 col-sm-offset-2" src="http://placehold.it/728x90" />
+    </div> -->
+        
+    <!-- top nav section -->
+    <div class="row largelogo">
+            <center><a href="http://www.cjr.org/index.php"><img class="largelogoimage" src="http://archives.cjr.org/_resources2015/img/cjr_full_logo.png" border="0" /></a></center>
+    </div>
+    
+    <nav class="nocontent slideout899 navbar-static-top hidden-print">
+      <ul class="list-unstyled main-menu">
+        <li class="text-right"><a href="#" id="nav-close"><img src="http://archives.cjr.org/_resources2015/img/x_close.png" style="width:20px !important; height:21px !important; margin-top: -10px !important;"></a></li>
+        <li><a href="http://www.cjr.org/search_new.php"><span class="glyphicon glyphicon-search" aria-hidden="true"></span> &nbsp;Search</a></li>
+        <li><a href="http://www.cjr.org/index.php">Home</a></li>
+        <li><a href="http://www.cjr.org/watchdog/">Watchdog</a></li>
+        <li><a href="http://www.cjr.org/local_news/">Local News</a></li>
+        <li class="election-nav-mobile"><a href="http://www.cjr.org/covering-trump/">Covering Trump</a></li>
+        <li><a href="http://www.cjr.org/innovations/">Innovations</a></li>
+        <li><a href="http://www.cjr.org/business_of_news/">Business of News</a></li>
+        <li>
+          <ul class="list-unstyled subnav">
+          	  <li class="sub-nav"><a href="http://www.cjr.org/magazine/">New Issue!</a></li>
+              <li class="sub-nav"><a href="http://www.cjr.org/b-roll/">B-Roll</a></li>
+              <li class="sub-nav"><a href="http://www.cjr.org/special_report/">Special Report</a></li>
+              <li class="sub-nav"><a href="http://www.cjr.org/tow-center/">Tow Center</a></li>
+              <li class="sub-nav"><a href="http://www.cjr.org/the_second_opinion/">The Second Opinion</a></li>
+              <li class="sub-nav"><a href="http://www.cjr.org/about_us/mission_statement.php">About Us</a></li>
+              <li class="sub-nav"><a href="http://www.cjr.org/join/membership.php">Join</a></li>
+              <li class="sub-nav"><a href="http://www.cjr.org/contact/donate.php">Donate</a></li>
+              <li class="sub-nav"><a href="http://www.cjr.org/advertise/about_our_readers.php">Advertise</a></li>
+              <li class="sub-nav"><a href="http://www.cjr.org/mailbox/">Mailbox</a></li>
+              <li class="sub-nav"><a href="http://www.cjr.org/resources/">Resources</a></li>
+              <li class="sub-nav-social sub-nav-social-top"><a href="https://www.facebook.com/columbiajournalismreview">Facebook</a></li>
+              <li class="sub-nav-social"><a href="https://twitter.com/CJR">Twitter</a></li>
+              <li class="sub-nav-social"><a href="https://www.instagram.com/columbiajournalismreview/">Instagram</a></li>
+              <li class="sub-nav-social"><a href="https://itunes.apple.com/us/podcast/the-kicker/id1178127323?mt=2" target="_blank">Podcast</a></li>
+          </ul>
+        </li>
+ 
+      </ul>
+    </nav>
+    
+	<section id="tablet-nav" class="back-tablet hidden-print">   
+      <div class="navbar navbar-inverse navbar-static-top hidden-print">      
+          <a class="navbar-brand" href="http://www.cjr.org/index.php"><img src="http://archives.cjr.org/_resources2015/img/cjr-icon-50.gif"></a>
+          <div class="navbar-header pull-right">
+            <a id="nav-expander" class="nav-expander static">
+              <span class="glyphicon glyphicons-menu-hamburger" aria-hidden="true"></span>
+            </a>
+          </div>
+      </div>
+	</section>  
+  
+    <section id="bignav" class="hidden-print">
+    
+		<div class="nocontent container-fluid nav-align">
+            
+            <div class="nocontent nav-container-full">
+            
+            <ul class="navbar-nav nav nav-left-only">
+                <li><a class="nav-first-link" href="http://www.cjr.org/watchdog/">WATCHDOG</a></li>
+                <li><a href="http://www.cjr.org/local_news/">LOCAL NEWS</a></li>
+                <li class="election-nav"><a href="http://www.cjr.org/covering-trump/">COVERING TRUMP</a></li>
+                <li><a href="http://www.cjr.org/innovations/">INNOVATIONS</a></li>
+                <li><a href="http://www.cjr.org/business_of_news/">BUSINESS OF NEWS</a></li>
+                <li role="presentation" class="dropdown">
+                  <a class="dropdown-toggle more-button" data-toggle="dropdown" href="#" role="button" aria-expanded="false">
+                    MORE <span class="caret bignav"></span>
+                  </a>
+                  <ul class="dropdown-menu" role="menu">
+                  	<li class="new-issue"><a href="http://www.cjr.org/magazine/">New Issue!</a></li>
+                    <li><a href="http://www.cjr.org/b-roll/">B&ndash;Roll</a></li>
+                    <li><a href="http://www.cjr.org/special_report/">Special Report</a></li>
+                    <li><a href="http://www.cjr.org/tow-center/">Tow Center</a></li>
+                    <li><a href="http://www.cjr.org/the_second_opinion/">The Second Opinion</a></li>
+                    <li><a href="http://www.cjr.org/about_us/mission_statement.php">About Us</a></li>
+                    <li><a href="http://www.cjr.org/join/membership.php">Join</a></li>
+                    <li><a href="http://www.cjr.org/contact/donate.php">Donate</a></li>
+                    <li><a href="http://www.cjr.org/advertise/about_our_readers.php">Advertise</a></li>
+                    <li><a href="http://www.cjr.org/mailbox/">Mailbox</a></li>
+                    <li class="last"><a href="http://www.cjr.org/resources/">Resources</a></li>
+                  </ul>
+                </li>
+                
+            </ul>
+            
+            <ul class="nav navbar-nav navbar-right">
+                <div id="search-box" class="row hidden">
+                
+                <form id="search" action="https://archives.cjr.org/search.php">
+                <input type="hidden" name="cx" value="002110349687880336610:9r4jniuv6ko" />
+                <input type="hidden" name="cof" value="FORID:11" />
+                <input type="hidden" name="ie" value="UTF-8" />
+                    <fieldset>
+                        <input type="text" class="text" defaultvalue=" " name="q" value=" Search..." onFocus="if (this.value==' Search...') this.value='';" />
+                    </fieldset>
+                </form>
+                
+                </div>
+                <li id="search-icon" data-target="#search-box" class="navglyph"><a href="#"><span class="glyphicon glyphicon-search" aria-hidden="true" title="Search"></span></a></li>
+                <li class="navglyph"><a href="https://www.facebook.com/columbiajournalismreview" target="_blank" title="Facebook"><span class="socicon">b</span></a></li>
+                <li class="navglyph"><a href="https://twitter.com/CJR" target="_blank" title="Twitter"><span class="socicon">a</span></a></li>
+                <li class="navglyph"><a href="https://www.instagram.com/columbiajournalismreview/" target="_blank" title="Instagram"><span class="socicon">x</span></a></li>
+                <li class="navglyph last"><a href="https://itunes.apple.com/us/podcast/the-kicker/id1178127323?mt=2" target="_blank"><span class="glyphicon glyphicons-podcast" aria-hidden="true" title="Podcast"></span></a></li>
+            </ul>
+                     
+            </div>  
+        
+        </div>
+        
+
+    </section>	
+	<section id="stack" class="stack-static">
+    	
+		<div class="container-fluid firstcontent">
+			<div class="row">
+				<div class="col-sm-8 col-sm-offset-2">
+                
+					<h3>Resources</h3>
+	
+					<p>
+                    
+					<a href="index.php">Who Owns What <span class="glyphicon glyphicon-chevron-right static-arrow"></span></a><br>
+                    
+                    <a href="http://www.cjr.org/the_delacorte_lectures/all.php">The Delacorte Lectures <span class="glyphicon glyphicon-chevron-right static-arrow"></span></a><br>
+
+					<a href="http://www.cjr.org/resources/magazines_and_their_websites/index.php">Magazines and Their Websites: A Columbia Journalism Review Survey and Report <span class="glyphicon glyphicon-chevron-right static-arrow"></span></a><br>
+					
+					<a href="studyguides/index.php">Study Guides <span class="glyphicon glyphicon-chevron-right static-arrow"></span></a><br>
+                   
+                    </p>
+                    
+                    <p><hr noshade size="1" width="40%" align="left" /></p>
+                    
+                    <p><strong><i>CJR's</i> guide to what the major media companies own.</strong></p>
+				
+					<p>Select a media company below to begin.</p>
+                    
+                    <p>
+              
+                        <select id="who-owns-what-menu-2" name=tags onChange="MM_jumpMenu('parent',this,1)" class="dropdown">
+                                
+                            <option>Select a media company...</option>
+            
+                            <option>&nbsp;</option>
+            
+                                                            <option value="http://www.cjr.org/resources/?c=21st_century_fox">21st Century Fox</option>
+                                                                <option value="http://www.cjr.org/resources/?c=advance">Advance Publications</option>
+                                                                <option value="http://www.cjr.org/resources/?c=ah_belo_corporation">A.H. Belo Corporation</option>
+                                                                <option value="http://www.cjr.org/resources/?c=amc_networks">AMC Networks</option>
+                                                                <option value="http://www.cjr.org/resources/?c=american">American Media, Inc.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=astral">Astral Media</option>
+                                                                <option value="http://www.cjr.org/resources/?c=belo">Belo Corporation</option>
+                                                                <option value="http://www.cjr.org/resources/?c=bertelsmann">Bertelsmann AG</option>
+                                                                <option value="http://www.cjr.org/resources/?c=cablevision">Cablevision </option>
+                                                                <option value="http://www.cjr.org/resources/?c=canwest">CanWest Global Communications</option>
+                                                                <option value="http://www.cjr.org/resources/?c=cbs">CBS</option>
+                                                                <option value="http://www.cjr.org/resources/?c=cisneros">Cisneros</option>
+                                                                <option value="http://www.cjr.org/resources/?c=citadel">Citadel Broadcasting Corporation</option>
+                                                                <option value="http://www.cjr.org/resources/?c=clearchannel">Clear Channel Communications</option>
+                                                                <option value="http://www.cjr.org/resources/?c=comcast">Comcast</option>
+                                                                <option value="http://www.cjr.org/resources/?c=cnhi">Community Newspaper Holdings, Inc. </option>
+                                                                <option value="http://www.cjr.org/resources/?c=copley">Copley Press Inc.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=corus">Corus Entertainment</option>
+                                                                <option value="http://www.cjr.org/resources/?c=cox">Cox Enterprises</option>
+                                                                <option value="http://www.cjr.org/resources/?c=cumulus">Cumulus Media Inc.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=dowjones">Dow Jones Corporation</option>
+                                                                <option value="http://www.cjr.org/resources/?c=emmis">Emmis Communications</option>
+                                                                <option value="http://www.cjr.org/resources/?c=entercom">Entercom Communications</option>
+                                                                <option value="http://www.cjr.org/resources/?c=fisher">Fisher Communications</option>
+                                                                <option value="http://www.cjr.org/resources/?c=freedom">Freedom Communications</option>
+                                                                <option value="http://www.cjr.org/resources/?c=gannett">Gannett Co., Inc.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=gatehouse_media">GateHouse Media., Inc.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=ge">General Electric</option>
+                                                                <option value="http://www.cjr.org/resources/?c=hachette">Hachette Filipacchi Media U.S.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=halifax">Halifax Media Group</option>
+                                                                <option value="http://www.cjr.org/resources/?c=hearst">Hearst Corporation</option>
+                                                                <option value="http://www.cjr.org/resources/?c=hollinger">Hollinger International, Inc.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=journalregister">Journal Register Company</option>
+                                                                <option value="http://www.cjr.org/resources/?c=knight_ridder">Knight Ridder</option>
+                                                                <option value="http://www.cjr.org/resources/?c=landmark">Landmark Community Newspapers, LLC</option>
+                                                                <option value="http://www.cjr.org/resources/?c=lee">Lee Enterprises</option>
+                                                                <option value="http://www.cjr.org/resources/?c=liberty">Liberty Group Publishing</option>
+                                                                <option value="http://www.cjr.org/resources/?c=libertyinteractive">Liberty Interactive Corporation</option>
+                                                                <option value="http://www.cjr.org/resources/?c=libertymedia">Liberty Media Corporation</option>
+                                                                <option value="http://www.cjr.org/resources/?c=lin_media">LIN Media</option>
+                                                                <option value="http://www.cjr.org/resources/?c=lintv">LIN TV Corporation</option>
+                                                                <option value="http://www.cjr.org/resources/?c=mcclatchy">The McClatchy Company </option>
+                                                                <option value="http://www.cjr.org/resources/?c=mcgraw">The McGraw-Hill Companies </option>
+                                                                <option value="http://www.cjr.org/resources/?c=mediageneral">Media General, Inc.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=medianews">MediaNews Group</option>
+                                                                <option value="http://www.cjr.org/resources/?c=meredith">Meredith Corporation</option>
+                                                                <option value="http://www.cjr.org/resources/?c=morris">Morris Communications Corporation</option>
+                                                                <option value="http://www.cjr.org/resources/?c=newscorp">News Corp</option>
+                                                                <option value="http://www.cjr.org/resources/?c=nyt">The New York Times Company</option>
+                                                                <option value="http://www.cjr.org/resources/?c=newsworld">News World Communications</option>
+                                                                <option value="http://www.cjr.org/resources/?c=news_world_media_development">News World Media Development</option>
+                                                                <option value="http://www.cjr.org/resources/?c=pearson">Pearson</option>
+                                                                <option value="http://www.cjr.org/resources/?c=postmedia_network">Postmedia Network</option>
+                                                                <option value="http://www.cjr.org/resources/?c=pulitzer">Pulitzer, Inc.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=raycom_media">Raycom Media</option>
+                                                                <option value="http://www.cjr.org/resources/?c=reed">Reed Elsevier</option>
+                                                                <option value="http://www.cjr.org/resources/?c=rentpath">RentPath, Inc.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=rogers">Rogers Communications</option>
+                                                                <option value="http://www.cjr.org/resources/?c=scripps">The E.W. Scripps Company</option>
+                                                                <option value="http://www.cjr.org/resources/?c=scripps_networks_interactive">Scripps Networks Interactive</option>
+                                                                <option value="http://www.cjr.org/resources/?c=shaw_media">Shaw Media</option>
+                                                                <option value="http://www.cjr.org/resources/?c=sinclair">Sinclair Broadcast Group</option>
+                                                                <option value="http://www.cjr.org/resources/?c=sony">Sony Corporation</option>
+                                                                <option value="http://www.cjr.org/resources/?c=standard">Standard Radio</option>
+                                                                <option value="http://www.cjr.org/resources/?c=stephens">Stephens Media Group</option>
+                                                                <option value="http://www.cjr.org/resources/?c=sun-times_media">Sun Times Media</option>
+                                                                <option value="http://www.cjr.org/resources/?c=timewarner">Time Warner</option>
+                                                                <option value="http://www.cjr.org/resources/?c=tribune">Tribune Company</option>
+                                                                <option value="http://www.cjr.org/resources/?c=viacom">Viacom, Inc.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=vivendi">Vivendi</option>
+                                                                <option value="http://www.cjr.org/resources/?c=vulcan">Vulcan, Inc.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=disney">The Walt Disney Company</option>
+                                                                <option value="http://www.cjr.org/resources/?c=washpost">The Washington Post Company</option>
+                                                                <option value="http://www.cjr.org/resources/?c=youngbroadcasting">Young Broadcasting</option>
+                                            
+                        </select>
+                       
+                      <br /><br /></p>
+                              
+                      <p id="company-data-loading">Loading...</p>
+                      
+                      <div id="company-data">
+                        
+                            <dl id="media-company-address">
+	<dt>GateHouse Media</dt>
+	<dd class="address">350 WillowBrook Office Park<br>Fairport, NY 14450</dd>
+	<dd class="phone">
+		<span class="voice">Voice (585) 598-0030</span>
+		<span class="fax">Fax (585) 248-2631</span>
+	</dd>
+	<dd class="url"><a target="blank" href="http://www.gatehousemedia.com/">http://www.gatehousemedia.com/</a></dd>
+</dl>
+
+<ul id="nav-who-owns-what" class="holdings">
+	<li class="holdings"><a href="#" onclick="selectCompanyView('holdings'); return false;">Holdings</a></li>
+</ul>
+
+<dl id="media-company-holdings">
+
+<dt>Newspapers</dt>
+<dd class="location-label">Arkansas</dd>
+<dd class="subsidiary">Arkadelphia Daily Sifting Herald</dd>
+<dd class="subsidiary">The Arsenal Sentinel (White Hall)</dd>
+<dd class="subsidiary">The Daily World (Helena)</dd>
+<dd class="subsidiary">Gurdon Times (Arkadelphia)</dd>
+<dd class="subsidiary">Star</dd>
+<dd class="subsidiary">Nevada County Picayune (Hope)</dd>
+<dd class="subsidiary">Newport Independent</dd>
+<dd class="subsidiary">The Sun Times (Heber Springs)</dd>
+<dd class="subsidiary">Stuttgart Daily Leader</dd>
+<dd class="subsidiary">The White Hall Journal </dd>
+
+<dd class="location-label">California</dd>
+<dd class="subsidiary">The Daily Independent (Ridgecrest)</dd>
+<dd class="subsidiary">Dunsumuir News </dd>
+<dd class="subsidiary">The Gridley Herald </dd>
+<dd class="subsidiary">Midway Driller (Taft)</dd>
+<dd class="subsidiary">Mount Shasta Herald</dd>
+<dd class="subsidiary">Siskiyou Daily News (Yreka)</dd>
+<dd class="subsidiary">Weed Press </dd>
+
+<dd class="location-label">Colorado</dd>
+<dd class="subsidiary">Ag Journal (La Junta)</dd>
+<dd class="subsidiary">Bent County Democrat (Las Animas)</dd>
+<dd class="subsidiary">Fowler Tribune</dd>
+<dd class="subsidiary">La Junta Tribune Democrat</dd>
+
+<dd class="location-label">Connecticut</dd>
+<dd class="subsidiary">Norwich Bulletin</dd>
+
+<dd class="location-label">Delaware
+<dd class="subsidiary">The Airlifter (McChord AFB)</dd>
+<dd class="subsidiary">Brandywine East Community News</dd>
+<dd class="subsidiary">Brandywine West Community News</dd>
+<dd class="subsidiary">The Community News (Hockessin)</dd>
+<dd class="subsidiary">The Dover Post</dd>
+<dd class="subsidiary">Greenville Community News</dd>
+<dd class="subsidiary">Middletown Transcript</dd>
+<dd class="subsidiary">Milford Beacon</dd>
+<dd class="subsidiary">Mill Cress Community News</dd>
+<dd class="subsidiary">Smyrna/Clayton Sun-Times</dd>
+<dd class="subsidiary">Sussex Countian</dd>
+
+<dd class="location-label">Illinois</dd>
+<dd class="subsidiary">Abingdon Argus Sentinel (Arbingdon)</dd>
+<dd class="subsidiary">Advocate Press (Flora)</dd>
+<dd class="subsidiary">Argus</dd>
+<dd class="subsidiary">The Ashley News
+<dd class="subsidiary">Augusta Eagle-Scribe</dd>
+<dd class="subsidiary">Benton Evening News </dd>
+<dd class="subsidiary">The Blade (Fairbury)</dd>
+<dd class="subsidiary">BusinessRockford.com</dd>
+<dd class="subsidiary">Cambridge Chronicle</dd>
+<dd class="subsidiary">Carmi Times </dd>
+<dd class="subsidiary">Chillicothe Times-Bulletin</dd>
+<dd class="subsidiary">Christopher Progress</dd>
+<dd class="subsidiary">The Courier (Lincoln)</dd>
+<dd class="subsidiary">Daily American (West Frankfort)</dd>
+<dd class="subsidiary">Daily Brief (Macomb)</dd>
+<dd class="subsidiary">Daily Leader (Pontiac)</dd>
+<dd class="subsidiary">Daily Ledger (Canton) </dd>
+<dd class="subsidiary">Daily Register (Harrisburg) </dd>
+<dd class="subsidiary">Daily Review Atlas (Monmouth) </dd>
+<dd class="subsidiary">Du Quoin Evening Call </dd>
+<dd class="subsidiary">The Du Quoin News </dd>
+<dd class="subsidiary">East Peoria Times Courier</dd>
+<dd class="subsidiary">El Dorado Daily Journal</dd>
+<dd class="subsidiary">Espejo (Rockford)</dd>
+<dd class="subsidiary">Farmside</dd>
+<dd class="subsidiary">Gallatin Democrat</dd>
+<dd class="subsidiary">Galva News</dd>
+<dd class="subsidiary">The Geneseo Republic</dd>
+<dd class="subsidiary">The Herrin Spokesman</dd>
+<dd class="subsidiary">Home Times (Pontiac)</dd>
+<dd class="subsidiary">The Journal Standard (Freeport)</dd>
+<dd class="subsidiary">Journal Star (Peoria)</dd>
+<dd class="subsidiary">Leader (Wheaton)</dd>
+<dd class="subsidiary">Life (Berwyn/Cicero)</dd>
+<dd class="subsidiary">Macomb Eagle</dd>
+<dd class="subsidiary">Macomb Journal </dd>
+<dd class="subsidiary">Marion Daily Republican </dd>
+<dd class="subsidiary">Morton Times-News</dd>
+<dd class="subsidiary">Murphysboro American</dd>
+<dd class="subsidiary">News (Glen Ellyn)</dd>
+<dd class="subsidiary">Newton Press Mentor</dd>
+<dd class="subsidiary">Norris City Banner</dd>
+<dd class="subsidiary">The Olney Daily Mail </dd>
+<dd class="subsidiary">Oquawka Current</dd>
+<dd class="subsidiary">Orion Gazette</dd>
+<dd class="subsidiary">The Paper (Galesburg)</dd>
+<dd class="subsidiary">Pekin Daily Times </dd>
+<dd class="subsidiary">Press (Addison/Bensenville/Wood Dale)</dd>
+<dd class="subsidiary">Press (Bartlett)</dd>
+<dd class="subsidiary">Press (Bloomingdale/Glendale Heights)</dd>
+<dd class="subsidiary">Press (Elmhurst)</dd>
+<dd class="subsidiary">Press (Winfield/Warrenville/West Chicago)</dd>
+<dd class="subsidiary">Pro-Football Weekly (Downers Grove)</dd>
+<dd class="subsidiary">Progress (WEstmont)</dd>
+<dd class="subsidiary">Randolph County Hearld Tribune (Chester)</dd>
+<dd class="subsidiary">Reporter (Bolingbrook/Lisle/Naperville)</dd>
+<dd class="subsidiary">The Register-Mail (Galesburg)</dd>
+<dd class="subsidiary">Reporter (Downers Grove)</dd>
+<dd class="subsidiary">Reporter (Lemont)</dd>
+<dd class="subsidiary">Republican (Batavia)</dd>
+<dd class="subsidiary">Republican (St. Charles)</dd>
+<dd class="subsidiary">Ridgeway News</dd>
+<dd class="subsidiary">Rockford Register Star</dd>
+<dd class="subsidiary">Roseville Independent</dd>
+<dd class="subsidiary">SI Trader (West Frankfort)</dd>
+<dd class="subsidiary">Spectator (Lombard)</dd>
+<dd class="subsidiary">Star Courier (Kewanee) </dd>
+<dd class="subsidiary">The State Journal-Register (Springfield)</dd>
+<dd class="subsidiary">Steeleville Ledger</dd>
+<dd class="subsidiary">Suburban Life (Brookfield)</dd>
+<dd class="subsidiary">Suburban Life (Countryside)</dd>
+<dd class="subsidiary">Suburban Life (Darien)</dd>
+<dd class="subsidiary">Suburban Life (Hinsdale)</dd>
+<dd class="subsidiary">Suburban Life (La Grange)</dd>
+<dd class="subsidiary">Suburban Life (Riverside)</dd>
+<dd class="subsidiary">Suburban Life (Westchester)</dd>
+<dd class="subsidiary">Teutopolis Press</dd>
+<dd class="subsidiary">The Wabasso Standard</dd>
+<dd class="subsidiary">The Weekly Mail (Olney)</dd>
+<dd class="subsidiary">The Weekly Times (Carmi)</dd>
+<dd class="subsidiary">Times Record (Aledo)</dd>
+<dd class="subsidiary">Washington Times-Reporter</dd>
+<dd class="subsidiary">Woodford Tiems (Peoria)</dd>
+
+<dd class="location-label">Iowa</dd>
+<dd class="subsidiary">Hamburg Reporter</dd>
+
+<dd class="location-label">Kansas</dd>
+<dd class="subsidiary">Augusta Daily Gazette</dd>
+<dd class="subsidiary">Derby Reporter</dd>
+<dd class="subsidiary">Dodge City Daily Globe</dd>
+<dd class="subsidiary">El Dorado Times</dd>
+<dd class="subsidiary">La Estrella (Dodge City)</dd>
+<dd class="subsidiary">The Fort Leavenworth Lamp</dd>
+<dd class="subsidiary">The Girard Press</dd>
+<dd class="subsidiary">Kiowa County Signal (Greensburg)</dd>
+<dd class="subsidiary">Lansing This Week (Leavenworth)</dd>
+<dd class="subsidiary">Leavenworth Times</dd>
+<dd class="subsidiary">McPherson Sentinel</dd>
+<dd class="subsidiary">The Newton Kansan</dd>
+<dd class="subsidiary">The Morning Sun (Pittsburg)</dd>
+<dd class="subsidiary">The Pratt Tribune</dd>
+<dd class="subsidiary">St. Johns News</dd>
+<dd class="subsidiary">Wellington Daily News</dd>
+
+<dd class="location-label">Louisiana</dd>
+<dd class="subsidiary">The Bastrop Daily Enterprise</dd>
+<dd class="subsidiary">Beauregard Daily News (DeRidder)</dd>
+<dd class="subsidiary">The Donaldsonville Chief</dd>
+<dd class="subsidiary">Gonazales Weekly Citizen</dd>
+<dd class="subsidiary">Guardian (Sulphur)</dd>
+<dd class="subsidiary">Leesville Daily Leader</dd>
+<dd class="subsidiary">Post South (Plaquemine)</dd>
+<dd class="subsidiary">Southwest Daily News (Sulphur)</dd>
+<dd class="subsidiary">Vinton News</dd>
+
+<dd class="location-label">Massachusetts</dd>
+<dd class="subsidiary">Abington Mariner</dd>
+<dd class="subsidiary">Allston/Brighton</dd>
+<dd class="subsidiary">Amesbury News</dd>
+<dd class="subsidiary">The Arlington Advocate</dd>
+<dd class="subsidiary">Ashland TAB</dd>
+<dd class="subsidiary">The Beacon (Acton)</dd>
+<dd class="subsidiary">The Beacon-Villager (Maybard/Stow)</dd>
+<dd class="subsidiary">Bedford Minuteman</dd>
+<dd class="subsidiary">Belmont Citizen-Herald</dd>
+<dd class="subsidiary">Beverly Citizen</dd>
+<dd class="subsidiary">Billerica Minuteman</dd>
+<dd class="subsidiary">The Bolton Common</dd>
+<dd class="subsidiary">Bourne Courier</dd>
+<dd class="subsidiary">Braintree Forum</dd>
+<dd class="subsidiary">Bridgewater Independent</dd>
+<dd class="subsidiary">Brookline TAB</dd>
+<dd class="subsidiary">Burlington Union</dd>
+<dd class="subsidiary">Cambdridge Chronicle</dd>
+<dd class="subsidiary">Cambridge TAB</dd>
+<dd class="subsidiary">Canton Journal Carver Reporter</dd>
+<dd class="subsidiary">Cape Ann Beacon</dd>
+<dd class="subsidiary">The Cape Codder (Brewster)</dd>
+<dd class="subsidiary">Chelmsford Independent</dd>
+<dd class="subsidiary">Cohasset Mariner</dd>
+<dd class="subsidiary">The Concord Journal</dd>
+<dd class="subsidiary">Country Gazette (Bellingham)</dd>
+<dd class="subsidiary">The Daily News Transcript (Norwood)</dd>
+<dd class="subsidiary">The Daily News Tribune (Waltham)</dd>
+<dd class="subsidiary">Danvers Herald</dd>
+<dd class="subsidiary">Duxbury Reporter </dd>
+<dd class="subsidiary">East Bridgewater Star</dd>
+<dd class="subsidiary">Easton Journal </dd>
+<dd class="subsidiary">El Latino Expreso (Fall River)</dd>
+<dd class="subsidiary">The Enterprise (Brockton)</dd>
+<dd class="subsidiary">Falmouth Bulletin </dd>
+<dd class="subsidiary">Framingham TAB</dd>
+<dd class="subsidiary">Georgetown Record</dd>
+<dd class="subsidiary">Halifax/Plympton Reporter</dd>
+<dd class="subsidiary">Hamilton-Wenham Chronicle</dd>
+<dd class="subsidiary">Hanover Mariner</dd>
+<dd class="subsidiary">Hanson Town Crier </dd>
+<dd class="subsidiary">The Harvard Post</dd>
+<dd class="subsidiary">Harwich Oracle</dd>
+<dd class="subsidiary">The Herald News (Fall River)</dd>
+<dd class="subsidiary">The Hingham Journal </dd>
+<dd class="subsidiary">Holbrook Sun</dd>
+<dd class="subsidiary">Holliston TAB</dd>
+<dd class="subsidiary">Hopkinton Crier</dd>
+<dd class="subsidiary">Hudson Sun</dd>
+<dd class="subsidiary">Ipswich Chronicle</dd>
+<dd class="subsidiary">Kingston Reporter</dd>
+<dd class="subsidiary">Lakewille Call</dd>
+<dd class="subsidiary">The Lancaster Times & Clinton Courier (Clinton)</dd>
+<dd class="subsidiary">Lexington Minuteman</dd>
+<dd class="subsidiary">Lincoln Journal Littleton Independent</dd>
+<dd class="subsidiary">Malden Observer </dd>
+<dd class="subsidiary">Mansfield News</dd>
+<dd class="subsidiary">Marblehead Reporter</dd>
+<dd class="subsidiary">Marlborough Enterprise</dd>
+<dd class="subsidiary">Medfield Press </dd>
+<dd class="subsidiary">Medford Transcript</dd>
+<dd class="subsidiary">Melrose Free Press</dd>
+<dd class="subsidiary">The MetroWest Daily News (Framingham)</dd>
+<dd class="subsidiary">The Milford Daily News </dd>
+<dd class="subsidiary">The Nantucket Independent</dd>
+<dd class="subsidiary">Natick Bulletin & Tab</dd>
+<dd class="subsidiary">Needham Times</dd>
+<dd class="subsidiary">The Newburyport Current</dd>
+<dd class="subsidiary">Newton TAB</dd>
+<dd class="subsidiary">North Andover Citizen</dd>
+<dd class="subsidiary">The North Attleborough Free Press</dd>
+<dd class="subsidiary">North Shore Sunday (Danvers)</dd>
+<dd class="subsidiary">The Northborough/Southborough Villager</dd>
+<dd class="subsidiary">Norton Mirror</dd>
+<dd class="subsidiary">Norwell Mariner</dd>
+<dd class="subsidiary">Norwood Bulletin</dd>
+<dd class="subsidiary">O Jornal (Fall River)</dd>
+<dd class="subsidiary">O Jornal Brasieiro (Fall River)</dd>
+<dd class="subsidiary">Old Colony Memorial (Plymouth)</dd>
+<dd class="subsidiary">Patriot Ledger (Quincy)</dd>
+<dd class="subsidiary">Pemborke Mariner & Reporter</dd>
+<dd class="subsidiary">Plymouth Bulletin</dd>
+<dd class="subsidiary">The Point (Fall River)</dd>
+<dd class="subsidiary">Provincetown Banner</dd>
+<dd class="subsidiary">Randolph Herald</dd>
+<dd class="subsidiary">Raynham Call</dd>
+<dd class="subsidiary">The Reading Advocate (Reading)</dd>
+<dd class="subsidiary">The Register</dd>
+<dd class="subsidiary">Roslindale Transcript</dd>
+<dd class="subsidiary">Salem Gazette</dd>
+<dd class="subsidiary">Sandwich Broadsider</dd>
+<dd class="subsidiary">Saugus Advertiser </dd>
+<dd class="subsidiary">Scituate Mariner</dd>
+<dd class="subsidiary">The Sentinel (Marion)</dd>
+<dd class="subsidiary">Sharon Advocate</dd>
+<dd class="subsidiary">Sherborn Press (Dover)</dd>
+<dd class="subsidiary">Shrewsbury Chronicle</dd>
+<dd class="subsidiary">Somerville Journal</dd>
+<dd class="subsidiary">Stoneham Sun</dd>
+<dd class="subsidiary">Stoughton Journal</dd>
+<dd class="subsidiary">The Sudbury Town Crier</dd>
+<dd class="subsidiary">Swampscott Reporter</dd>
+<dd class="subsidiary">Taunton Daily Gazette </dd>
+<dd class="subsidiary">Tewksbury Advocate</dd>
+<dd class="subsidiary">The Walpole Times</dd>
+<dd class="subsidiary">The Wayland Town Crier</dd>
+<dd class="subsidiary">The Wellesley Townsman</dd>
+<dd class="subsidiary">The Weston Town Crier</dd>
+<dd class="subsidiary">The Winchester Star</dd>
+<dd class="subsidiary">Tri-Town Transcript (Boxford)</dd>
+<dd class="subsidiary">Wakefield Observer</dd>
+<dd class="subsidiary">Wareham Courier</dd>
+<dd class="subsidiary">Watertown TAB & Press</dd>
+<dd class="subsidiary">West Bridgewater Times</dd>
+<dd class="subsidiary">West Roxbury Transcript</dd>
+<dd class="subsidiary">Westborough News</dd>
+<dd class="subsidiary">Westford Eagle</dd>
+<dd class="subsidiary">Westwood Press</dd>
+<dd class="subsidiary">Weymouth News</dd>
+<dd class="subsidiary">Whitman Times</dd>
+<dd class="subsidiary">Wilmington Advocate</dd>
+<dd class="subsidiary">Woburn Advocate</dd>
+
+<dd class="location-label">Michigan</dd>
+<dd class="subsidiary">Bronson Journal</dd>
+<dd class="subsidiary">Cheboygan Daily Tribune</dd>
+<dd class="subsidiary">The Daily Reporter (Coldwater)</dd>
+<dd class="subsidiary">The Daily Telegram (Adrian)</dd>
+<dd class="subsidiary">The Evening News (Sault Ste. Marie)</dd>
+<dd class="subsidiary">Hamilton Herald (Holland)</dd>
+<dd class="subsidiary">The Hillside Daily News (Hillsdale)</dd>
+<dd class="subsidiary">Holland Area Senior Times</dd>
+<dd class="subsidiary">The Holland Sentinel</dd>
+<dd class="subsidiary">Jonesville Independent (Jonesville)</dd>
+<dd class="subsidiary">Mackinaw Journal (Cheboygan)</dd>
+<dd class="subsidiary">MyLakeShore (Holland)</dd>
+<dd class="subsidiary">MyZeeland (Holland)</dd>
+<dd class="subsidiary">Sampler Hillsdale Daily News</dd>
+<dd class="subsidiary">Sentinel-Standard (Ionia)</dd>
+<dd class="subsidiary">Sturgis Journal</dd>
+<dd class="subsidiary">West Michigan Senior Times (Kalamazoo)</dd>
+
+<dd class="location-label">Minnesota </dd>
+<dd class="subsidiary">Crookston Daily Times</dd>
+<dd class="subsidiary">Granite Falls Advocate Tribute</dd>
+<dd class="subsidiary">Montevideo American News</dd>
+<dd class="subsidiary">Redwood Gazette</dd>
+<dd class="subsidiary">Sleepy Eye Herald Dispatch</dd>
+<dd class="subsidiary">St. James Plaindealer</dd>
+<dd class="subsidiary">Tri-County News (Cottonwood)</dd>
+<dd class="subsidiary">The Valley Journal (Halstad)</dd>
+<dd class="subsidiary">The Wabasso Standard</dd>
+
+<dd class="location-label">Missouri</dd>
+<dd class="subsidiary">Aurora Advertiser</dd>
+<dd class="subsidiary">Boonville Daily News</dd>
+<dd class="subsidiary">The Carthage Press</dd>
+<dd class="subsidiary">Chronicle Herald (Macon)</dd>
+<dd class="subsidiary">Constitution Tribune (Chillicothe)</dd>
+<dd class="subsidiary">Daily Guide (Waynesville)</dd>
+<dd class="subsidiary">The Examiner (Independence)</dd>
+<dd class="subsidiary">Hannibal Courier-Post</dd>
+<dd class="subsidiary">Kirksville Daily Express & News</dd>
+<dd class="subsidiary">Lake Area News Focus (Osage Beach)</dd>
+<dd class="subsidiary">Lake Lifestyles Magazine (Osage Beach)</dd>
+<dd class="subsidiary">Lake of Ozarks Real Estate (Osage Beach)</dd>
+<dd class="subsidiary">Lake Sun Leader (Camdenton)</dd>
+<dd class="subsidiary">Lake SUn Leader Homes (Camdenton)</dd>
+<dd class="subsidiary">Linn County Leader</dd>
+<dd class="subsidiary">Maryville Daily Forum</dd>
+<dd class="subsidiary">The Mexico Ledger (Mexico, MO)</dd>
+<dd class="subsidiary">Moberly Monitor Index</dd>
+<dd class="subsidiary">Neighborhood Showcase (Neosho)</dd>
+<dd class="subsidiary">Neosho Daily News</dd>
+<dd class="subsidiary">The Post Focus on Rural Living (Neosho)</dd>
+<dd class="subsidiary">Rolla Daily News</dd>
+<dd class="subsidiary">Rolla Daily News Plus</dd>
+<dd class="subsidiary">St. James Leader Journal</dd>
+<dd class="subsidiary">Tube Tub (Osage Beach)</dd>
+<dd class="subsidiary">Vacation News (Osage Beach)</dd>
+<dd class="subsidiary">The Vedette (Greenfield/Miller)</dd>
+<dd class="subsidiary">West Side Star (Laurie)</dd>
+
+<dd class="location-label">Nebraska</dd>
+<dd class="subsidiary">Nebraska City News Press</dd>
+<dd class="subsidiary">Syracuse Journal Democrat</dd>
+
+<dd class="location-label">New York</dd>
+<dd class="subsidiary">Brighton-Pittsford Community Post</dd>
+<dd class="subsidiary">Brighton-Pittsford Post</dd>
+<dd class="subsidiary">The Chronicle Express (Penn Yan)</dd>
+<dd class="subsidiary">Daily Messenger (Canandaigua)</dd>
+<dd class="subsidiary">The Evening Telegram (Herkimer)</dd>
+<dd class="subsidiary">The Evening Times (Little Falls)</dd>
+<dd class="subsidiary">Evening Tribune (Hornell)</dd>
+<dd class="subsidiary">Fairport - East Rochester Community Post (Fairport)</dd>
+<dd class="subsidiary">Fairport - East Rochester Post (Fairport)</dd>
+<dd class="subsidiary">Fusion (Utica)</dd>
+<dd class="subsidiary">Gates-Chili Community Post (Gates/Chili)</dd>
+<dd class="subsidiary">Gates-Chili Post (Gates/Chili)</dd>
+<dd class="subsidiary">Genesee Country Express (Dansbury)</dd>
+<dd class="subsidiary">Greece Community Post</dd>
+<dd class="subsidiary">Greece Post</dd>
+<dd class="subsidiary">Irondequoit Community Post</dd>
+<dd class="subsidiary">Irondequoit Post</dd>
+<dd class="subsidiary">The Leader (Corning)</dd>
+<dd class="subsidiary">Messenger Post Connection (Carandaigua)</dd>
+<dd class="subsidiary">Mid-York Weekly (Hamilton)</dd>
+<dd class="subsidiary">Newark Courier-Gazette</dd>
+<dd class="subsidiary">Palmyra Courier Journal</dd>
+<dd class="subsidiary">Penfield Community Post</dd>
+<dd class="subsidiary">Penfield Post</dd>
+<dd class="subsidiary">Rush - Henrietta Community Post (Rush/Henrietta)</dd>
+<dd class="subsidiary">Rush - Henrietta Post (Rush/Henrietta)</dd>
+<dd class="subsidiary">Saugerties Post Star</dd>
+<dd class="subsidiary">Spencerport - Hilton Community Post (Spencerport/Hilton)</dd>
+<dd class="subsidiary">Spencerport - Hilton Post (Spencerport/Hilton)</dd>
+<dd class="subsidiary">Steuben Courier Advocate</dd>
+<dd class="subsidiary">Utica Observer-Dispatch </dd>
+<dd class="subsidiary">Victor - Farmington Community Post (Victor/Farmington)</dd>
+<dd class="subsidiary">Webster Community Post</dd>
+<dd class="subsidiary">Webster Post</dd>
+
+<dd class="location-label">North Dakota</dd>
+<dd class="subsidiary">Devils Lake Daily Journal</dd>
+
+<dd class="location-label">Ohio</dd>
+<dd class="subsidiary">The Independent (Massilon)</dd>
+<dd class="subsidiary">The Repository (Canton)</dd>
+<dd class="subsidiary">The Suburbanite (Green)</dd>
+<dd class="subsidiary">The Times-Reporter (Dover/New Philadelphia)</dd>
+
+
+<dd class="location-label">Oklahoma</dd>
+<dd class="subsidiary">The Daily Ardmoreite (Ardmore)</dd>
+<dd class="subsidiary">The Shawnee News-Star</dd>
+
+<dd class="location-label">Pennsylvania</dd>
+<dd class="subsidiary">Carbondale News</dd>
+<dd class="subsidiary">Echo Pilot (Greencastle)</dd>
+<dd class="subsidiary">The News Eagle (Hawley)</dd>
+<dd class="subsidiary">The Record Herald (Waynesboro)</dd>
+<dd class="subsidiary">The Villager (Moscow)</dd>
+<dd class="subsidiary">The Wayne Independent (Honesdale)</dd>
+
+<dd class="location-label">Tennessee</dd>
+<dd class="subsidiary">The Oak Ridger</dd>
+
+<dd class="location-label">West Virginia</dd>
+<dd class="subsidiary">Jackson Herald (Ripley)</dd>
+<dd class="subsidiary">Jackson Star News (Ripley)</dd>
+<dd class="subsidiary">Mineral Daily News Tribune (Keyser)</dd>
+
+<DT  class="separate-subsection">Shoppers</dt>
+<dd class="location-label">Arkansas</dd>
+<dd class="subsidiary">Arkadelphia Extra</dd>
+<dd class="subsidiary">Daily World TMC (Helena)</dd>
+<dd class="subsidiary">Star Extra (Hope)</dd>
+<dd class="subsidiary">The Xtra (Stuttgart)</dd>
+
+<dd class="location-label">California</dd>
+<dd class="subsidiary">Bargain Hunter (Taft)</dd>
+<dd class="subsidiary">Dining and Entertainment - The Link (Yreka)</dd>
+<dd class="subsidiary">The Gridley Shopping News</dd>
+<dd class="subsidiary">Ridgecrest Ad Delivery</dd>
+<dd class="subsidiary">Super Saver Advertiser - The Link (Mount Shasta)</dd>
+
+<dd class="location-label">Connecticut</dd>
+<dd class="subsidiary">Shop Local Shoreline (Norwich)</dd>
+<dd class="subsidiary">Shop Local Town and Country (Norwich)</dd>
+
+<dd class="location-label">Delaware</dd>
+<dd class="subsidiary">Delmarva Express (Delmarva)</dd>
+
+<dd class="location-label">Illinois</dd>
+<dd class="subsidiary">Advantage (Olney)</dd>
+<dd class="subsidiary">CCAP Special (Flora)</dd>
+<dd class="subsidiary">Chillicothe Choo-Choo Advertiser (Chillicothe)</dd>
+<dd class="subsidiary">East Side Advertiser (East Peoria</dd>
+<dd class="subsidiary">Franklin Press (West Frankfort)</dd>
+<dd class="subsidiary">Fulton County Shopper (Canton)</dd>
+<dd class="subsidiary">Henry County Advertizer/Shopper (Geneseo)</dd>
+<dd class="subsidiary">Jasper County News Eagle (Olney)</dd>
+<dd class="subsidiary">Livingston Shopping News (Pontiac)</dd>
+<dd class="subsidiary">Logan County Shopper (Lincoln)</dd>
+<dd class="subsidiary">Marion Daily Extra - Marion Free Time</dd>
+<dd class="subsidiary">McDonough County Shopper (Macomb)</dd>
+<dd class="subsidiary">McDonough County This Week (Macomb)</dd>
+<dd class="subsidiary">Money Stretcher (Galatia)</dd>
+<dd class="subsidiary">Morton Pumpkin Advertiser (Morton)</dd>
+<dd class="subsidiary">Murphysboro American Monday </dd>
+<dd class="subsidiary">Pekin Express (Peoria)</dd>
+<dd class="subsidiary">Pennysaver (Monmouth)</dd>
+<dd class="subsidiary">Select Homes (Downers Grove)</dd>
+<dd class="subsidiary">Springfield Advertiser </dd>
+<dd class="subsidiary">Springfield Shopper</dd>
+<dd class="subsidiary">Star Shopper (Rockford)</dd>
+<dd class="subsidiary">The Scene (Freeport)</dd>
+<dd class="subsidiary">The Spokesman Extra (Herrin)</dd>
+<dd class="subsidiary">Town Crier (Aledo)</dd>
+<dd class="subsidiary">Tri-County Shopper - Star Power (Kewanee)</dd>
+<dd class="subsidiary">US Express (Peoria)</dd>
+<dd class="subsidiary">White County Shopper News (Carmi)</dd>
+
+<dd class="location-label">Kansas</dd>
+<dd class="subsidiary">Augusta Advertiser </dd>
+<dd class="subsidiary">Prairie Shopper (Newton)</dd>
+<dd class="subsidiary">Prairie Shopper Plus (Newton)</dd>
+<dd class="subsidiary">Shoppers Guide (Derby)</dd>
+<dd class="subsidiary">Shoppers Guide (El Dorado)</dd>
+<dd class="subsidiary">Shopper's Weekly (Dodge City)</dd>
+<dd class="subsidiary">South Central Kansas Shoppers Guide (McPherson)</dd>
+<dd class="subsidiary">Sunflower Shopper (Pratt)</dd>
+<dd class="subsidiary">The Sunland Shopper (Pittsburg)</dd>
+<dd class="subsidiary">The Weekender (Wellington)</dd>
+
+<dd class="location-label">Louisiana</dd>
+<dd class="subsidiary">Calcasieu Shopper (Sulphur)</dd>
+<dd class="subsidiary">The Marketeer (Gonzales)</dd>
+<dd class="subsidiary">Nickel Ads (Gonzales)</dd>
+<dd class="subsidiary">The Pennysaver (Bastrop)</dd>
+<dd class="subsidiary">West Bank Shopper (Plaquemine)</dd>
+
+<dd class="location-label">Massachusetts</dd>
+<dd class="subsidiary">Brockton Pennysaver</dd>
+<dd class="subsidiary">Dennis Pennysaver</dd>
+<dd class="subsidiary">Hyannis/Centerville Pennysaver</dd>
+<dd class="subsidiary">Mashpee/Cotuit Pennysaver</dd>
+<dd class="subsidiary">South Coast Life (Fall River)</dd>
+<dd class="subsidiary">South Coast Life (Taunton)</dd>
+<dd class="subsidiary">The Wrap/Brockton</dd>
+<dd class="subsidiary">The Wrap/Quincy</dd>
+<dd class="subsidiary">Yarmouth Pennysaver (South Yarmouth)</dd>
+
+<dd class="location-label">Michigan</dd>
+<dd class="subsidiary">Adrian Access Shopper (Adrian)</dd>
+<dd class="subsidiary">Adrian Medley (Adrian)</dd>
+<dd class="subsidiary">Coldwater Shoppers Guide</dd>
+<dd class="subsidiary">Flashes Shopping Guide (Allegan)</dd>
+<dd class="subsidiary">Sentinel Standard TMC (Ionia)</dd>
+<dd class="subsidiary">Shopper Fair (Cheboygan)</dd>
+<dd class="subsidiary">Sturgis Gateway Shopper (Sturgis)</dd>
+<dd class="subsidiary">The Reporter Extra (Coldwater)</dd>
+<dd class="subsidiary">Tip-Off Shopping Guide (Jonesville)</dd>
+<dd class="subsidiary">Tri County Buyers Guide (Sault Ste. Marie)</dd>
+
+<dd class="location-label">Minnesota</dd>
+<dd class="subsidiary">Brown County Reminder (Sleepy Eye)</dd>
+<dd class="subsidiary">Crookston Valley Shopper</dd>
+<dd class="subsidiary">Redwood Falls Livewire</dd>
+<dd class="subsidiary">The Shopper (Halstad)</dd>
+<dd class="subsidiary">The Star Advisor (Montevideo)</dd>
+<dd class="subsidiary">Town and Country Shopper (St. James)</dd>
+
+<dd class="location-label">Missouri</dd>
+<dd class="subsidiary">Big AA Shopper (Aurora)</dd>
+<dd class="subsidiary">Big Nickel (Joplin)</dd>
+<dd class="subsidiary">The Carthage Press Scope</dd>
+<dd class="subsidiary">C.T. Extra (Chillicothe)</dd>
+<dd class="subsidiary">Kirksville Crier</dd>
+<dd class="subsidiary">Lake of the Ozarks Boats (Osage Beach)</dd>
+<dd class="subsidiary">Lake Stockton Shopper (Greenfield/Miller)</dd>
+<dd class="subsidiary">Lake Sun Leader Pennysaver (Camdenton)</dd>
+<dd class="subsidiary">Macon Journal</dd>
+<dd class="subsidiary">NEMO Trader (La Plata)</dd>
+<dd class="subsidiary">Penny Press 2 (Maryville)</dd>
+<dd class="subsidiary">Pulaski County Weekly (Waynesville)</dd>
+<dd class="subsidiary">Salt River Journal (Hannibal)</dd>
+<dd class="subsidiary">Sho Me Shopper (Brookfield)</dd>
+<dd class="subsidiary">The Extra (Independence)</dd>
+<dd class="subsidiary">The Gentry County Shopper (Albany)</dd>
+<dd class="subsidiary">The Record (Boonville)</dd>
+<dd class="subsidiary">The Shopper (Moberty)</dd>
+
+<dd class="location-label">New York</dd>
+<dd class="subsidiary">Allegany County Pennysaver (Wellsville)</dd>
+<dd class="subsidiary">Catskill Shopper (Liberty)</dd>
+<dd class="subsidiary">Chronicle Ad-Viser (Penn Yan)</dd>
+<dd class="subsidiary">Corning Pennysaver (Corning)</dd>
+<dd class="subsidiary">Dansville-Wayland Pennysaver</dd>
+<dd class="subsidiary">Geneseeway Shopper (Dansville)</dd>
+<dd class="subsidiary">Hornell Canisteo Penn-E-Saver (Canisteo)</dd>
+<dd class="subsidiary">Images (Herkimer)</dd>
+<dd class="subsidiary">Lyons-Clyde Savannah Shopping Guide (Lyons)</dd>
+<dd class="subsidiary">Mohawk Valley Pennysaver (Ft. Plain)</dd>
+<dd class="subsidiary">Mountain Pennysaver (Saugerties)</dd>
+<dd class="subsidiary">Newark Pennysaver</dd>
+<dd class="subsidiary">Saugerties Pennysaver</dd>
+<dd class="subsidiary">Sodus Pennysaver</dd>
+<dd class="subsidiary">The Pennysaver (Utica)</dd>
+<dd class="subsidiary">The Shopper (Horeheads)</dd>
+<dd class="subsidiary">The Tribune Extra (Hornell)</dd>
+<dd class="subsidiary">Timesaver (Wayne Country)</dd>
+
+<dd class="location-label">Ohio</dd>
+<dd class="subsidiary">Entertainment Spotlight (Ardmore)</dd>
+<dd class="subsidiary">Stark Values (Canton)</dd>
+<dd class="subsidiary">TMC-ExTRa (Dover/New Philadelphia)</dd>
+
+<dd class="location-label">Pennsylvania</dd>
+<dd class="subsidiary">The Independent Extra (Honesdale)</dd>
+
+<dd class="location-label">West Virginia</dd>
+<dd class="subsidiary">Star Herald Weekender (Ravenswood)</dd>
+<dd class="subsidiary">Today's Shopper (Keyser)</dd>
+
+
+ <dd class="datestamp">last updated 7/23/2011</dd>
+</dl>                        
+                     </div>
+                     
+                     
+            	</div>
+			</div>
+            
+			
+            
+		</div>
+	</section>
+
+	<!-- footer section -->
+    <footer class="nocontent hidden-print">
+		<section id="newsletter">
+			<div class="nocontent container-fluid">
+				<div class="row">
+					<h3 class="invert text-center">Weekly highlights</h3>
+					<h5 class="invert text-center">Subscribe to the best of CJR, compiled by the editors every Thursday.</h5>
+				</div>
+				<form class="col-sm-4 col-sm-offset-4" id="email-new" action="http://cjr.us3.list-manage1.com/subscribe/post?u=a23440a018c7ba0619c6f01e6&amp;id=c6de9a59ea" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" novalidate>
+                
+				  <div class="form-group">                    
+                    <input type="email" class="form-control" name="EMAIL" id="mce-EMAIL" placeholder="Enter email" />
+				  </div>
+				  <a type="submit" class="btn invert form-btn center-block" onclick="document.getElementById('email-new').submit(); return false;">Sign up</a>                               
+				</form>
+			</div>
+		</section>
+		<section id="footer-items">
+			<div class="nocontent container-fluid">
+				<div class="row">
+					<div class="col-sm-3">
+						<a href="http://www.cjr.org/about_us/mission_statement.php"><small><strong>About us</strong></small></a>
+						<ul class="list-unstyled">
+							<a href="http://www.cjr.org/contact/contact.php"><li>Contact us</li></a>
+							<a href="http://www.cjr.org/about_us/mission_statement.php"><li>About Columbia Journalism Review</li></a>
+							<a href="http://www.cjr.org/join/for-past-print-subscribers.php"><li>CJR Print Subscriber Update</li></a>
+					                <a href="http://www.cjr.org/about_us/masthead.php"><li>Masthead</li></a>
+							<a href="http://www.cjr.org/about_us/privacy_policy.php"><li>Privacy policy</li></a>
+						</ul>
+					</div>
+					<div class="col-sm-3">
+						<small><strong>Join &amp; Donate</strong></small>
+						<ul class="list-unstyled">
+							<a href="http://www.cjr.org/join/membership.php"><li>Become a member of Columbia Journalism Review</li></a>
+							<a href="http://www.cjr.org/contact/donate.php"><li>Donate to support CJR&rsquo;s mission</li></a>
+						</ul>
+					</div>
+					<div class="col-sm-3">
+						<a href="http://www.cjr.org/advertise/about_our_readers.php"><small><strong>Advertise</strong></small></a>
+						<ul class="list-unstyled">
+							<a href="http://www.cjr.org/advertise/about_our_readers.php"><li>Contact us for more information</li></a>
+							<a href="http://www.cjrarchive.org/advertise/pdfs/CJR-digital-ad-rates-2016.pdf" target="_blank"><li>Digital ad rates</li></a>
+							
+						</ul>
+					</div>
+					<div class="col-sm-3">
+						<a href="http://www.cjr.org/resources/"><small><strong>Resources</strong></small></a>
+						<ul class="list-unstyled">
+							<a href="http://www.cjr.org/tow-center/more_tow_center_reports.php"><li>Research from the Tow Center for Digital Journalism</li></a>
+							<a href="http://www.cjr.org/resources/"><li>Who owns what?</li></a>
+							<a href="http://www.cjr.org/the_delacorte_lectures/all.php"><li>Delacorte Lectures on Magazine Journalism</li></a>
+							<a href="http://www.cjr.org/news_startups_guide/"><li>Guide to online news startups</li></a>
+							<a href="http://www.cjr.org/resources/magazines_and_their_websites/"><li>Magazines and their websites: A CJR survey and report</li></a>
+							<a href="http://cjr.org/supportreporting/"><li>Support reporting</li></a>
+							<a href="http://www.cjr.org/resources/studyguides/index.php"><li>Study guides</li></a>
+						</ul>
+					</div>
+				</div>
+				<div class="row text-center">
+					<ul class="col-sm-12 list-unstyled">
+						<li>&copy; Copyright 2017 Columbia Journalism Review</li>
+					</ul>
+				</div>
+			</div>
+		</section>
+	</footer>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2442246-6', 'auto');
+  ga('send', 'pageview');
+
+</script>
+    
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+<script src="../_resources2015/js/who_owns_what_2015.js" type="text/javascript"></script>
+<script src="../_resources2015/js/nav.js"></script>
+
+</html>

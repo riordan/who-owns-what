@@ -1,0 +1,1933 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="utf-8">
+	<title>
+		Who Owns What - Columbia Journalism Review
+	</title>
+    <meta name="theme-color" content="#f9f0e1">
+    <link rel="apple-touch-icon-precomposed" href="/_resources2015/img/favicon-152.png">
+    <meta name="msapplication-TileColor" content="#f9f0e1">
+    <meta name="msapplication-TileImage" content="/_resources2015/img/favicon-144.png">
+	<link rel="shortcut icon" href="/cjr-icon-2.ico">
+    
+    <!-- css -->
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css">
+	<link rel="stylesheet" href="../_resources2015/css/bootstrap.css">
+	<link href="../_resources2015/css/cjrcorestyles.css" rel="stylesheet">
+    <link href="../_resources2015/css/cjrnavstyles.css" rel="stylesheet">
+    <link href="../_resources2015/css/cjrnavstyles_add_on.css" rel="stylesheet">
+    <link href="../_resources2015/css/who_owns_what.css" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="../_resources2015/fonts/commercial-type-1502-AFHEEU-web/1502-AFHEEU.css">
+    
+	<!-- advertising -->
+    
+    <script type='text/javascript'>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') + 
+    '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+    })();
+    </script>
+    
+	
+    <script type='text/javascript'>
+    googletag.cmd.push(function() {
+    googletag.defineSlot('/3562084/CJR_728x90_2015_article', [728, 90], 'div-gpt-ad-1424816910788-0').addService(googletag.pubads());
+	googletag.defineSlot('/3562084/CJR_300x250_2015_article', [300, 250], 'div-gpt-ad-1424816285842-0').addService(googletag.pubads());
+	googletag.defineSlot('/3562084/CJR_700x500_TEST', [700, 500], 'div-gpt-ad-1374535322548-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+    });
+    </script>
+    
+    <link rel="stylesheet" type="text/css" href="/_resourcesbeta/css/interstitial_full_sail.css" />
+	<script type="text/javascript" src="/interstitial_full_sail_2_on.js">
+    /***********************************************
+    * Interstitial Content Box- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
+    * This notice MUST stay intact for legal use
+    * Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+    ***********************************************/
+    </script> 
+    
+ 
+    
+</head>
+<body>
+
+	<!-- <div class="row ad">
+            <img class="banner-ad col-sm-8 col-sm-offset-2" src="http://placehold.it/728x90" />
+    </div> -->
+        
+    <!-- top nav section -->
+    <div class="row largelogo">
+            <center><a href="http://www.cjr.org/index.php"><img class="largelogoimage" src="http://archives.cjr.org/_resources2015/img/cjr_full_logo.png" border="0" /></a></center>
+    </div>
+    
+    <nav class="nocontent slideout899 navbar-static-top hidden-print">
+      <ul class="list-unstyled main-menu">
+        <li class="text-right"><a href="#" id="nav-close"><img src="http://archives.cjr.org/_resources2015/img/x_close.png" style="width:20px !important; height:21px !important; margin-top: -10px !important;"></a></li>
+        <li><a href="http://www.cjr.org/search_new.php"><span class="glyphicon glyphicon-search" aria-hidden="true"></span> &nbsp;Search</a></li>
+        <li><a href="http://www.cjr.org/index.php">Home</a></li>
+        <li><a href="http://www.cjr.org/watchdog/">Watchdog</a></li>
+        <li><a href="http://www.cjr.org/local_news/">Local News</a></li>
+        <li class="election-nav-mobile"><a href="http://www.cjr.org/covering-trump/">Covering Trump</a></li>
+        <li><a href="http://www.cjr.org/innovations/">Innovations</a></li>
+        <li><a href="http://www.cjr.org/business_of_news/">Business of News</a></li>
+        <li>
+          <ul class="list-unstyled subnav">
+          	  <li class="sub-nav"><a href="http://www.cjr.org/magazine/">New Issue!</a></li>
+              <li class="sub-nav"><a href="http://www.cjr.org/b-roll/">B-Roll</a></li>
+              <li class="sub-nav"><a href="http://www.cjr.org/special_report/">Special Report</a></li>
+              <li class="sub-nav"><a href="http://www.cjr.org/tow-center/">Tow Center</a></li>
+              <li class="sub-nav"><a href="http://www.cjr.org/the_second_opinion/">The Second Opinion</a></li>
+              <li class="sub-nav"><a href="http://www.cjr.org/about_us/mission_statement.php">About Us</a></li>
+              <li class="sub-nav"><a href="http://www.cjr.org/join/membership.php">Join</a></li>
+              <li class="sub-nav"><a href="http://www.cjr.org/contact/donate.php">Donate</a></li>
+              <li class="sub-nav"><a href="http://www.cjr.org/advertise/about_our_readers.php">Advertise</a></li>
+              <li class="sub-nav"><a href="http://www.cjr.org/mailbox/">Mailbox</a></li>
+              <li class="sub-nav"><a href="http://www.cjr.org/resources/">Resources</a></li>
+              <li class="sub-nav-social sub-nav-social-top"><a href="https://www.facebook.com/columbiajournalismreview">Facebook</a></li>
+              <li class="sub-nav-social"><a href="https://twitter.com/CJR">Twitter</a></li>
+              <li class="sub-nav-social"><a href="https://www.instagram.com/columbiajournalismreview/">Instagram</a></li>
+              <li class="sub-nav-social"><a href="https://itunes.apple.com/us/podcast/the-kicker/id1178127323?mt=2" target="_blank">Podcast</a></li>
+          </ul>
+        </li>
+ 
+      </ul>
+    </nav>
+    
+	<section id="tablet-nav" class="back-tablet hidden-print">   
+      <div class="navbar navbar-inverse navbar-static-top hidden-print">      
+          <a class="navbar-brand" href="http://www.cjr.org/index.php"><img src="http://archives.cjr.org/_resources2015/img/cjr-icon-50.gif"></a>
+          <div class="navbar-header pull-right">
+            <a id="nav-expander" class="nav-expander static">
+              <span class="glyphicon glyphicons-menu-hamburger" aria-hidden="true"></span>
+            </a>
+          </div>
+      </div>
+	</section>  
+  
+    <section id="bignav" class="hidden-print">
+    
+		<div class="nocontent container-fluid nav-align">
+            
+            <div class="nocontent nav-container-full">
+            
+            <ul class="navbar-nav nav nav-left-only">
+                <li><a class="nav-first-link" href="http://www.cjr.org/watchdog/">WATCHDOG</a></li>
+                <li><a href="http://www.cjr.org/local_news/">LOCAL NEWS</a></li>
+                <li class="election-nav"><a href="http://www.cjr.org/covering-trump/">COVERING TRUMP</a></li>
+                <li><a href="http://www.cjr.org/innovations/">INNOVATIONS</a></li>
+                <li><a href="http://www.cjr.org/business_of_news/">BUSINESS OF NEWS</a></li>
+                <li role="presentation" class="dropdown">
+                  <a class="dropdown-toggle more-button" data-toggle="dropdown" href="#" role="button" aria-expanded="false">
+                    MORE <span class="caret bignav"></span>
+                  </a>
+                  <ul class="dropdown-menu" role="menu">
+                  	<li class="new-issue"><a href="http://www.cjr.org/magazine/">New Issue!</a></li>
+                    <li><a href="http://www.cjr.org/b-roll/">B&ndash;Roll</a></li>
+                    <li><a href="http://www.cjr.org/special_report/">Special Report</a></li>
+                    <li><a href="http://www.cjr.org/tow-center/">Tow Center</a></li>
+                    <li><a href="http://www.cjr.org/the_second_opinion/">The Second Opinion</a></li>
+                    <li><a href="http://www.cjr.org/about_us/mission_statement.php">About Us</a></li>
+                    <li><a href="http://www.cjr.org/join/membership.php">Join</a></li>
+                    <li><a href="http://www.cjr.org/contact/donate.php">Donate</a></li>
+                    <li><a href="http://www.cjr.org/advertise/about_our_readers.php">Advertise</a></li>
+                    <li><a href="http://www.cjr.org/mailbox/">Mailbox</a></li>
+                    <li class="last"><a href="http://www.cjr.org/resources/">Resources</a></li>
+                  </ul>
+                </li>
+                
+            </ul>
+            
+            <ul class="nav navbar-nav navbar-right">
+                <div id="search-box" class="row hidden">
+                
+                <form id="search" action="https://archives.cjr.org/search.php">
+                <input type="hidden" name="cx" value="002110349687880336610:9r4jniuv6ko" />
+                <input type="hidden" name="cof" value="FORID:11" />
+                <input type="hidden" name="ie" value="UTF-8" />
+                    <fieldset>
+                        <input type="text" class="text" defaultvalue=" " name="q" value=" Search..." onFocus="if (this.value==' Search...') this.value='';" />
+                    </fieldset>
+                </form>
+                
+                </div>
+                <li id="search-icon" data-target="#search-box" class="navglyph"><a href="#"><span class="glyphicon glyphicon-search" aria-hidden="true" title="Search"></span></a></li>
+                <li class="navglyph"><a href="https://www.facebook.com/columbiajournalismreview" target="_blank" title="Facebook"><span class="socicon">b</span></a></li>
+                <li class="navglyph"><a href="https://twitter.com/CJR" target="_blank" title="Twitter"><span class="socicon">a</span></a></li>
+                <li class="navglyph"><a href="https://www.instagram.com/columbiajournalismreview/" target="_blank" title="Instagram"><span class="socicon">x</span></a></li>
+                <li class="navglyph last"><a href="https://itunes.apple.com/us/podcast/the-kicker/id1178127323?mt=2" target="_blank"><span class="glyphicon glyphicons-podcast" aria-hidden="true" title="Podcast"></span></a></li>
+            </ul>
+                     
+            </div>  
+        
+        </div>
+        
+
+    </section>	
+	<section id="stack" class="stack-static">
+    	
+		<div class="container-fluid firstcontent">
+			<div class="row">
+				<div class="col-sm-8 col-sm-offset-2">
+                
+					<h3>Resources</h3>
+	
+					<p>
+                    
+					<a href="index.php">Who Owns What <span class="glyphicon glyphicon-chevron-right static-arrow"></span></a><br>
+                    
+                    <a href="http://www.cjr.org/the_delacorte_lectures/all.php">The Delacorte Lectures <span class="glyphicon glyphicon-chevron-right static-arrow"></span></a><br>
+
+					<a href="http://www.cjr.org/resources/magazines_and_their_websites/index.php">Magazines and Their Websites: A Columbia Journalism Review Survey and Report <span class="glyphicon glyphicon-chevron-right static-arrow"></span></a><br>
+					
+					<a href="studyguides/index.php">Study Guides <span class="glyphicon glyphicon-chevron-right static-arrow"></span></a><br>
+                   
+                    </p>
+                    
+                    <p><hr noshade size="1" width="40%" align="left" /></p>
+                    
+                    <p><strong><i>CJR's</i> guide to what the major media companies own.</strong></p>
+				
+					<p>Select a media company below to begin.</p>
+                    
+                    <p>
+              
+                        <select id="who-owns-what-menu-2" name=tags onChange="MM_jumpMenu('parent',this,1)" class="dropdown">
+                                
+                            <option>Select a media company...</option>
+            
+                            <option>&nbsp;</option>
+            
+                                                            <option value="http://www.cjr.org/resources/?c=21st_century_fox">21st Century Fox</option>
+                                                                <option value="http://www.cjr.org/resources/?c=advance">Advance Publications</option>
+                                                                <option value="http://www.cjr.org/resources/?c=ah_belo_corporation">A.H. Belo Corporation</option>
+                                                                <option value="http://www.cjr.org/resources/?c=amc_networks">AMC Networks</option>
+                                                                <option value="http://www.cjr.org/resources/?c=american">American Media, Inc.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=astral">Astral Media</option>
+                                                                <option value="http://www.cjr.org/resources/?c=belo">Belo Corporation</option>
+                                                                <option value="http://www.cjr.org/resources/?c=bertelsmann">Bertelsmann AG</option>
+                                                                <option value="http://www.cjr.org/resources/?c=cablevision">Cablevision </option>
+                                                                <option value="http://www.cjr.org/resources/?c=canwest">CanWest Global Communications</option>
+                                                                <option value="http://www.cjr.org/resources/?c=cbs">CBS</option>
+                                                                <option value="http://www.cjr.org/resources/?c=cisneros">Cisneros</option>
+                                                                <option value="http://www.cjr.org/resources/?c=citadel">Citadel Broadcasting Corporation</option>
+                                                                <option value="http://www.cjr.org/resources/?c=clearchannel">Clear Channel Communications</option>
+                                                                <option value="http://www.cjr.org/resources/?c=comcast">Comcast</option>
+                                                                <option value="http://www.cjr.org/resources/?c=cnhi">Community Newspaper Holdings, Inc. </option>
+                                                                <option value="http://www.cjr.org/resources/?c=copley">Copley Press Inc.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=corus">Corus Entertainment</option>
+                                                                <option value="http://www.cjr.org/resources/?c=cox">Cox Enterprises</option>
+                                                                <option value="http://www.cjr.org/resources/?c=cumulus">Cumulus Media Inc.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=dowjones">Dow Jones Corporation</option>
+                                                                <option value="http://www.cjr.org/resources/?c=emmis">Emmis Communications</option>
+                                                                <option value="http://www.cjr.org/resources/?c=entercom">Entercom Communications</option>
+                                                                <option value="http://www.cjr.org/resources/?c=fisher">Fisher Communications</option>
+                                                                <option value="http://www.cjr.org/resources/?c=freedom">Freedom Communications</option>
+                                                                <option value="http://www.cjr.org/resources/?c=gannett">Gannett Co., Inc.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=gatehouse_media">GateHouse Media., Inc.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=ge">General Electric</option>
+                                                                <option value="http://www.cjr.org/resources/?c=hachette">Hachette Filipacchi Media U.S.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=halifax">Halifax Media Group</option>
+                                                                <option value="http://www.cjr.org/resources/?c=hearst">Hearst Corporation</option>
+                                                                <option value="http://www.cjr.org/resources/?c=hollinger">Hollinger International, Inc.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=journalregister">Journal Register Company</option>
+                                                                <option value="http://www.cjr.org/resources/?c=knight_ridder">Knight Ridder</option>
+                                                                <option value="http://www.cjr.org/resources/?c=landmark">Landmark Community Newspapers, LLC</option>
+                                                                <option value="http://www.cjr.org/resources/?c=lee">Lee Enterprises</option>
+                                                                <option value="http://www.cjr.org/resources/?c=liberty">Liberty Group Publishing</option>
+                                                                <option value="http://www.cjr.org/resources/?c=libertyinteractive">Liberty Interactive Corporation</option>
+                                                                <option value="http://www.cjr.org/resources/?c=libertymedia">Liberty Media Corporation</option>
+                                                                <option value="http://www.cjr.org/resources/?c=lin_media">LIN Media</option>
+                                                                <option value="http://www.cjr.org/resources/?c=lintv">LIN TV Corporation</option>
+                                                                <option value="http://www.cjr.org/resources/?c=mcclatchy">The McClatchy Company </option>
+                                                                <option value="http://www.cjr.org/resources/?c=mcgraw">The McGraw-Hill Companies </option>
+                                                                <option value="http://www.cjr.org/resources/?c=mediageneral">Media General, Inc.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=medianews">MediaNews Group</option>
+                                                                <option value="http://www.cjr.org/resources/?c=meredith">Meredith Corporation</option>
+                                                                <option value="http://www.cjr.org/resources/?c=morris">Morris Communications Corporation</option>
+                                                                <option value="http://www.cjr.org/resources/?c=newscorp">News Corp</option>
+                                                                <option value="http://www.cjr.org/resources/?c=nyt">The New York Times Company</option>
+                                                                <option value="http://www.cjr.org/resources/?c=newsworld">News World Communications</option>
+                                                                <option value="http://www.cjr.org/resources/?c=news_world_media_development">News World Media Development</option>
+                                                                <option value="http://www.cjr.org/resources/?c=pearson">Pearson</option>
+                                                                <option value="http://www.cjr.org/resources/?c=postmedia_network">Postmedia Network</option>
+                                                                <option value="http://www.cjr.org/resources/?c=pulitzer">Pulitzer, Inc.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=raycom_media">Raycom Media</option>
+                                                                <option value="http://www.cjr.org/resources/?c=reed">Reed Elsevier</option>
+                                                                <option value="http://www.cjr.org/resources/?c=rentpath">RentPath, Inc.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=rogers">Rogers Communications</option>
+                                                                <option value="http://www.cjr.org/resources/?c=scripps">The E.W. Scripps Company</option>
+                                                                <option value="http://www.cjr.org/resources/?c=scripps_networks_interactive">Scripps Networks Interactive</option>
+                                                                <option value="http://www.cjr.org/resources/?c=shaw_media">Shaw Media</option>
+                                                                <option value="http://www.cjr.org/resources/?c=sinclair">Sinclair Broadcast Group</option>
+                                                                <option value="http://www.cjr.org/resources/?c=sony">Sony Corporation</option>
+                                                                <option value="http://www.cjr.org/resources/?c=standard">Standard Radio</option>
+                                                                <option value="http://www.cjr.org/resources/?c=stephens">Stephens Media Group</option>
+                                                                <option value="http://www.cjr.org/resources/?c=sun-times_media">Sun Times Media</option>
+                                                                <option value="http://www.cjr.org/resources/?c=timewarner">Time Warner</option>
+                                                                <option value="http://www.cjr.org/resources/?c=tribune">Tribune Company</option>
+                                                                <option value="http://www.cjr.org/resources/?c=viacom">Viacom, Inc.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=vivendi">Vivendi</option>
+                                                                <option value="http://www.cjr.org/resources/?c=vulcan">Vulcan, Inc.</option>
+                                                                <option value="http://www.cjr.org/resources/?c=disney">The Walt Disney Company</option>
+                                                                <option value="http://www.cjr.org/resources/?c=washpost">The Washington Post Company</option>
+                                                                <option value="http://www.cjr.org/resources/?c=youngbroadcasting">Young Broadcasting</option>
+                                            
+                        </select>
+                       
+                      <br /><br /></p>
+                              
+                      <p id="company-data-loading">Loading...</p>
+                      
+                      <div id="company-data">
+                        
+                            <dl id="media-company-address">
+	<dt>Clear Channel Communications</dt>
+	<dd class="address">200 East Basse Road<br>San Antonio, TX 78209</dd>
+	<dd class="phone">
+		<span class="voice">Voice (210) 822-2828</span>
+	</dd>
+	<dd class="url"><a target="_blank" href="http://www.clearchannel.com">www.clearchannel.com</a></dd>
+</dl>
+
+<ul id="nav-who-owns-what" class="holdings">
+	<li class="holdings"><a href="#" onclick="selectCompanyView('holdings'); return false;">Holdings</a></li>
+</ul>
+
+<dl id="media-company-holdings">
+
+<dt>Radio Stations</dt>
+<dd class="location-label">Alabama</dd>
+<dd>Alabama Radio Net  @ALNN AM</dd>
+<dd>Birmingham </dd>
+<dd class="subsidiary">WDXB FM</dd>
+<dd class="subsidiary">WENN FM</dd>
+<dd class="subsidiary">WERC AM</dd>
+<dd class="subsidiary">WMJJ FM</dd>
+<dd class="subsidiary">WQEN FM</dd>
+<dd>Gadsden </dd>
+<dd class="subsidiary">WAAX AM</dd>
+<dd class="subsidiary">WGMZ FM</dd>
+<dd>Huntsville   </dd>
+<dd class="subsidiary">WBHP AM</dd>
+<dd class="subsidiary">WDRM FM</dd>
+<dd class="subsidiary">WHOS AM</dd>
+<dd class="subsidiary">WQRV FM</dd>
+<dd class="subsidiary">WTAK FM</dd>
+<dd>Mobile  </dd>
+<dd class="subsidiary">WKSJ FM</dd>
+<dd class="subsidiary">WMXC FM</dd>
+<dd class="subsidiary">WNTM AM</dd>
+<dd class="subsidiary">WRKH FM</dd>
+<dd>Montgomery  </dd>
+<dd class="subsidiary">WHLW FM</dd>
+<dd class="subsidiary">WWMG FM</dd>
+<dd class="subsidiary">WZHT FM</dd>
+<dd>Tuscaloosa </dd>
+<dd class="subsidiary">WACT AM</dd>
+<dd class="subsidiary">WRTR FM</dd>
+<dd class="subsidiary">WTXT FM</dd>
+<dd class="subsidiary">WZBQ FM</dd>
+
+<dd class="location-label">Alaska</dd>
+<dd>APRN Net @APRN AM</dd>
+<dd>Anchorage  </dd>
+<dd class="subsidiary">KASH FM</dd>
+<dd class="subsidiary">KBFX FM</dd>
+<dd class="subsidiary">KENI AM</dd>
+<dd class="subsidiary">KGOT FM</dd>
+<dd class="subsidiary">KTZN AM</dd>
+<dd class="subsidiary">KYMG FM</dd>
+<dd>Fairbanks  </dd>
+<dd class="subsidiary">KAKQ FM</dd>
+<dd class="subsidiary">KFBX AM</dd>
+<dd class="subsidiary">KIAK FM</dd>
+<dd class="subsidiary">KKED FM</dd>
+
+<dd class="location-label">Arizona</dd>
+<dd>Phoenix </dd>
+<dd class="subsidiary">KESZ FM</dd>
+<dd class="subsidiary">KFYI AM</dd>
+<dd class="subsidiary">KGME AM</dd>
+<dd class="subsidiary">KMXP FM</dd>
+<dd class="subsidiary">KNIX FM</dd>
+<dd class="subsidiary">KOY AM</dd>
+<dd class="subsidiary">KYOT FM</dd>
+<dd class="subsidiary">KZZP FM</dd>
+<dd>Tucson   </dd>
+<dd class="subsidiary">KNST AM</dd>
+<dd class="subsidiary">KOHT FM</dd>
+<dd class="subsidiary">KRQQ FM</dd>
+<dd class="subsidiary">KTZR FM</dd>
+<dd class="subsidiary">KWFM AM</dd>
+<dd class="subsidiary">KWMT FM</dd>
+<dd class="subsidiary">KXEW AM</dd>
+<dd>Yuma-El Centro  </dd>
+<dd class="subsidiary">KBLU AM</dd>
+<dd class="subsidiary">KQSR FM</dd>
+<dd class="subsidiary">KTTI FM</dd>
+
+<dd class="location-label">Arkansas</dd>
+<dd>Fayetteville  </dd>
+<dd class="subsidiary">KEZA FM</dd>
+<dd class="subsidiary">KIGL FM</dd>
+<dd class="subsidiary">KKIX FM</dd>
+<dd class="subsidiary">KMXF FM</dd>
+<dd>Ft Smith  </dd>
+<dd class="subsidiary">KKBD FM</dd>
+<dd class="subsidiary">KMAG FM</dd>
+<dd class="subsidiary">KWHN AM</dd>
+<dd class="subsidiary">KYHN AM</dd>
+<dd class="subsidiary">KZBB FM</dd>
+<dd>Little Rock  </dd>
+<dd class="subsidiary">KDJE FM</dd>
+<dd class="subsidiary">KHKN FM</dd>
+<dd class="subsidiary">KHLR FM</dd>
+<dd class="subsidiary">KMJX FM</dd>
+<dd class="subsidiary">KSSN FM</dd>
+
+<dd class="location-label">California</dd>
+<dd>Bakersﬁeld </dd>
+<dd class="subsidiary">KBFP AM</dd>
+<dd class="subsidiary">KBFP FM</dd>
+<dd class="subsidiary">KBKO FM</dd>
+<dd class="subsidiary">KDFO FM</dd>
+<dd class="subsidiary">KHTY AM</dd>
+<dd class="subsidiary">KRAB FM</dd>
+<dd>Fresno  </dd>
+<dd class="subsidiary">KALZ FM</dd>
+<dd class="subsidiary">KBOS FM</dd>
+<dd class="subsidiary">KCBL AM</dd>
+<dd class="subsidiary">KFSO FM</dd>
+<dd class="subsidiary">KHGE FM</dd>
+<dd class="subsidiary">KRDU AM</dd>
+<dd class="subsidiary">KRZR FM</dd>
+<dd class="subsidiary">KSOF FM</dd>
+<dd>Lancaster   </dd>
+<dd class="subsidiary">KAVL AM</dd>
+<dd class="subsidiary">KOSS FM</dd>
+<dd class="subsidiary">KTPI AM</dd>
+<dd class="subsidiary">KTPI FM</dd>
+<dd class="subsidiary">KVVS FM</dd>
+<dd>Los Angeles   </dd>
+<dd class="subsidiary">KBIG FM</dd>
+<dd class="subsidiary">KFI AM</dd>
+<dd class="subsidiary">KHHT FM</dd>
+<dd class="subsidiary">KIIS FM</dd>
+<dd class="subsidiary">KLAC AM</dd>
+<dd class="subsidiary">KOST FM</dd>
+<dd class="subsidiary">KTLK AM</dd>
+<dd class="subsidiary">KYSR FM</dd>
+<dd>Modesto  </dd>
+<dd class="subsidiary">KFIV AM</dd>
+<dd class="subsidiary">KJSN FM</dd>
+<dd class="subsidiary">KMRQ FM</dd>
+<dd class="subsidiary">KOSO FM</dd>
+<dd class="subsidiary">KDON FM</dd>
+<dd class="subsidiary">KION AM</dd>
+<dd class="subsidiary">KOCN FM</dd>
+<dd class="subsidiary">KPRC FM</dd>
+<dd class="subsidiary">KTOM FM</dd>
+<dd>Riverside   </dd>
+<dd class="subsidiary">KDIF AM</dd>
+<dd class="subsidiary">KGGI FM</dd>
+<dd class="subsidiary">KKDD AM</dd>
+<dd class="subsidiary">KMYT FM</dd>
+<dd class="subsidiary">KTDD AM</dd>
+<dd class="subsidiary">KTMQ FM</dd>
+<dd>Sacramento  </dd>
+<dd class="subsidiary">KFBK AM</dd>
+<dd class="subsidiary">KGBY FM</dd>
+<dd class="subsidiary">KHYL FM</dd>
+<dd class="subsidiary">KSTE AM</dd>
+<dd>San Diego  </dd>
+<dd class="subsidiary">KGB FM</dd>
+<dd class="subsidiary">KHTS FM</dd>
+<dd class="subsidiary">KIOZ FM</dd>
+<dd class="subsidiary">KLSD AM</dd>
+<dd class="subsidiary">KMYI FM</dd>
+<dd class="subsidiary">KOGO AM</dd>
+<dd class="subsidiary">KUSS FM</dd>
+<dd class="subsidiary">XGLX FM</dd>
+<dd class="subsidiary">XOCL FM</dd>
+<dd class="subsidiary">XTRA AM</dd>
+<dd>San Francisco </dd>
+<dd class="subsidiary">KIOI FM</dd>
+<dd class="subsidiary">KISQ FM</dd>
+<dd class="subsidiary">KKGN AM</dd>
+<dd class="subsidiary">KKSF FM</dd>
+<dd class="subsidiary">KMEL FM</dd>
+<dd class="subsidiary">KNEW AM</dd>
+<dd class="subsidiary">KYLD FM</dd>
+<dd>San Jose  </dd>
+<dd class="subsidiary">KCNL FM</dd>
+<dd class="subsidiary">KSJO FM</dd>
+<dd class="subsidiary">KUFX FM</dd>
+<dd>San Luis Obispo  </dd>
+<dd class="subsidiary">KSLY FM</dd>
+<dd class="subsidiary">KSTT FM</dd>
+<dd class="subsidiary">KURQ FM</dd>
+<dd class="subsidiary">KVEC AM</dd>
+<dd>Santa Barbara CA  </dd>
+<dd class="subsidiary">KDB FM</dd>
+<dd>Santa Maria  </dd>
+<dd class="subsidiary">KSMA AM</dd>
+<dd class="subsidiary">KSMY FM</dd>
+<dd class="subsidiary">KSNI FM</dd>
+<dd class="subsidiary">KXFM FM</dd>
+<dd>Stockton  </dd>
+<dd class="subsidiary">KQOD FM</dd>
+<dd class="subsidiary">KWSX AM</dd>
+<dd>Victor Valley  </dd>
+<dd class="subsidiary">KATJ FM</dd>
+<dd class="subsidiary">KIXA FM</dd>
+<dd class="subsidiary">KIXW AM</dd>
+<dd class="subsidiary">KRSX FM</dd>
+<dd class="subsidiary">KZXY FM</dd>
+<dd>Visalia  </dd>
+<dd class="subsidiary">KEZL AM</dd>
+
+<dd class="location-label">Colorado</dd>
+<dd>Colorado Springs  </dd>
+<dd class="subsidiary">KIBT FM</dd>
+<dd class="subsidiary">KKLI FM</dd>
+<dd class="subsidiary">KVUU FM</dd>
+<dd>Denver </dd>
+<dd class="subsidiary">KBCO FM</dd>
+<dd class="subsidiary">KBPI FM</dd>
+<dd class="subsidiary">KHOW AM</dd>
+<dd class="subsidiary">KKZN AM</dd>
+<dd class="subsidiary">KOA AM</dd>
+<dd class="subsidiary">KPTT FM</dd>
+<dd class="subsidiary">KRFX FM</dd>
+<dd class="subsidiary">KTCL FM</dd>
+<dd>Ft Collins  </dd>
+<dd class="subsidiary">KCOL AM</dd>
+<dd class="subsidiary">KFKA AM</dd>
+<dd class="subsidiary">KIIX AM</dd>
+<dd class="subsidiary">KPAW FM</dd>
+<dd class="subsidiary">KQMY FM</dd>
+<dd class="subsidiary">KSME FM</dd>
+<dd>Pueblo  </dd>
+<dd class="subsidiary">KCCY FM</dd>
+<dd class="subsidiary">KCSJ AM</dd>
+<dd class="subsidiary">KDZA FM</dd>
+<dd class="subsidiary">KGHF AM</dd>
+<dd class="subsidiary">KPHT FM</dd>
+
+<dd class="location-label">Connecticut</dd>
+<dd>Hartford  </dd>
+<dd class="subsidiary">WHCN FM</dd>
+<dd class="subsidiary">WKSS FM</dd>
+<dd class="subsidiary">WPHH FM</dd>
+<dd class="subsidiary">WPOP AM</dd>
+<dd class="subsidiary">WWYZ FM</dd>
+<dd class="subsidiary">WPHH FM</dd>
+<dd class="subsidiary">WPOP AM</dd>
+<dd class="subsidiary">WWYZ FM</dd>
+<dd>New Haven </dd>
+<dd class="subsidiary">WAVZ AM</dd>
+<dd class="subsidiary">WELI AM</dd>
+<dd class="subsidiary">WKCI FM</dd>
+
+<dd class="location-label">Delaware</dd>
+<dd>Wilmington   </dd>
+<dd class="subsidiary">WDOV AM</dd>
+<dd class="subsidiary">WDSD FM</dd>
+<dd class="subsidiary">WILM AM</dd>
+<dd class="subsidiary">WRDX FM</dd>
+<dd class="subsidiary">WWTX AM</dd>
+
+<dd class="location-label">Florida</dd>
+<dd>Florida's Radio Net  @FLRN AM</dd>
+<dd>Florida Keys </dd>
+<dd class="subsidiary">WAIL FM</dd>
+<dd class="subsidiary">WCTH FM</dd>
+<dd class="subsidiary">WEOW FM</dd>
+<dd class="subsidiary">WFKZ FM</dd>
+<dd class="subsidiary">WKEY FM</dd>
+<dd class="subsidiary">WKEZ FM</dd>
+<dd class="subsidiary">WKWF AM</dd>
+<dd>Ft Myers  </dd>
+<dd class="subsidiary">WBTT FM</dd>
+<dd class="subsidiary">WCKT FM</dd>
+<dd class="subsidiary">WOLZ FM</dd>
+<dd class="subsidiary">WZJZ FM</dd>
+<dd>Ft Pierce </dd>
+<dd class="subsidiary">WAVW FM</dd>
+<dd class="subsidiary">WCZR FM</dd>
+<dd class="subsidiary">WQOL FM</dd>
+<dd class="subsidiary">WSYR FM</dd>
+<dd class="subsidiary">WZTA AM</dd>
+<dd>Jacksonville  </dd>
+<dd class="subsidiary">WFKS FM</dd>
+<dd class="subsidiary">WFXJ AM</dd>
+<dd class="subsidiary">WJBT FM</dd>
+<dd class="subsidiary">WPLA FM</dd>
+<dd class="subsidiary">WQIK FM</dd>
+<dd class="subsidiary">WROO FM</dd>
+<dd class="subsidiary">WSOL FM</dd>
+<dd>Melbourne  </dd>
+<dd class="subsidiary">WBVD FM</dd>
+<dd class="subsidiary">WLRQ FM</dd>
+<dd class="subsidiary">WMMB AM</dd>
+<dd class="subsidiary">WMMV AM</dd>
+<dd>Miami  </dd>
+<dd class="subsidiary">WBGG FM</dd>
+<dd class="subsidiary">WHYI FM</dd>
+<dd class="subsidiary">WINZ AM</dd>
+<dd class="subsidiary">WIOD AM</dd>
+<dd class="subsidiary">WLVE FM</dd>
+<dd class="subsidiary">WMGE FM</dd>
+<dd class="subsidiary">WMIB FM</dd>
+<dd>Orlando </dd>
+<dd class="subsidiary">WFLF AM</dd>
+<dd class="subsidiary">WJRR FM</dd>
+<dd class="subsidiary">WMGF FM</dd>
+<dd class="subsidiary">WQTM AM</dd>
+<dd class="subsidiary">WRUM FM</dd>
+<dd class="subsidiary">WTKS FM</dd>
+<dd class="subsidiary">WXXL FM</dd>
+<dd>Panama Cty  </dd>
+<dd class="subsidiary">WDIZ AM</dd>
+<dd class="subsidiary">WEBZ FM</dd>
+<dd class="subsidiary">WFLF FM</dd>
+<dd class="subsidiary">WFSY FM</dd>
+<dd class="subsidiary">WPAP FM</dd>
+<dd class="subsidiary">WPBH FM</dd>
+<dd>Pensacola  </dd>
+<dd class="subsidiary">WTKX FM</dd>
+<dd class="subsidiary">WYCL FM</dd>
+<dd>Punta Gorda FL  </dd>
+<dd class="subsidiary">WBCG FM</dd>
+<dd class="subsidiary">WCCF AM</dd>
+<dd class="subsidiary">WCVU FM</dd>
+<dd class="subsidiary">WIKX FM</dd>
+<dd class="subsidiary">WKII AM</dd>
+<dd>Sarasota  </dd>
+<dd class="subsidiary">WCTQ FM</dd>
+<dd class="subsidiary">WDDV AM</dd>
+<dd class="subsidiary">WLTQ FM</dd>
+<dd class="subsidiary">WSDV AM</dd>
+<dd class="subsidiary">WSRZ FM</dd>
+<dd class="subsidiary">WTZB FM</dd>
+<dd>Tampa  </dd>
+<dd class="subsidiary">WBTP FM</dd>
+<dd class="subsidiary">WDAE AM</dd>
+<dd class="subsidiary">WFLA AM</dd>
+<dd class="subsidiary">WFLZ FM</dd>
+<dd class="subsidiary">WFUS FM</dd>
+<dd class="subsidiary">WHNZ AM</dd>
+<dd class="subsidiary">WMTX FM</dd>
+<dd class="subsidiary">WXTB FM</dd>
+<dd>West Palm </dd>
+<dd class="subsidiary">WBZT AM</dd>
+<dd class="subsidiary">WJNO AM</dd>
+<dd class="subsidiary">WKGR FM</dd>
+<dd class="subsidiary">WLDI FM</dd>
+<dd class="subsidiary">WOLL FM</dd>
+<dd class="subsidiary">WRLX FM</dd>
+<dd class="subsidiary">WZZR FM</dd>
+
+<dd class="location-label">Georgia</dd>
+<dd>Georgia News Net  @GANN AM</dd>
+<dd>Albany  </dd>
+<dd class="subsidiary">WJIZ FM</dd>
+<dd class="subsidiary">WJYZ AM</dd>
+<dd class="subsidiary">WMRZ FM</dd>
+<dd class="subsidiary">WOBB FM</dd>
+<dd class="subsidiary">WRAK FM</dd>
+<dd>Atlanta  </dd>
+<dd class="subsidiary">WBZY FM</dd>
+<dd class="subsidiary">WCOH AM</dd>
+<dd class="subsidiary">WGST AM</dd>
+<dd class="subsidiary">WKLS FM</dd>
+<dd class="subsidiary">WLTM FM</dd>
+<dd class="subsidiary">WMGP FM</dd>
+<dd class="subsidiary">WUBL FM</dd>
+<dd class="subsidiary">WVCC AM</dd>
+<dd class="subsidiary">WWVA FM</dd>
+<dd>Augusta  </dd>
+<dd class="subsidiary">WBBQ FM</dd>
+<dd class="subsidiary">WEKL FM</dd>
+<dd class="subsidiary">WIBL FM</dd>
+<dd class="subsidiary">WKSP FM</dd>
+<dd class="subsidiary">WPRW FM</dd>
+<dd class="subsidiary">WSGF AM</dd>
+<dd class="subsidiary">WYNF AM</dd>
+<dd>Columbus </dd>
+<dd class="subsidiary">WAGH FM</dd>
+<dd class="subsidiary">WBFA FM</dd>
+<dd class="subsidiary">WDAK AM</dd>
+<dd class="subsidiary">WGSY FM</dd>
+<dd class="subsidiary">WHAL AM</dd>
+<dd class="subsidiary">WSHE AM</dd>
+<dd class="subsidiary">WSTH FM</dd>
+<dd class="subsidiary">WVRK FM</dd>
+<dd>Macon  </dd>
+<dd class="subsidiary">WEBL FM</dd>
+<dd class="subsidiary">WIBB FM</dd>
+<dd class="subsidiary">WLCG AM</dd>
+<dd class="subsidiary">WPCH FM</dd>
+<dd class="subsidiary">WQBZ FM</dd>
+<dd class="subsidiary">WRBV FM</dd>
+<dd class="subsidiary">WVVM AM</dd>
+<dd>Savannah  </dd>
+<dd class="subsidiary">WAEV FM</dd>
+<dd class="subsidiary">WLVH FM</dd>
+<dd class="subsidiary">WQBT FM</dd>
+<dd class="subsidiary">WSOK AM</dd>
+<dd class="subsidiary">WTKS AM</dd>
+<dd class="subsidiary">WYKZ FM</dd>
+
+<dd class="location-label">Hawaii</dd>
+<dd>Honolulu  </dd>
+<dd class="subsidiary">KDNN FM</dd>
+<dd class="subsidiary">KHBZ AM</dd>
+<dd class="subsidiary">KHVH AM</dd>
+<dd class="subsidiary">KIKI FM</dd>
+<dd class="subsidiary">KSSK AM</dd>
+<dd class="subsidiary">KSSK FM</dd>
+<dd class="subsidiary">KUCD FM</dd>
+
+<dd class="location-label">Idaho</dd>
+<dd>Idaho Falls </dd>
+<dd class="subsidiary">KID AM</dd>
+<dd class="subsidiary">KID FM</dd>
+<dd>Pocatello   </dd>
+<dd class="subsidiary">KLLP FM</dd>
+<dd class="subsidiary">KPKY FM</dd>
+<dd class="subsidiary">KWIK AM</dd>
+<dd>Twin Falls  </dd>
+<dd class="subsidiary">KEZJ FM</dd>
+<dd class="subsidiary">KLIX AM</dd>
+<dd class="subsidiary">KLIX FM</dd>
+
+<dd class="location-label">Illinois</dd>
+<dd>Chicago   </dd>
+<dd class="subsidiary">WGCI FM</dd>
+<dd class="subsidiary">WGRB AM</dd>
+<dd class="subsidiary">WKSC FM</dd>
+<dd class="subsidiary">WLIT FM</dd>
+<dd class="subsidiary">WNUA FM</dd>
+<dd class="subsidiary">WVAZ FM</dd>
+<dd>Marion-Carbondale  </dd>
+<dd class="subsidiary">WDDD AM</dd>
+<dd class="subsidiary">WDDD FM</dd>
+<dd class="subsidiary">WFRX AM</dd>
+<dd class="subsidiary">WQUL FM</dd>
+<dd class="subsidiary">WTAO FM</dd>
+<dd class="subsidiary">WVZA FM</dd>
+
+<dd class="location-label">Indiana</dd>
+<dd>Indianapolis  </dd>
+<dd class="subsidiary">WFBQ FM</dd>
+<dd class="subsidiary">WNDE AM</dd>
+<dd class="subsidiary">WRZX FM</dd>
+
+<dd class="location-label">Iowa</dd>
+<dd>Iowa AG Radio Net  @IRN AM</dd>
+<dd>Iowa Radio Network  @IRNN AM</dd>
+<dd>Burlington  </dd>
+<dd class="subsidiary">KBUR AM</dd>
+<dd class="subsidiary">KGRS FM</dd>
+<dd>Cedar Rapids  </dd>
+<dd class="subsidiary">KKRQ FM</dd>
+<dd class="subsidiary">KMJM AM</dd>
+<dd class="subsidiary">KXIC AM</dd>
+<dd class="subsidiary">WMT AM</dd>
+<dd class="subsidiary">WMT FM</dd>
+<dd>Des Moines  </dd>
+<dd class="subsidiary">KASI AM</dd>
+<dd class="subsidiary">KCCQ FM</dd>
+<dd class="subsidiary">KDRB FM</dd>
+<dd class="subsidiary">KKDM FM</dd>
+<dd class="subsidiary">KPTL FM</dd>
+<dd class="subsidiary">KXNO AM</dd>
+<dd class="subsidiary">WHO AM</dd>
+<dd>Ft Madison  </dd>
+<dd class="subsidiary">KBKB AM</dd>
+<dd class="subsidiary">KBKB FM</dd>
+<dd>Quad Cities (IA-IL)  </dd>
+<dd class="subsidiary">KCQQ FM</dd>
+<dd class="subsidiary">KMXG FM</dd>
+<dd class="subsidiary">KUUL FM</dd>
+<dd class="subsidiary">WFXN AM</dd>
+<dd class="subsidiary">WKBF AM</dd>
+<dd class="subsidiary">WLLR FM</dd>
+<dd class="subsidiary">WOC AM</dd>
+<dd>Sioux City  </dd>
+<dd class="subsidiary">KGLI FM</dd>
+<dd class="subsidiary">KMNS AM</dd>
+<dd class="subsidiary">KSEZ FM</dd>
+<dd class="subsidiary">KSFT FM</dd>
+<dd class="subsidiary">KWSL AM</dd>
+
+<dd class="location-label">Kansas</dd>
+<dd>Wichita  </dd>
+<dd class="subsidiary">KRBB FM</dd>
+<dd class="subsidiary">KTHR FM</dd>
+<dd class="subsidiary">KZCH FM</dd>
+<dd class="subsidiary">KZSN FM</dd>
+
+<dd class="location-label">Kentucky</dd>
+<dd>Kentucky AG Net  @KYAN AM</dd>
+<dd>Kentucky News Net  @KYNN AM</dd>
+<dd>Frankfort  </dd>
+<dd class="subsidiary">WFKY AM</dd>
+<dd class="subsidiary">WKED FM</dd>
+<dd class="subsidiary">WKYW FM</dd>
+<dd>Lexington</dd> 
+<dd class="subsidiary">WBUL FM</dd>
+<dd class="subsidiary">WKQQ FM</dd>
+<dd class="subsidiary">WLAP AM</dd>
+<dd class="subsidiary">WLKT FM</dd>
+<dd class="subsidiary">WMKJ FM</dd>
+<dd class="subsidiary">WMXL FM</dd>
+<dd>Louisville   </dd>
+<dd class="subsidiary">WAMZ FM</dd>
+<dd class="subsidiary">WCND AM</dd>
+<dd class="subsidiary">WHAS AM</dd>
+<dd class="subsidiary">WKJK AM</dd>
+<dd class="subsidiary">WKRD AM</dd>
+<dd class="subsidiary">WKRD FM</dd>
+<dd class="subsidiary">WLUE FM</dd>
+<dd class="subsidiary">WQMF FM</dd>
+<dd class="subsidiary">WTFX FM</dd>
+<dd class="subsidiary">WZKF FM</dd>
+<dd>Somerset  </dd>
+<dd class="subsidiary">WKEQ FM</dd>
+<dd class="subsidiary">WLLK FM</dd>
+<dd class="subsidiary">WSEK FM</dd>
+<dd class="subsidiary">WSFC AM</dd>
+<dd class="subsidiary">WSFE AM</dd>
+
+<dd class="location-label">Louisiana</dd>
+<dd>Baton Rouge  </dd>
+<dd class="subsidiary">KRVE FM</dd>
+<dd class="subsidiary">WFMF FM</dd>
+<dd class="subsidiary">WJBO AM</dd>
+<dd class="subsidiary">WPYR AM</dd>
+<dd class="subsidiary">WSKR AM</dd>
+<dd class="subsidiary">WYNK FM</dd>
+<dd>New Orleans  </dd>
+<dd class="subsidiary">KYRK FM</dd>
+<dd class="subsidiary">WNOE FM</dd>
+<dd class="subsidiary">WODT AM</dd>
+<dd class="subsidiary">WQUE FM</dd>
+<dd class="subsidiary">WRNO FM</dd>
+<dd class="subsidiary">WYLD AM</dd>
+<dd class="subsidiary">WYLD FM</dd>
+
+<dd class="location-label">Maine</dd>
+<dd>Augusta  </dd>
+<dd class="subsidiary">WABK FM</dd>
+<dd class="subsidiary">WCME FM</dd>
+<dd class="subsidiary">WFAU AM</dd>
+<dd class="subsidiary">WIGY FM</dd>
+<dd class="subsidiary">WKCG FM</dd>
+<dd class="subsidiary">WTOS FM</dd>
+<dd>Bangor  </dd>
+<dd class="subsidiary">WABI AM</dd>
+<dd class="subsidiary">WBFB FM</dd>
+<dd class="subsidiary">WFZX FM</dd>
+<dd class="subsidiary">WGUY FM</dd>
+<dd class="subsidiary">WKSQ FM</dd>
+<dd class="subsidiary">WLKE FM</dd>
+<dd class="subsidiary">WVOM FM</dd>
+<dd class="subsidiary">WWBX FM</dd>
+<dd>Rockland  </dd>
+<dd class="subsidiary">WMCM FM</dd>
+<dd class="subsidiary">WQSS FM</dd>
+<dd class="subsidiary">WRKD AM</dd>
+
+<dd class="location-label">Maryland</dd>
+<dd>Baltimore  </dd>
+<dd class="subsidiary">WCAO AM</dd>
+<dd class="subsidiary">WPOC FM</dd>
+<dd class="subsidiary">WSMJ FM</dd>
+<dd>Frederick </dd>
+<dd class="subsidiary">WFMD AM</dd>
+<dd class="subsidiary">WFRE FM</dd>
+<dd>Salisbury  </dd>
+<dd class="subsidiary">WDKZ FM</dd>
+<dd class="subsidiary">WJDY AM</dd>
+<dd class="subsidiary">WLBW FM</dd>
+<dd class="subsidiary">WOSC FM</dd>
+<dd class="subsidiary">WQHQ FM</dd>
+<dd class="subsidiary">WSBY FM</dd>
+<dd class="subsidiary">WTGM AM</dd>
+<dd class="subsidiary">WWFG FM</dd>
+
+<dd class="location-label">Massachusetts</dd>
+<dd>Boston  </dd>
+<dd class="subsidiary">WJMN FM</dd>
+<dd class="subsidiary">WKOX AM</dd>
+<dd class="subsidiary">WXKS AM</dd>
+<dd class="subsidiary">WXKS FM</dd>
+<dd>Springﬁeld  </dd>
+<dd class="subsidiary">WHYN AM</dd>
+<dd class="subsidiary">WHYN FM</dd>
+<dd class="subsidiary">WNNZ AM</dd>
+<dd class="subsidiary">WPKX FM</dd>
+<dd class="subsidiary">WRNX FM</dd>
+<dd class="subsidiary">Worcester MA  </dd>
+<dd class="subsidiary">WSRS FM</dd>
+<dd class="subsidiary">WTAG AM</dd>
+
+<dd class="location-label">Michigan</dd>
+<dd>Detroit  </dd>
+<dd class="subsidiary">WDFN AM</dd>
+<dd class="subsidiary">WDTW AM</dd>
+<dd class="subsidiary">WDTW FM</dd>
+<dd class="subsidiary">WJLB FM</dd>
+<dd class="subsidiary">WKQI FM</dd>
+<dd class="subsidiary">WMXD FM</dd>
+<dd class="subsidiary">WNIC FM</dd>
+<dd>Grand Rapids  </dd>
+<dd class="subsidiary">WBCT FM</dd>
+<dd class="subsidiary">WBFX FM</dd>
+<dd class="subsidiary">WMAX FM</dd>
+<dd class="subsidiary">WOOD AM</dd>
+<dd class="subsidiary">WOOD FM</dd>
+<dd class="subsidiary">WSNX FM</dd>
+<dd class="subsidiary">WTKG AM</dd>
+<dd>Muskegon  </dd>
+<dd class="subsidiary">WKBZ AM</dd>
+<dd class="subsidiary">WMHG AM</dd>
+<dd class="subsidiary">WMRR FM</dd>
+<dd class="subsidiary">WMUS FM</dd>
+<dd class="subsidiary">WSHZ FM</dd>
+
+<dd class="location-label">Minnesota</dd>
+<dd>Duluth  </dd>
+<dd class="subsidiary">KBMX FM</dd>
+<dd class="subsidiary">KKCB FM</dd>
+<dd class="subsidiary">KLDJ FM</dd>
+<dd class="subsidiary">WEBC AM</dd>
+<dd>Minneapolis  </dd>
+<dd class="subsidiary">KDWB FM</dd>
+<dd class="subsidiary">KEEY FM</dd>
+<dd class="subsidiary">KFAN AM</dd>
+<dd class="subsidiary">KFXN AM</dd>
+<dd class="subsidiary">KQQL FM</dd>
+<dd class="subsidiary">KTCZ FM</dd>
+<dd class="subsidiary">KTLK FM</dd>
+<dd>Rochester   </dd>
+<dd class="subsidiary">KMFX AM</dd>
+<dd class="subsidiary">KMFX FM</dd>
+<dd class="subsidiary">KNFX AM</dd>
+<dd class="subsidiary">KRCH FM</dd>
+<dd class="subsidiary">KWEB AM</dd>
+
+<dd class="location-label">Mississippi</dd>
+<dd>Biloxi </dd>
+<dd class="subsidiary">WBUV FM</dd>
+<dd class="subsidiary">WKNN FM</dd>
+<dd class="subsidiary">WMJY FM</dd>
+<dd class="subsidiary">WQYZ FM</dd>
+<dd>Jackson  </dd>
+<dd class="subsidiary">WHLH FM</dd>
+<dd class="subsidiary">WJDX AM</dd>
+<dd class="subsidiary">WMSI FM</dd>
+<dd class="subsidiary">WQJQ FM</dd>
+<dd class="subsidiary">WSTZ FM</dd>
+<dd class="subsidiary">WZRX AM</dd>
+<dd>Laurel </dd>
+<dd class="subsidiary">WEEZ AM</dd>
+<dd class="subsidiary">WFOR AM</dd>
+<dd class="subsidiary">WHER FM</dd>
+<dd class="subsidiary">WJKX FM</dd>
+<dd class="subsidiary">WNSL FM</dd>
+<dd class="subsidiary">WUSW FM</dd>
+<dd class="subsidiary">WZLD FM</dd>
+<dd>Meridian  </dd>
+<dd class="subsidiary">WHTU FM</dd>
+<dd class="subsidiary">WJDQ FM</dd>
+<dd class="subsidiary">WMSO FM</dd>
+<dd class="subsidiary">WYHL AM</dd>
+<dd class="subsidiary">WZKS FM</dd>
+<dd>Tupelo  </dd>
+<dd class="subsidiary">WBVV FM</dd>
+<dd class="subsidiary">WESE FM</dd>
+<dd class="subsidiary">WKMQ AM</dd>
+<dd class="subsidiary">WTUP AM</dd>
+<dd class="subsidiary">WWKZ FM</dd>
+<dd class="subsidiary">WWZD FM</dd>
+
+<dd class="location-label">Missouri</dd>
+<dd>Springﬁeld  </dd>
+<dd class="subsidiary">KGBX FM</dd>
+<dd class="subsidiary">KGMY AM</dd>
+<dd class="subsidiary">KSWF FM</dd>
+<dd class="subsidiary">KTOZ FM</dd>
+<dd class="subsidiary">KXUS FM</dd>
+<dd>St Louis </dd>
+<dd class="subsidiary">KATZ FM</dd>
+<dd class="subsidiary">KLOU FM</dd>
+<dd class="subsidiary">KMJM FM</dd>
+<dd class="subsidiary">KSD FM</dd>
+<dd class="subsidiary">KSLZ FM</dd>
+
+<dd class="location-label">Montana</dd>
+<dd>Billings   </dd>
+<dd class="subsidiary">KBBB FM</dd>
+<dd class="subsidiary">KBUL AM</dd>
+<dd class="subsidiary">KCTR FM</dd>
+<dd class="subsidiary">KKBR FM</dd>
+<dd class="subsidiary">KMHK FM</dd>
+<dd>Bozeman   </dd>
+<dd class="subsidiary">KISN FM</dd>
+<dd class="subsidiary">KMMS AM</dd>
+<dd class="subsidiary">KMMS FM</dd>
+<dd class="subsidiary">KPRK AM</dd>
+<dd class="subsidiary">KXLB FM</dd>
+<dd class="subsidiary">KZMY FM</dd>
+<dd>Missoula </dd>
+<dd class="subsidiary">KBAZ FM</dd>
+<dd class="subsidiary">KENR FM</dd>
+<dd class="subsidiary">KGVO AM</dd>
+<dd class="subsidiary">KLCY AM</dd>
+<dd class="subsidiary">KLYQ AM</dd>
+<dd class="subsidiary">KYSS FM</dd>
+<dd>Shelby  </dd>
+<dd class="subsidiary">KSEN AM</dd>
+<dd class="subsidiary">KZIN FM</dd>
+
+<dd class="location-label">Nebraska</dd>
+<dd>Ogallala  </dd>
+<dd class="subsidiary">KMCX FM</dd>
+<dd class="subsidiary">KOGA AM</dd>
+<dd class="subsidiary">KOGA FM</dd>
+<dd>Omaha </dd>
+<dd class="subsidiary">KFAB AM</dd>
+<dd class="subsidiary">KGOR FM</dd>
+<dd class="subsidiary">KHUS FM</dd>
+<dd class="subsidiary">KQBW FM</dd>
+<dd class="subsidiary">KXKT FM</dd>
+
+<dd class="location-label">Nevada</dd>
+<dd>Las Vegas   </dd>
+<dd class="subsidiary">KPLV FM</dd>
+<dd class="subsidiary">KSNE FM</dd>
+<dd class="subsidiary">KWID FM</dd>
+<dd class="subsidiary">KWNR FM</dd>
+
+<dd class="location-label">New Hampshire</dd>
+<dd>Concord  </dd>
+<dd class="subsidiary">WFTN AM</dd>
+<dd class="subsidiary">WFTN FM</dd>
+<dd class="subsidiary">WPNH AM</dd>
+<dd class="subsidiary">WPNH FM</dd>
+<dd class="subsidiary">WSCY FM</dd>
+<dd>Manchester  </dd>
+<dd class="subsidiary">WGIR AM</dd>
+<dd class="subsidiary">WGIR FM</dd>
+<dd>Portsmouth  </dd>
+<dd class="subsidiary">WERZ FM</dd>
+<dd class="subsidiary">WGIN AM</dd>
+<dd class="subsidiary">WGIP AM</dd>
+<dd class="subsidiary">WHEB FM</dd>
+<dd class="subsidiary">WMYF AM</dd>
+<dd class="subsidiary">WQSO FM</dd>
+<dd class="subsidiary">WUBB FM</dd>
+
+<dd class="location-label">New Jersey</dd>
+<dd>Sussex   </dd>
+<dd class="subsidiary">WHCY FM</dd>
+<dd class="subsidiary">WNNJ AM</dd>
+<dd class="subsidiary">WNNJ FM</dd>
+<dd class="subsidiary">WSUS FM</dd>
+
+<dd class="location-label">New Mexico</dd>
+<dd>Albuquerque </dd>
+<dd class="subsidiary">KABQ AM</dd>
+<dd class="subsidiary">KABQ FM</dd>
+<dd class="subsidiary">KBQI FM</dd>
+<dd class="subsidiary">KPEK FM</dd>
+<dd class="subsidiary">KSYU FM</dd>
+<dd class="subsidiary">KTEG FM</dd>
+<dd class="subsidiary">KZRR FM</dd>
+<dd>Farmington  </dd>
+<dd class="subsidiary">KAZX FM</dd>
+<dd class="subsidiary">KCQL AM</dd>
+<dd class="subsidiary">KDAG FM</dd>
+<dd class="subsidiary">KKFG FM</dd>
+<dd class="subsidiary">KTRA FM</dd>
+<dd>Gallup  </dd>
+<dd class="subsidiary">KFMQ FM</dd>
+<dd class="subsidiary">KFXR FM</dd>
+<dd class="subsidiary">KGLX FM</dd>
+<dd class="subsidiary">KXTC FM</dd>
+
+<dd class="location-label">New York</dd>
+<dd>Albany </dd>
+<dd class="subsidiary">WGY AM</dd>
+<dd class="subsidiary">WHRL FM</dd>
+<dd class="subsidiary">WKKF FM</dd>
+<dd class="subsidiary">WOFX AM</dd>
+<dd class="subsidiary">WPYX FM</dd>
+<dd class="subsidiary">WRVE FM</dd>
+<dd class="subsidiary">WTRY FM</dd>
+<dd>Binghamton   </dd>
+<dd class="subsidiary">WBBI FM</dd>
+<dd class="subsidiary">WENE AM</dd>
+<dd class="subsidiary">WINR AM</dd>
+<dd class="subsidiary">WKGB FM</dd>
+<dd class="subsidiary">WMRV FM</dd>
+<dd class="subsidiary">WMXW FM</dd>
+<dd>Nass-Suff  (LI)  </dd>
+<dd class="subsidiary">WALK AM</dd>
+<dd class="subsidiary">WALK FM</dd>
+<dd>New York   </dd>
+<dd class="subsidiary">WAXQ FM</dd>
+<dd class="subsidiary">WHTZ FM</dd>
+<dd class="subsidiary">WKTU FM</dd>
+<dd class="subsidiary">WLTW FM</dd>
+<dd class="subsidiary">WWPR FM</dd>
+<dd>Newburgh  </dd>
+<dd class="subsidiary">WELG AM</dd>
+<dd class="subsidiary">WRWC FM</dd>
+<dd>Poughkeepsie   </dd>
+<dd class="subsidiary">WBWZ FM</dd>
+<dd class="subsidiary">WCTW FM</dd>
+<dd class="subsidiary">WHUC AM</dd>
+<dd class="subsidiary">WKIP AM</dd>
+<dd class="subsidiary">WPKF FM</dd>
+<dd class="subsidiary">WRNQ FM</dd>
+<dd class="subsidiary">WRWD FM</dd>
+<dd class="subsidiary">WZCR FM</dd>
+<dd>Rochester  </dd>
+<dd class="subsidiary">WCRR FM</dd>
+<dd class="subsidiary">WDVI FM</dd>
+<dd class="subsidiary">WFXF FM</dd>
+<dd class="subsidiary">WHAM AM</dd>
+<dd class="subsidiary">WHTK AM</dd>
+<dd class="subsidiary">WKGS FM</dd>
+<dd class="subsidiary">WVOR FM</dd>
+<dd>Syracuse  </dd>
+<dd class="subsidiary">WBBS FM</dd>
+<dd class="subsidiary">WHEN AM</dd>
+<dd class="subsidiary">WPHR FM</dd>
+<dd class="subsidiary">WSYR AM</dd>
+<dd class="subsidiary">WWDG FM</dd>
+<dd class="subsidiary">WWHT FM</dd>
+<dd class="subsidiary">WYYY FM</dd>
+<dd>Utica   </dd>
+<dd class="subsidiary">WADR AM</dd>
+<dd class="subsidiary">WIXT AM</dd>
+<dd class="subsidiary">WOKR FM</dd>
+<dd class="subsidiary">WOUR FM</dd>
+<dd class="subsidiary">WRNY AM</dd>
+<dd class="subsidiary">WSKS FM</dd>
+<dd class="subsidiary">WSKU FM</dd>
+<dd class="subsidiary">WUMX FM</dd>
+<dd class="subsidiary">WUTQ AM</dd>
+
+<dd class="location-label">North Carolina</dd>
+<dd>Asheville NC  </dd>
+<dd class="subsidiary">WKSF FM</dd>
+<dd class="subsidiary">WMXF AM</dd>
+<dd class="subsidiary">WPEK AM</dd>
+<dd class="subsidiary">WQNQ FM</dd>
+<dd class="subsidiary">WQNS FM</dd>
+<dd class="subsidiary">WWNC AM</dd>
+<dd>Charlotte NC  </dd>
+<dd class="subsidiary">WEND FM</dd>
+<dd class="subsidiary">WIBT FM</dd>
+<dd class="subsidiary">WKKT FM</dd>
+<dd class="subsidiary">WLYT FM</dd>
+<dd class="subsidiary">WRFX FM</dd>
+<dd>Greensboro  </dd>
+<dd class="subsidiary">WGBT FM</dd>
+<dd class="subsidiary">WMAG FM</dd>
+<dd class="subsidiary">WMKS FM</dd>
+<dd class="subsidiary">WTQR FM</dd>
+<dd class="subsidiary">WVBZ FM</dd>
+<dd>Raleigh  </dd>
+<dd class="subsidiary">WDCG</dd>
+<dd class="subsidiary">WKSL FM</dd>
+<dd class="subsidiary">WRDU FM</dd>
+<dd class="subsidiary">WRVA FM</dd>
+<dd class="subsidiary">WTSB AM</dd>
+
+<dd class="location-label">North Dakota</dd>
+<dd>Bismarck  </dd>
+<dd class="subsidiary">KBMR AM</dd>
+<dd class="subsidiary">KFYR AM</dd>
+<dd class="subsidiary">KQDY FM</dd>
+<dd class="subsidiary">KSSS FM</dd>
+<dd class="subsidiary">KXMR AM</dd>
+<dd class="subsidiary">KYYY FM</dd>
+<dd>Dickinson  </dd>
+<dd class="subsidiary">KCAD FM</dd>
+<dd class="subsidiary">KLTC AM</dd>
+<dd class="subsidiary">KZRX FM</dd>
+<dd>Minot  </dd>
+<dd class="subsidiary">KCJB AM</dd>
+<dd class="subsidiary">KIZZ FM</dd>
+<dd class="subsidiary">KMXA FM</dd>
+<dd class="subsidiary">KRRZ AM</dd>
+<dd class="subsidiary">KYYX FM</dd>
+<dd class="subsidiary">KZPR FM</dd>
+<dd>Grand Forks  </dd>
+<dd class="subsidiary">KJKJ FM</dd>
+<dd class="subsidiary">KKXL AM</dd>
+<dd class="subsidiary">KKXL FM</dd>
+<dd class="subsidiary">KQHT FM</dd>
+<dd class="subsidiary">KSNR FM</dd>
+
+<dd class="location-label">Ohio</dd>
+<dd>Akron </dd>
+<dd class="subsidiary">WARF AM</dd>
+<dd class="subsidiary">WHLO AM</dd>
+<dd class="subsidiary">WKDD FM</dd>
+<dd>Ashland  </dd>
+<dd class="subsidiary">WNCO AM</dd>
+<dd class="subsidiary">WNCO FM</dd>
+<dd>Ashtabula  </dd>
+<dd class="subsidiary">WFUN AM</dd>
+<dd class="subsidiary">WFXJ FM</dd>
+<dd class="subsidiary">WREO FM</dd>
+<dd class="subsidiary">WYBL FM</dd>
+<dd class="subsidiary">WZOO FM</dd>
+<dd>Canton  </dd>
+<dd class="subsidiary">WHOF FM </dd>
+<dd class="subsidiary">WRQK FM</dd>
+<dd>Chillicothe  </dd>
+<dd class="subsidiary">WBEX AM</dd>
+<dd class="subsidiary">WCHI AM</dd>
+<dd class="subsidiary">WKKJ FM</dd>
+<dd>Cincinnati </dd>
+<dd class="subsidiary">WCKY AM</dd>
+<dd class="subsidiary">WEBN FM</dd>
+<dd class="subsidiary">WKFS FM</dd>
+<dd class="subsidiary">WKRC AM</dd>
+<dd class="subsidiary">WLW AM</dd>
+<dd class="subsidiary">WNNF FM</dd>
+<dd class="subsidiary">WOFX FM</dd>
+<dd class="subsidiary">WSAI AM</dd>
+<dd>Cleveland  </dd>
+<dd class="subsidiary">WAKS FM</dd>
+<dd class="subsidiary">WGAR FM</dd>
+<dd class="subsidiary">WMJI FM</dd>
+<dd class="subsidiary">WMMS FM</dd>
+<dd class="subsidiary">WMVX FM</dd>
+<dd class="subsidiary">WTAM AM</dd>
+<dd>Columbus  </dd>
+<dd class="subsidiary">WBWR FM</dd>
+<dd class="subsidiary">WCOL FM</dd>
+<dd class="subsidiary">WLZT FM</dd>
+<dd class="subsidiary">WNCI FM</dd>
+<dd class="subsidiary">WTVN AM</dd>
+<dd class="subsidiary">WYTS AM</dd>
+<dd>Dayton  </dd>
+<dd class="subsidiary">WDKF FM</dd>
+<dd class="subsidiary">WDSJ FM</dd>
+<dd class="subsidiary">WIZE AM</dd>
+<dd class="subsidiary">WLQT FM</dd>
+<dd class="subsidiary">WMMX FM</dd>
+<dd class="subsidiary">WONE AM</dd>
+<dd class="subsidiary">WTUE FM</dd>
+<dd class="subsidiary">WXEG FM</dd>
+<dd>Deﬁance  </dd>
+<dd class="subsidiary">WDFM FM</dd>
+<dd class="subsidiary">WNDH FM</dd>
+<dd class="subsidiary">WONW AM</dd>
+<dd class="subsidiary">WZOM FM</dd>
+<dd>Hillsboro OH  </dd>
+<dd class="subsidiary">WSRW AM</dd>
+<dd class="subsidiary">WSRW FM</dd>
+<dd>Lima  </dd>
+<dd class="subsidiary">WBUK FM</dd>
+<dd class="subsidiary">WIMA AM</dd>
+<dd class="subsidiary">WIMT FM</dd>
+<dd class="subsidiary">WLWD FM</dd>
+<dd class="subsidiary">WMLX FM</dd>
+<dd class="subsidiary">WZRX FM</dd>
+<dd>Mansﬁeld  </dd>
+<dd class="subsidiary">WMAN AM</dd>
+<dd class="subsidiary">WSWR FM</dd>
+<dd class="subsidiary">WYHT FM</dd>
+<dd>Marion </dd>
+<dd class="subsidiary">WDIF FM</dd>
+<dd class="subsidiary">WMRN AM</dd>
+<dd class="subsidiary">WMRN FM</dd>
+<dd class="subsidiary">WYNT FM</dd>
+<dd>Mt Vernon  </dd>
+<dd class="subsidiary">WFXN FM</dd>
+<dd class="subsidiary">WXXF FM</dd>
+<dd class="subsidiary">WXXR FM</dd>
+<dd>Sandusky  </dd>
+<dd class="subsidiary">WCPZ FM</dd>
+<dd class="subsidiary">WLEC AM</dd>
+<dd class="subsidiary">WMJK FM</dd>
+<dd>Tifﬁn </dd>
+<dd class="subsidiary">WTTF AM</dd>
+<dd>Toledo  </dd>
+<dd class="subsidiary">WCKY FM</dd>
+<dd class="subsidiary">WCWA AM</dd>
+<dd class="subsidiary">WIOT FM</dd>
+<dd class="subsidiary">WPFX FM</dd>
+<dd class="subsidiary">WRVF FM</dd>
+<dd class="subsidiary">WSPD AM</dd>
+<dd class="subsidiary">WVKS FM</dd>
+<dd>Wash Courthouse   </dd>
+<dd class="subsidiary">WCHO AM</dd>
+<dd class="subsidiary">WCHO FM</dd>
+<dd>Youngstown  </dd>
+<dd class="subsidiary">WAKZ FM</dd>
+<dd class="subsidiary">WBBG FM</dd>
+<dd class="subsidiary">WKBN AM</dd>
+<dd class="subsidiary">WMXY FM</dd>
+<dd class="subsidiary">WNCD FM</dd>
+<dd class="subsidiary">WNIO AM</dd>
+
+<dd class="location-label">Oklahoma</dd>
+<dd>Oklahoma Agrinet  @OKAN AM</dd>
+<dd>Oklahoma News Net  @OKNN AM</dd>
+<dd>Guymon </dd>
+<dd class="subsidiary">KGYN AM</dd>
+<dd>Oklahoma City  </dd>
+<dd class="subsidiary">KEBC AM</dd>
+<dd class="subsidiary">KHBZ FM</dd>
+<dd class="subsidiary">KJYO FM</dd>
+<dd class="subsidiary">KTOK AM</dd>
+<dd class="subsidiary">KTST FM</dd>
+<dd class="subsidiary">KXXY FM</dd>
+<dd>Tulsa  </dd>
+<dd class="subsidiary">KAKC AM</dd>
+<dd class="subsidiary">KIZS FM</dd>
+<dd class="subsidiary">KMOD FM</dd>
+<dd class="subsidiary">KQLL FM</dd>
+<dd class="subsidiary">KTBT FM</dd>
+<dd class="subsidiary">KTBZ AM</dd>
+
+<dd class="location-label">Oregon</dd>
+<dd>Portland  </dd>
+<dd class="subsidiary">KEX AM</dd>
+<dd class="subsidiary">KKCW FM</dd>
+<dd class="subsidiary">KKRZ FM</dd>
+<dd class="subsidiary">KPOJ AM</dd>
+<dd class="subsidiary">KQOL FM</dd>
+
+<dd class="location-label">Pennsylvania</dd>
+<dd>Penn State Radio Net  @PSRN AM</dd>
+<dd>Allentown  </dd>
+<dd class="subsidiary">WAEB AM</dd>
+<dd class="subsidiary">WAEB FM</dd>
+<dd class="subsidiary">WSAN AM</dd>
+<dd class="subsidiary">WZZO FM</dd>
+<dd>Harrisburg  </dd>
+<dd class="subsidiary">WHKF FM</dd>
+<dd class="subsidiary">WHP AM</dd>
+<dd class="subsidiary">WKBO AM</dd>
+<dd class="subsidiary">WRBT FM</dd>
+<dd class="subsidiary">WRVV FM</dd>
+<dd class="subsidiary">WTKT AM</dd>
+<dd>Lancaster  </dd>
+<dd class="subsidiary">WLAN AM</dd>
+<dd class="subsidiary">WLAN FM</dd>
+<dd>Philadelphia  </dd>
+<dd class="subsidiary">WDAS FM</dd>
+<dd class="subsidiary">WIOQ FM</dd>
+<dd class="subsidiary">WISX FM</dd>
+<dd class="subsidiary">WRFF FM</dd>
+<dd class="subsidiary">WUBA AM</dd>
+<dd class="subsidiary">WUSL FM</dd>
+<dd>Pittsburgh </dd>
+<dd class="subsidiary">WBGG AM</dd>
+<dd class="subsidiary">WDVE FM</dd>
+<dd class="subsidiary">WKST FM</dd>
+<dd class="subsidiary">WPGB FM</dd>
+<dd class="subsidiary">WWSW FM</dd>
+<dd class="subsidiary">WXDX FM</dd>
+<dd>Reading  </dd>
+<dd class="subsidiary">WRAW AM</dd>
+<dd class="subsidiary">WRFY FM</dd>
+<dd>Williamsport  </dd>
+<dd class="subsidiary">WBLJ FM</dd>
+<dd class="subsidiary">WBYL FM</dd>
+<dd class="subsidiary">WKSB FM</dd>
+<dd class="subsidiary">WRAK AM</dd>
+<dd class="subsidiary">WRKK AM</dd>
+<dd class="subsidiary">WVRT FM</dd>
+<dd class="subsidiary">WVRZ FM</dd>
+
+<dd class="location-label">Rhode Island</dd>
+<dd>Providence   </dd>
+<dd class="subsidiary">WHJJ AM</dd>
+<dd class="subsidiary">WHJY FM</dd>
+<dd class="subsidiary">WSNE FM</dd>
+<dd class="subsidiary">WWBB FM</dd>
+
+<dd class="location-label">South Carolina</dd>
+<dd>Charleston   </dd>
+<dd class="subsidiary">WALC FM</dd>
+<dd class="subsidiary">WEZL FM</dd>
+<dd class="subsidiary">WLTQ AM</dd>
+<dd class="subsidiary">WRFQ FM</dd>
+<dd class="subsidiary">WSCC FM</dd>
+<dd class="subsidiary">WXLY FM</dd>
+<dd>Columbia   </dd>
+<dd class="subsidiary">WCOS AM</dd>
+<dd class="subsidiary">WCOS FM</dd>
+<dd class="subsidiary">WLTY FM</dd>
+<dd class="subsidiary">WNOK FM</dd>
+<dd class="subsidiary">WVOC AM</dd>
+<dd class="subsidiary">WXBT FM</dd>
+<dd>Greenville   </dd>
+<dd class="subsidiary">WBZT FM</dd>
+<dd class="subsidiary">WESC FM</dd>
+<dd class="subsidiary">WGVL AM</dd>
+<dd class="subsidiary">WMYI FM</dd>
+<dd class="subsidiary">WSSL FM</dd>
+
+<dd class="location-label">Tennessee</dd>
+<dd>Tenn Agrinet  @TNAN AM</dd>
+<dd>Tenn Rad Net  @TNRN AM</dd>
+<dd>Chattanooga </dd>
+<dd class="subsidiary">WLND FM</dd>
+<dd class="subsidiary">WRXR FM</dd>
+<dd class="subsidiary">WUSY FM</dd>
+<dd>Cookeville  </dd>
+<dd class="subsidiary">WAKI AM</dd>
+<dd class="subsidiary">WBMC AM</dd>
+<dd class="subsidiary">WGIC FM</dd>
+<dd class="subsidiary">WGSQ FM</dd>
+<dd class="subsidiary">WHUB AM</dd>
+<dd class="subsidiary">WKZP FM</dd>
+<dd class="subsidiary">WPTN AM</dd>
+<dd class="subsidiary">WRKK FM</dd>
+<dd class="subsidiary">WSMT AM</dd>
+<dd class="subsidiary">WTRZ FM</dd>
+<dd class="subsidiary">WTZX AM</dd>
+<dd>Memphis  </dd>
+<dd class="subsidiary">KJMS FM</dd>
+<dd class="subsidiary">WDIA AM</dd>
+<dd class="subsidiary">WEGR FM</dd>
+<dd class="subsidiary">WHAL FM</dd>
+<dd class="subsidiary">WHRK FM</dd>
+<dd class="subsidiary">WREC AM</dd>
+<dd>Nashville </dd>
+<dd class="subsidiary">WLAC AM</dd>
+<dd class="subsidiary">WNRQ FM</dd>
+<dd class="subsidiary">WRVW FM</dd>
+<dd class="subsidiary">WSIX FM</dd>
+<dd class="subsidiary">WUBT FM</dd>
+
+<dd class="location-label">Texas</dd>
+<dd>Austin  </dd>
+<dd class="subsidiary">KASE FM</dd>
+<dd class="subsidiary">KFMK FM</dd>
+<dd class="subsidiary">KHFI FM</dd>
+<dd class="subsidiary">KPEZ FM</dd>
+<dd class="subsidiary">KVET AM</dd>
+<dd class="subsidiary">KVET FM</dd>
+<dd>Beaumont  </dd>
+<dd class="subsidiary">KCOL FM</dd>
+<dd class="subsidiary">KIOC FM</dd>
+<dd class="subsidiary">KKMY FM</dd>
+<dd class="subsidiary">KLVI AM</dd>
+<dd class="subsidiary">KYKR FM</dd>
+<dd>Bryan  </dd>
+<dd class="subsidiary">KAGG FM</dd>
+<dd class="subsidiary">KKYS FM</dd>
+<dd class="subsidiary">KNFX FM</dd>
+<dd class="subsidiary">KVJM FM</dd>
+<dd>El Paso  </dd>
+<dd class="subsidiary">KHEY AM</dd>
+<dd class="subsidiary">KHEY FM</dd>
+<dd class="subsidiary">KPRR FM</dd>
+<dd class="subsidiary">KTSM AM</dd>
+<dd class="subsidiary">KTSM FM</dd>
+<dd class="subsidiary">XEPR FM</dd>
+<dd>Houston  </dd>
+<dd class="subsidiary">KBME AM</dd>
+<dd class="subsidiary">KHMX FM</dd>
+<dd class="subsidiary">KKRW FM</dd>
+<dd class="subsidiary">KLOL FM</dd>
+<dd class="subsidiary">KODA FM</dd>
+<dd class="subsidiary">KPRC AM</dd>
+<dd class="subsidiary">KTBZ FM</dd>
+<dd class="subsidiary">KTRH AM</dd>
+<dd>Kileen-Temple TX  </dd>
+<dd class="subsidiary">KIIZ FM</dd>
+<dd class="subsidiary">KLFX FM</dd>
+<dd>McAllen  </dd>
+<dd class="subsidiary">KBFM FM</dd>
+<dd class="subsidiary">KHKZ FM</dd>
+<dd class="subsidiary">KQXX FM</dd>
+<dd class="subsidiary">KTEX FM</dd>
+<dd class="subsidiary">KVNS AM</dd>
+<dd>San Antonio  </dd>
+<dd class="subsidiary">KAJA FM</dd>
+<dd class="subsidiary">KQXT FM</dd>
+<dd class="subsidiary">KRPT FM</dd>
+<dd class="subsidiary">KTKR AM</dd>
+<dd class="subsidiary">KXXM FM</dd>
+<dd class="subsidiary">WOAI AM</dd>
+<dd>Waco  </dd>
+<dd class="subsidiary">KBGO FM</dd>
+<dd class="subsidiary">KBRQ FM</dd>
+<dd class="subsidiary">KWTX AM</dd>
+<dd class="subsidiary">KWTX FM</dd>
+<dd class="subsidiary">WACO FM</dd>
+
+<dd class="location-label">Utah</dd>
+<dd>Salt Lake City  </dd>
+<dd class="subsidiary">KJMY FM</dd>
+<dd class="subsidiary">KNRS AM</dd>
+<dd class="subsidiary">KODJ FM</dd>
+<dd class="subsidiary">KOSY FM</dd>
+<dd class="subsidiary">KXRV FM</dd>
+<dd class="subsidiary">KZHT FM</dd>
+
+<dd class="location-label">Vermont</dd>
+<dd>Burlington  </dd>
+<dd class="subsidiary">WCPV FM</dd>
+<dd class="subsidiary">WEAV AM</dd>
+<dd class="subsidiary">WEZF FM</dd>
+<dd class="subsidiary">WVTK FM</dd>
+<dd class="subsidiary">WXZO FM</dd>
+<dd>Lebanon (VT-NH)  </dd>
+<dd class="subsidiary">WCVR FM</dd>
+<dd class="subsidiary">WGXL FM</dd>
+<dd class="subsidiary">WMXR FM</dd>
+<dd class="subsidiary">WTSJ AM</dd>
+<dd class="subsidiary">WTSL AM</dd>
+<dd class="subsidiary">WTSM FM</dd>
+<dd class="subsidiary">WVRR FM</dd>
+<dd class="subsidiary">WXXK FM</dd>
+
+<dd class="location-label">Virginia</dd>
+<dd>Virginia News Net  @VRNN AM</dd>
+<dd>Harrisonburg   </dd>
+<dd class="subsidiary">WACL FM</dd>
+<dd class="subsidiary">WAZR FM</dd>
+<dd class="subsidiary">WKCY AM</dd>
+<dd class="subsidiary">WKCY FM</dd>
+<dd>Norfolk  </dd>
+<dd class="subsidiary">WCDG FM</dd>
+<dd class="subsidiary">WJCD FM</dd>
+<dd class="subsidiary">WKUS FM</dd>
+<dd class="subsidiary">WOWI FM</dd>
+<dd>Richmond  </dd>
+<dd class="subsidiary">WBTJ FM</dd>
+<dd class="subsidiary">WRNL AM</dd>
+<dd class="subsidiary">WRVA AM</dd>
+<dd class="subsidiary">WRVQ FM</dd>
+<dd class="subsidiary">WRXL FM</dd>
+<dd class="subsidiary">WTVR FM</dd>
+<dd>Roanoke  </dd>
+<dd class="subsidiary">WJJS FM</dd>
+<dd class="subsidiary">WJJX FM</dd>
+<dd class="subsidiary">WROV FM</dd>
+<dd class="subsidiary">WSNV FM</dd>
+<dd class="subsidiary">WSNZ FM</dd>
+<dd class="subsidiary">WYYD FM</dd>
+<dd class="subsidiary">WZBL FM</dd>
+<dd>Staunton  </dd>
+<dd class="subsidiary">WKCI AM</dd>
+<dd class="subsidiary">WKDW AM</dd>
+<dd class="subsidiary">WSVO FM</dd>
+<dd>Winchester  </dd>
+<dd class="subsidiary">WFQX FM</dd>
+<dd class="subsidiary">WKSI FM</dd>
+<dd class="subsidiary">WMRE AM</dd>
+<dd class="subsidiary">WTFX AM</dd>
+<dd class="subsidiary">WUSQ FM</dd>
+
+<dd class="location-label">Washington State</dd>
+<dd>Centralia  </dd>
+<dd class="subsidiary">KELA AM</dd>
+<dd class="subsidiary">KMNT FM</dd>
+<dd>Seattle   </dd>
+<dd class="subsidiary">KFNK FM</dd>
+<dd class="subsidiary">KHHO AM</dd>
+<dd class="subsidiary">KJR AM</dd>
+<dd class="subsidiary">KJR FM</dd>
+<dd class="subsidiary">KNBQ FM</dd>
+<dd class="subsidiary">KUBE FM</dd>
+<dd>Spokane  </dd>
+<dd class="subsidiary">KCDA FM</dd>
+<dd class="subsidiary">KISC FM</dd>
+<dd class="subsidiary">KIXZ FM</dd>
+<dd class="subsidiary">KKZX FM</dd>
+<dd class="subsidiary">KPTQ AM</dd>
+<dd class="subsidiary">KQNT AM</dd>
+<dd>Tri-Cities </dd>
+<dd class="subsidiary">KEYW FM</dd>
+<dd class="subsidiary">KFLD AM</dd>
+<dd class="subsidiary">KOLW FM</dd>
+<dd class="subsidiary">KORD FM</dd>
+<dd class="subsidiary">KXRX FM</dd>
+<dd>Yakima  </dd>
+<dd class="subsidiary">KATS FM</dd>
+<dd class="subsidiary">KDBL FM</dd>
+<dd class="subsidiary">KFFM FM</dd>
+<dd class="subsidiary">KIT AM</dd>
+<dd class="subsidiary">KQSN FM</dd>
+<dd class="subsidiary">KUTI AM</dd>
+
+<dd class="location-label">Washington D.C.</dd>
+<dd class="subsidiary">WASH FM</dd>
+<dd class="subsidiary">WBIG FM</dd>
+<dd class="subsidiary">WIHT FM</dd>
+<dd class="subsidiary">WMZQ FM</dd>
+<dd class="subsidiary">WTEM AM</dd>
+<dd class="subsidiary">WTNT AM</dd>
+<dd class="subsidiary">WWDC FM</dd>
+<dd class="subsidiary">WWRC AM</dd>
+
+<dd class="location-label">West Virginia</dd>
+<dd>Hunt-Ashland   </dd>
+<dd class="subsidiary">WAMX FM</dd>
+<dd class="subsidiary">WBKS FM</dd>
+<dd class="subsidiary">WBVB FM</dd>
+<dd class="subsidiary">WIRO AM</dd>
+<dd class="subsidiary">WKEE FM</dd>
+<dd class="subsidiary">WTCR AM</dd>
+<dd class="subsidiary">WTCR FM</dd>
+<dd class="subsidiary">WVHU AM</dd>
+<dd class="subsidiary">WZZW AM</dd>
+<dd>Parkersburg  </dd>
+<dd class="subsidiary">WDMX FM</dd>
+<dd class="subsidiary">WHNK AM</dd>
+<dd class="subsidiary">WLTP AM</dd>
+<dd class="subsidiary">WNUS FM</dd>
+<dd class="subsidiary">WRVB FM</dd>
+<dd class="subsidiary">WVVV FM</dd>
+<dd>Wheeling  </dd>
+<dd class="subsidiary">WBBD AM</dd>
+<dd class="subsidiary">WEGW FM</dd>
+<dd class="subsidiary">WKWK FM</dd>
+<dd class="subsidiary">WOVK FM</dd>
+<dd class="subsidiary">WVKF FM</dd>
+<dd class="subsidiary">WWVA AM</dd>
+
+<dd class="location-label">Wisconsin</dd>
+<dd>Eau Claire  </dd>
+<dd class="subsidiary">WATQ FM</dd>
+<dd class="subsidiary">WBIZ AM</dd>
+<dd class="subsidiary">WBIZ FM</dd>
+<dd class="subsidiary">WISM FM</dd>
+<dd class="subsidiary">WMEQ AM</dd>
+<dd class="subsidiary">WMEQ FM</dd>
+<dd class="subsidiary">WQRB FM</dd>
+<dd>Madison  </dd>
+<dd class="subsidiary">WIBA AM</dd>
+<dd class="subsidiary">WIBA FM</dd>
+<dd class="subsidiary">WMAD FM</dd>
+<dd class="subsidiary">WTSO AM</dd>
+<dd class="subsidiary">WXXM FM</dd>
+<dd class="subsidiary">WZEE FM</dd>
+<dd>Milwaukee  </dd>
+<dd class="subsidiary">WISN AM</dd>
+<dd class="subsidiary">WKKV FM</dd>
+<dd class="subsidiary">WMIL FM</dd>
+<dd class="subsidiary">WOKY AM</dd>
+<dd class="subsidiary">WQBW FM</dd>
+<dd class="subsidiary">WRIT FM</dd>
+
+<dd class="location-label">Wyoming</dd>
+<dd>Casper  </dd>
+<dd class="subsidiary">KKTL AM</dd>
+<dd class="subsidiary">KMGW FM</dd>
+<dd class="subsidiary">KRVK FM</dd>
+<dd class="subsidiary">KTRS FM</dd>
+<dd class="subsidiary">KTWO AM</dd>
+<dd class="subsidiary">KWYY FM</dd>
+<dd class="subsidiary"><dd>Cheyenne WY  </dd>
+<dd class="subsidiary">KGAB AM</dd>
+<dd class="subsidiary">KIGN FM</dd>
+<dd class="subsidiary">KLEN FM</dd>
+<dd class="subsidiary">KOLZ FM</dd>
+<dd>Laramie  </dd>
+<dd class="subsidiary">KCGY FM</dd>
+<dd class="subsidiary">KOWB AM</dd>
+
+<dd class="location-label">Other</dd>
+<dd>CC Trafﬁc  @TRAF AM</dd>
+<dd>Clear Channel St Net  @CCSN AM</dd>
+<dd>Voice of SW AG  @VSAN AM</dd>
+<dd>Yancy AG Net  @YANC AM</dd>
+
+<dt class="separate-section">Clear Channel International</dt>
+<dd>Australia</dd>
+<dd class="subsidiary">Cruise 1323 AM (Adelaide)</dd>
+<dd class="subsidiary">Mix 102.3 (Adelaide)</dd>
+<dd class="subsidiary">4KQ (Brisbane)</dd>
+<dd class="subsidiary">97.3 FM (Brisbane)</dd>
+<dd class="subsidiary">FM 104.7 (Canberra)</dd>
+<dd class="subsidiary">Mix 106.3 (Canberra)</dd>
+<dd class="subsidiary">Gold FM (Melbourne)</dd>
+<dd class="subsidiary">Mix 101.1 (Melbourne)</dd>
+<dd class="subsidiary">Nova (Perth)</dd>
+<dd class="subsidiary">Mix 106.5 (Sydney)</dd>
+<dd class="subsidiary">The Edge (Sydney)</dd>
+<dd class="subsidiary">WSFM (Sydney)</dd>
+<dd>New Zealand</dd></dd>
+<dd class="location-label">Ashburton/Mid Canterbury</dd>
+<dd class="subsidiary">Newstalk ZB 873AM</dd>
+<dd class="subsidiary">Classic Hits 92.5FM/89.3FM</dd>
+
+<dd class="location-label">(Auckland)</dd>
+<dd class="subsidiary">Newstalk ZB 1080AM/89.4FM</dd>
+<dd class="subsidiary">Classic Hits 97.4FM</dd>
+<dd class="subsidiary">ZM 91.0FM</dd>
+<dd class="subsidiary">Radio Sport 1332AM</dd>
+<dd class="subsidiary">Hauraki Amped 99.0FM</dd>
+<dd class="subsidiary">Easy Mix 98.2FM </dd>
+<dd class="subsidiary">Coast 105.4 </dd>
+<dd class="subsidiary">Flava 95.8FM </dd>
+
+<dd class="location-label">Blenheim/Marlborough</dd>
+<dd class="subsidiary">Newstalk ZB 92.1FM</dd>
+<dd class="subsidiary">Classic Hits 96.9FM (89.1FM and 1539AM Picton) </dd>
+<dd class="subsidiary">ZM 90.5FM </dd>
+<dd class="subsidiary">Radio Sport 98.5FM </dd>
+<dd class="subsidiary">Hauraki Amped 94.5FM </dd>
+
+<dd class="location-label">Central Otago</dd>
+<dd class="subsidiary">Newstalk ZB 98.6FM (Queenstown), 95.1FM (Alexandra), and 96.2FM (Wanaka)</dd>
+<dd class="subsidiary">Classic Hits 90.4FM (Queenstown), 99.9FM (Alexandra), and 96.2FM (Wanaka)</dd>
+
+<dd class="location-label">Christchurch</dd>
+<dd class="subsidiary">Newstalk ZB 100.1FM/1098AM </dd>
+<dd class="subsidiary">Classic Hits 97.7FM/96.5FM </dd>
+<dd class="subsidiary">ZM 91.3FM (90.9FM Sumner) </dd>
+<dd class="subsidiary">Radio Sport 1017AM (702AM Mid Canterbury) </dd>
+<dd class="subsidiary">Hauraki Amped 106.5FM (89.3FM Sumner) </dd>
+<dd class="subsidiary">Coast 1593AM </dd>
+
+<dd class="location-label">Dunedin/Otago</dd>
+<dd class="subsidiary">Newstalk ZB 1044AM </dd>
+<dd class="subsidiary">Classic Hits 89.4FM </dd>
+<dd class="subsidiary">ZM 95.8FM </dd>
+<dd class="subsidiary">Radio Sport 693AM </dd>
+<dd class="subsidiary">Hauraki Amped 88.3FM and 106.7FM </dd>
+
+<dd class="location-label">Greymouth/Westport</dd>
+<dd class="subsidiary">Newstalk ZB 98.7FM (1287AM Westport) </dd>
+<dd class="subsidiary">Classic Hits 90.7FM (93.1FM hokitika, 97.5FM Reefton, 90.9FM Westport, and 90.5FM South Westland) </dd>
+<dd class="subsidiary">Radio Sport 89.9FM </dd>
+
+<dd class="location-label">Hamilton/Waikato</dd>
+<dd class="subsidiary">Newstalk ZB 1296AM/97.0FM </dd>
+<dd class="subsidiary">Classic Hits 98.6FM </dd>
+<dd class="subsidiary">ZM 89.8FM </dd>
+<dd class="subsidiary">Radio Sport 792AM </dd>
+<dd class="subsidiary">Hauraki Amped 96.2FM </dd>
+<dd class="subsidiary">Coast 105.0FM </dd>
+
+<dd class="location-label">Invercargill/Southland</dd>
+<dd class="subsidiary">Newstalk ZB 864AM</dd>
+<dd class="subsidiary">Classic Hits 98.8FM (90.4FM Te Anau) </dd>
+<dd class="subsidiary">ZM 95.6FM </dd>
+<dd class="subsidiary">Radio Sport 558AM </dd>
+<dd class="subsidiary">Hauraki Amped 93.2FM </dd>
+<dd class="subsidiary">Coast 92.4FM </dd>
+<dd class="subsidiary">Hokonui Gold in Gore 94.8FM </dd>
+<dd class="subsidiary">Tapanui 95.2FM </dd>
+<dd class="subsidiary">Radio Clutha 91.3FM </dd>
+
+<dd class="location-label">Kapiti/Horowhenua</dd>
+<dd class="subsidiary">Newstalk ZB 89.5</dd>
+<dd class="subsidiary">Classic Hits 92.7 </dd>
+<dd class="subsidiary">ZM 91.1 </dd>
+<dd class="subsidiary">Radio Sport 1377AM </dd>
+<dd class="subsidiary">Coast 95.9 </dd>
+
+<dd class="location-label">Masterton/Wairarapa</dd>
+<dd class="subsidiary">Newstalk ZB 846AM </dd>
+<dd class="subsidiary">Classic Hits 90.3FM </dd>
+<dd class="subsidiary">ZM 94.3FM </dd>
+<dd class="subsidiary">Radio Sport 91.9FM </dd>
+
+<dd class="location-label">Napier/Hawke's Bay</dd>
+<dd class="subsidiary">Newstalk ZB 90.3FM/1278AM </dd>
+<dd class="subsidiary">Classic Hits 89.5FM (Wairoa 99.7FM) </dd>
+<dd class="subsidiary">ZM 95.9FM </dd>
+<dd class="subsidiary">Radio Sport 1125AM </dd>
+<dd class="subsidiary">Hauraki Amped 99.9FM </dd>
+<dd class="subsidiary">Coast 1584AM </dd>
+<dd class="subsidiary">Flava 96.7FM </dd>
+
+<dd class="location-label">Nelson</dd>
+<dd class="subsidiary">Newstalk ZB 1341AM</dd>
+<dd class="subsidiary">Classic Hits 89.6FM (Takaha 1269AM) </dd>
+<dd class="subsidiary">ZM 96.8FM </dd>
+<dd class="subsidiary">Radio Sport 549AM </dd>
+<dd class="subsidiary">Hauraki Amped 90.4FM </dd>
+<dd class="subsidiary">Coast 100.8FM </dd>
+
+<dd class="location-label">New Plymouth/Taranaki</dd>
+<dd class="subsidiary">Newstalk ZB 1053AM (1278AM Hawera) </dd>
+<dd class="subsidiary">Classic Hits 90.0FM (91.2FM Okato to Opunake) </dd>
+<dd class="subsidiary">ZM 98.8FM (New Plymouth/Taranaki)</dd>
+<dd class="subsidiary">Radio Sport 774AM </dd>
+<dd class="subsidiary">Hauraki Amped 90.8FM </dd>
+<dd class="subsidiary">Coast 1359AM North Taranaki, 1557AM South Taranaki, 94.4FM Central Taranaki, and Hawera 88.2FM  </dd>
+
+<dd class="location-label">Oamaru/Waitaki</dd>
+<dd class="subsidiary">Newstalk ZB 1395AM</dd>
+<dd class="subsidiary">Classic Hits 98.4FM</dd>
+
+<dd class="location-label">Palmerston North/Manawatu</dd>
+<dd class="subsidiary">Newstalk ZB 927AM</dd>
+<dd class="subsidiary">Classic Hits 97.8FM</dd>
+<dd class="subsidiary">ZM 90.6FM </dd>
+<dd class="subsidiary">Radio Sport 1089AM </dd>
+<dd class="subsidiary">Hauraki Amped 105.8FM</dd>
+
+<dd class="location-label">Rotorua</dd>
+<dd class="subsidiary">Newstalk ZB 747AM </dd>
+<dd class="subsidiary">Classic Hits 97.5FM/90.8FM </dd>
+<dd class="subsidiary">ZM 98.3FM </dd>
+<dd class="subsidiary">Radio Sport 1350AM </dd>
+<dd class="subsidiary">Hauraki Amped 94.3FM </dd>
+<dd class="subsidiary">Coast 96.7FM </dd>
+<dd class="subsidiary">Flava 89.5FM </dd>
+
+<dd class="location-label">Taupo</dd>
+<dd class="subsidiary">Newstalk ZB 96FM </dd>
+<dd class="subsidiary">Classic Hits 96.8FM </dd>
+<dd class="subsidiary">Radio Sport 90.4FM </dd>
+<dd class="subsidiary">Hauraki Amped 92.8FM </dd>
+
+<dd class="location-label">Tauranga/Bay of Plenty</dd>
+<dd class="subsidiary">Newstalk ZB 90.2FM/1008AM </dd>
+<dd class="subsidiary">Classic Hits 95.0FM </dd>
+<dd class="subsidiary">ZM 89.4FM (Tauranga/Bay of Plenty)</dd>
+<dd class="subsidiary">Radio Sport 1521AM (Tauranga/Bay of Plenty)</dd>
+<dd class="subsidiary">Hauraki Amped 91.0FM (Tauranga/Bay of Plenty)</dd>
+<dd class="subsidiary">Easy Mix 99.0FM (Tauranga/Bay of Plenty)</dd>
+<dd class="subsidiary">Coast 97.4FM (Tauranga/Bay of Plenty)</dd>
+
+<dd class="location-label"></dd>
+<dd class="subsidiary">Newstalk ZB 1152AM (Timaru/South Canterbury)</dd>
+<dd class="subsidiary">Classic Hits 94.7FM (98.7FM South Canterbury) </dd>
+<dd class="subsidiary">ZM 96.3FM </dd>
+<dd class="subsidiary">Radio Sport 1494AM </dd>
+<dt class="separate-section">Online Properties</dt>
+<dd>iheartradio</dd>
+<dt class="separate-section">Other</dt></dd>
+<dd>Clear Channel Communications News Networks</dd>
+<dd>Clear Channel Outdoor</dd>
+<dd>Critical Mass Media</dd>
+<dd>Inside Radio</dd>
+<dd>Katz Media Group</dd>
+<dd>Premiere Radio Networks (Syndication)</dd>
+<dd>Twelve Creative</dd>
+<dd>RCS</dd>
+
+<dd class="datestamp">last updated 7/3/2011</dd>
+</dl>                        
+                     </div>
+                     
+                     
+            	</div>
+			</div>
+            
+			
+            
+		</div>
+	</section>
+
+	<!-- footer section -->
+    <footer class="nocontent hidden-print">
+		<section id="newsletter">
+			<div class="nocontent container-fluid">
+				<div class="row">
+					<h3 class="invert text-center">Weekly highlights</h3>
+					<h5 class="invert text-center">Subscribe to the best of CJR, compiled by the editors every Thursday.</h5>
+				</div>
+				<form class="col-sm-4 col-sm-offset-4" id="email-new" action="http://cjr.us3.list-manage1.com/subscribe/post?u=a23440a018c7ba0619c6f01e6&amp;id=c6de9a59ea" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" novalidate>
+                
+				  <div class="form-group">                    
+                    <input type="email" class="form-control" name="EMAIL" id="mce-EMAIL" placeholder="Enter email" />
+				  </div>
+				  <a type="submit" class="btn invert form-btn center-block" onclick="document.getElementById('email-new').submit(); return false;">Sign up</a>                               
+				</form>
+			</div>
+		</section>
+		<section id="footer-items">
+			<div class="nocontent container-fluid">
+				<div class="row">
+					<div class="col-sm-3">
+						<a href="http://www.cjr.org/about_us/mission_statement.php"><small><strong>About us</strong></small></a>
+						<ul class="list-unstyled">
+							<a href="http://www.cjr.org/contact/contact.php"><li>Contact us</li></a>
+							<a href="http://www.cjr.org/about_us/mission_statement.php"><li>About Columbia Journalism Review</li></a>
+							<a href="http://www.cjr.org/join/for-past-print-subscribers.php"><li>CJR Print Subscriber Update</li></a>
+					                <a href="http://www.cjr.org/about_us/masthead.php"><li>Masthead</li></a>
+							<a href="http://www.cjr.org/about_us/privacy_policy.php"><li>Privacy policy</li></a>
+						</ul>
+					</div>
+					<div class="col-sm-3">
+						<small><strong>Join &amp; Donate</strong></small>
+						<ul class="list-unstyled">
+							<a href="http://www.cjr.org/join/membership.php"><li>Become a member of Columbia Journalism Review</li></a>
+							<a href="http://www.cjr.org/contact/donate.php"><li>Donate to support CJR&rsquo;s mission</li></a>
+						</ul>
+					</div>
+					<div class="col-sm-3">
+						<a href="http://www.cjr.org/advertise/about_our_readers.php"><small><strong>Advertise</strong></small></a>
+						<ul class="list-unstyled">
+							<a href="http://www.cjr.org/advertise/about_our_readers.php"><li>Contact us for more information</li></a>
+							<a href="http://www.cjrarchive.org/advertise/pdfs/CJR-digital-ad-rates-2016.pdf" target="_blank"><li>Digital ad rates</li></a>
+							
+						</ul>
+					</div>
+					<div class="col-sm-3">
+						<a href="http://www.cjr.org/resources/"><small><strong>Resources</strong></small></a>
+						<ul class="list-unstyled">
+							<a href="http://www.cjr.org/tow-center/more_tow_center_reports.php"><li>Research from the Tow Center for Digital Journalism</li></a>
+							<a href="http://www.cjr.org/resources/"><li>Who owns what?</li></a>
+							<a href="http://www.cjr.org/the_delacorte_lectures/all.php"><li>Delacorte Lectures on Magazine Journalism</li></a>
+							<a href="http://www.cjr.org/news_startups_guide/"><li>Guide to online news startups</li></a>
+							<a href="http://www.cjr.org/resources/magazines_and_their_websites/"><li>Magazines and their websites: A CJR survey and report</li></a>
+							<a href="http://cjr.org/supportreporting/"><li>Support reporting</li></a>
+							<a href="http://www.cjr.org/resources/studyguides/index.php"><li>Study guides</li></a>
+						</ul>
+					</div>
+				</div>
+				<div class="row text-center">
+					<ul class="col-sm-12 list-unstyled">
+						<li>&copy; Copyright 2017 Columbia Journalism Review</li>
+					</ul>
+				</div>
+			</div>
+		</section>
+	</footer>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2442246-6', 'auto');
+  ga('send', 'pageview');
+
+</script>
+    
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
+<script src="../_resources2015/js/who_owns_what_2015.js" type="text/javascript"></script>
+<script src="../_resources2015/js/nav.js"></script>
+
+</html>
